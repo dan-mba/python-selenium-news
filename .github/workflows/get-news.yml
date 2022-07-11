@@ -26,6 +26,7 @@ jobs:
 
       - name: Setup Chrome Driver Path
         run: |
+          which chromedriver
           echo "export CHROMEDRIVER_PATH=$(which chromedriver)" >> $GITHUB_ENV
 
       - name: Run Scraping Script
