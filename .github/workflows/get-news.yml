@@ -35,8 +35,8 @@ jobs:
 
       - name: Copy News to Readme
         run: |
-          cp Readme-base.md Readme.md
-          cat news.md >> Readme.md
+          cp README-base.md README.md
+          cat news.md >> README.md
 
       - name: Commit files
         run: |
