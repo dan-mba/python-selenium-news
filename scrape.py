@@ -5,7 +5,8 @@ import pandas as pd
 import os
 
 cwd_path = os.getcwd()
-driver_path = os.path.join(cwd_path, 'bin', 'chromedriver')
+test_driver_path = os.path.join(cwd_path, 'bin', 'chromedriver')
+driver_path = os.environ.get('CHROMEDRIVER_PATH', test_driver_path)
 
 web = 'https://www.google.com/search?q=JavaScript&tbm=nws&tbs=qdr:w&dpr=1'
 
