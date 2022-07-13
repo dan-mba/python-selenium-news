@@ -22,9 +22,14 @@ titles = []
 sites = []
 links = []
 for container in containers:
-    title = container.find_element(by='xpath', value='././div/a/div/div[2]/div[2]').text.replace('|', '')
-    site = container.find_element(by='xpath', value='./div/a/div/div[2]/div[1]/span').text.replace('|', '')
     link = container.find_element(by='xpath', value='./div/a').get_attribute('href')
+    # articles without an img are displayed differently
+    try:
+        title = container.find_element(by='xpath', value='./div/a/div/div[2]/div[2]').text.replace('|', '')
+        site = container.find_element(by='xpath', value='./div/a/div/div[2]/div[1]/span').text.replace('|', '')
+    except:
+        title = container.find_element(by='xpath', value='./div/a/div/div/div[2]').text.replace('|', '')
+        site = container.find_element(by='xpath', value='./div/a/div/div/div[1]/span').text.replace('|', '')
     titles.append(title)
     sites.append(site)
     links.append(link)
