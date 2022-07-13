@@ -38,7 +38,7 @@ jobs:
       - name: Copy News to Readme
         run: |
           cp README-base.md README.md
-          echo '\n$(date '+%A %B %d %Y')\n\n' >> README.md
+          echo "\n$(date '+%A %B %d %Y')\n\n" >> README.md
           cat news.md >> README.md
 
       - name: Commit files
