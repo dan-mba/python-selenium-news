@@ -5,7 +5,10 @@ I chose JavaScript over Python to avoid the disambiguation problems that arise w
 The articles are then parsed and output to a markdown file using [Pandas](https://pandas.pydata.org/).
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
-\nWednesday July 13 2022\n\n
+
+Wednesday July 13 2022
+
+
 | Title                                                             | Website          | Link                                                                                                                                               |
 |:------------------------------------------------------------------|:-----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | New JavaScript runtime Bun challenges Deno, Node.js               | TechTarget       | https://www.techtarget.com/searchsoftwarequality/news/252522622/New-JavaScript-runtime-Bun-challenges-Deno-Nodejs                                  |
