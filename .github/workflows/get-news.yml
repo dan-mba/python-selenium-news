@@ -2,6 +2,8 @@ name: Get News
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
 
 jobs:
   news:
@@ -36,6 +38,7 @@ jobs:
       - name: Copy News to Readme
         run: |
           cp README-base.md README.md
+          echo '\n$(date '+%A %B %d %Y')\n\n' >> README.md
           cat news.md >> README.md
 
       - name: Commit files
