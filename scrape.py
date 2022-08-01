@@ -17,6 +17,8 @@ driver = webdriver.Chrome(service=driver_service, options=options)
 driver.get(web)
 
 containers = driver.find_elements(by='xpath', value='//*[@id="rso"]/div')
+if len(containers) == 1:
+    containers = driver.find_elements(by='xpath', value='//*[@id="rso"]/div/div')
 
 titles = []
 sites = []
