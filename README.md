@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Sunday July 31 2022
+## Thursday August 04 2022
 
 
-| Title                                                          | Website                | Link                                                                                       |
-|:---------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------|
-| VIDEO: JavaScript Journalism and interactivity                 | Online Journalism Blog | https://onlinejournalismblog.com/2022/07/26/video-javascript-journalism-and-interactivity/ |
-| Language I/O Runs React-Based Javascript with Java Backend     | The New Stack          | https://thenewstack.io/language-i-o-runs-react-based-javascript-with-java-backend/         |
-| The best coding languages for trading algorithms: Python ...   | eFinancialCareers      | https://www.efinancialcareers.com/news/2022/07/coding-languages-for-trading-algorithms     |
-| TypeScript Tutorial: Go beyond 'Hello, World!' – The New Stack | The New Stack          | https://thenewstack.io/typescript-tutorial-go-beyond-hello-world/                          |
-| What Is TypeScript? – The New Stack                            | The New Stack          | https://thenewstack.io/what-is-typescript/                                                 |
-| Node.js prototype pollution is bad for your app environment    | TheRegister            | https://www.theregister.com/2022/07/25/nodejs_prototype_pollution/                         |
-| 5 Rust WebAssembly Frameworks for Your Next Application        | MakeUseOf              | https://www.makeuseof.com/rust-webassembly-frameworks/                                     |
-| JavaScript Developer                                           | IT-Online              | https://it-online.co.za/2022/07/29/javascript-developer-17/                                |
-| A beginner’s guide to javascript frameworks                    | Best in Australia -    | https://bestinau.com.au/beginners-guide-to-javascript-frameworks/                          |
-| Igalia: the Open Source Powerhouse You've Never Heard of       | The New Stack          | https://thenewstack.io/igalia-the-open-source-powerhouse-youve-never-heard-of/             |
+| Title                                                                                                 | Website             | Link                                                                                                                                     |
+|:------------------------------------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| What Is Bun.js and Why Is the JavaScript Community Excited ...                                        | MakeUseOf           | https://www.makeuseof.com/what-is-bunjs-why-the-javascript-community-excited/                                                            |
+| I'm so frustrated with my javascript, I need help                                                     | SitePoint           | https://www.sitepoint.com/community/t/im-so-frustrated-with-my-javascript-i-need-help/392525/                                            |
+| Get 'JavaScript from Beginner to Professional' ($28.99 value ...                                      | BetaNews            | https://betanews.com/2022/08/03/get-javascript-from-beginner-to-professional-free/                                                       |
+| Programming languages: JavaScript leads demand for UK ...                                             | ZDNet               | https://www.zdnet.com/article/programming-languages-javascript-leads-demand-for-uk-tech-jobs-with-new-role-advertised-every-two-minutes/ |
+| Pattern with auto increment in javascript - JavaScript                                                | SitePoint           | https://www.sitepoint.com/community/t/pattern-with-auto-increment-in-javascript/392549/                                                  |
+| Analysis of Adobe Acrobat Reader Javascript Doc.print() Use-After-Free Vulnerability (CVE-2022-34233) | Security Boulevard  | https://securityboulevard.com/2022/08/analysis-of-adobe-acrobat-reader-javascript-doc-print-use-after-free-vulnerability-cve-2022-34233/ |
+| What's With All the Runtimes For JavaScript?                                                          | HackerNoon          | https://hackernoon.com/whats-with-all-the-runtimes-for-javascript                                                                        |
+| How to close navigation bar in JS by clicking away?                                                   | SitePoint           | https://www.sitepoint.com/community/t/how-to-close-navigation-bar-in-js-by-clicking-away/392454                                          |
+| Full Stack Developer - JavaScript / TypeScript / React ...                                            | IamExpat in Germany | https://www.iamexpat.de/career/jobs-germany/darmstadt/it-technology/full-stack-developer-javascript-typescript-react-angular             |
+| What Trivago Learned Adopting TypeScript – The New Stack                                              | The New Stack       | https://thenewstack.io/what-trivago-learned-adopting-typescript/                                                                         |
