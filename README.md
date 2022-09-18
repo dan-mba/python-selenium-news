@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday September 17 2022
+## Sunday September 18 2022
 
 
 | Title                                                             | Website               | Link                                                                                               |
@@ -17,7 +17,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | How to Convert HTML to an Image in JavaScript                     | MakeUseOf             | https://www.makeuseof.com/html-image-convert-javascript/                                           |
 | The seventh way to call a JavaScript function without ...         | PortSwigger           | https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses |
 | A Guide to Rounding Numbers in JavaScript                         | SitePoint             | https://www.sitepoint.com/rounding-numbers-javascript/                                             |
-| Facebook MemLab Helps Finding JavaScript Memory Leaks             | InfoQ                 | https://www.infoq.com/news/2022/09/memlab-javascript-memory-leaks/                                 |
 | Quick Tip: How to Transform the Character Case of a String in ... | SitePoint             | https://www.sitepoint.com/transform-string-character-case-javascript/                              |
 | MemLab: An open source framework for finding JavaScript ...       | Engineering at Meta   | https://engineering.fb.com/2022/09/12/open-source/memlab/                                          |
 | Quick Tip: How to Split a String into Substrings in JavaScript    | SitePoint             | https://www.sitepoint.com/string-substrings-javascript/                                            |
+| Facebook MemLab Helps Finding JavaScript Memory Leaks             | InfoQ                 | https://www.infoq.com/news/2022/09/memlab-javascript-memory-leaks/                                 |
