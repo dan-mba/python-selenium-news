@@ -1,6 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+from urllib.parse import urlparse
+from os.path import exists
+from datetime import date
 import pandas as pd
 import os
 
@@ -18,30 +21,54 @@ driver.get(WEB)
 
 xpath_string = '//*[@id="rso"]/div'
 
+csv_exists = exists('history.csv')
+csv_mode = 'a' if csv_exists else 'w'
+action_event = os.environ.get('GITHUB_EVENT_NAME', 'workflow_dispatch')
+csv_output = action_event != 'workflow_dispatch'
+
 containers = driver.find_elements(by='xpath', value=xpath_string)
-while(len(containers) == 1):
+while (len(containers) == 1):
     xpath_string = xpath_string + '/div'
     containers = driver.find_elements(by='xpath', value=xpath_string)
+
 titles = []
 sites = []
 links = []
+domains = []
+dates = []
 exit_code = 0
+
 try:
     for container in containers:
-        link = container.find_element(by='xpath', value='./div/a').get_attribute('href')
+        link = container.find_element(
+            by='xpath', value='./div/a').get_attribute('href')
         # articles without an img are displayed differently
         try:
-            title = container.find_element(by='xpath', value='./div/a/div/div[2]/div[2]').text.replace('|', '')
-            site = container.find_element(by='xpath', value='./div/a/div/div[2]/div[1]/span').text.replace('|', '')
+            title = container.find_element(
+                by='xpath', value='./div/a/div/div[2]/div[2]').text.replace('|', '').replace('"', '\'')
+            site = container.find_element(
+                by='xpath', value='./div/a/div/div[2]/div[1]/span').text.replace('|', '')
         except:
-            title = container.find_element(by='xpath', value='./div/a/div/div/div[2]').text.replace('|', '')
-            site = container.find_element(by='xpath', value='./div/a/div/div/div[1]/span').text.replace('|', '')
+            title = container.find_element(
+                by='xpath', value='./div/a/div/div/div[2]').text.replace('|', '').replace('"', '\'')
+            site = container.find_element(
+                by='xpath', value='./div/a/div/div/div[1]/span').text.replace('|', '')
         titles.append(title)
         sites.append(site)
         links.append(link)
+        domains.append(urlparse(link).netloc)
+        dates.append(date.today())
 
-    my_dict = {'Title': titles, 'Website': sites, 'Link': links}
-    df_headlines = pd.DataFrame(my_dict)
+    my_dict = {'Title': titles, 'Website': sites,
+               'Link': links, 'Domain': domains, 'Date': dates}
+
+    df_csv = pd.DataFrame(my_dict)
+    
+    if csv_output:
+        df_csv.to_csv('history.csv', header=(not csv_exists),
+                      mode=csv_mode, index=False)
+
+    df_headlines = df_csv[['Title', 'Website', 'Link']]
     df_headlines.to_markdown('news.md', index=False)
 except Exception as e:
     print(e)
