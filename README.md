@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Thursday September 22 2022
+## Friday September 23 2022
 
 
 | Title                                                             | Website                | Link                                                                                          |
 |:------------------------------------------------------------------|:-----------------------|:----------------------------------------------------------------------------------------------|
-| Luxon - Better Date and Time Management in JavaScript             | InfoQ                  | https://www.infoq.com/news/2022/09/luxon-date-management/                                     |
-| Javascript Redirects & SEO: When & How To Use Them                | Search Engine Journal  | https://www.searchenginejournal.com/javascript-redirects-for-seo/462072/                      |
-| Brendan Eich: Don’t blame cookies and JavaScript                  | InfoWorld              | https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html |
-| Generating Random Numbers in JavaScript with Math.random()        | SitePoint              | https://www.sitepoint.com/generate-random-numbers-javascript/                                 |
+| How to Import and Export Functions in JavaScript                  | MakeUseOf              | https://www.makeuseof.com/how-to-import-and-export-functions-in-javascript/                   |
 | Basics Of JavaScript SEO For Ecommerce: What You Need To ...      | Search Engine Journal  | https://www.searchenginejournal.com/basics-of-javascript-seo-for-ecommerce/463663/            |
-| How to Convert HTML to an Image in JavaScript                     | MakeUseOf              | https://www.makeuseof.com/html-image-convert-javascript/                                      |
+| Quick Tip: Testing if a String Matches a Regex in JavaScript      | SitePoint              | https://www.sitepoint.com/test-string-match-regex-javascript/                                 |
+| Luxon - Better Date and Time Management in JavaScript             | InfoQ                  | https://www.infoq.com/news/2022/09/luxon-date-management/                                     |
+| Generating Random Numbers in JavaScript with Math.random()        | SitePoint              | https://www.sitepoint.com/generate-random-numbers-javascript/                                 |
+| Brendan Eich: Don’t blame cookies and JavaScript                  | InfoWorld              | https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html |
 | JavaScript is no longer the favorite programming language for ... | TechRadar              | https://www.techradar.com/news/javascript-no-longer-the-favorite-language-among-developers    |
-| Hybrid Web Frameworks Q&A with Allen Conway: Reach ...            | Visual Studio Magazine | https://visualstudiomagazine.com/articles/2022/09/19/hybrid-web-frameworks.aspx?m=1           |
-| Quick Tip: How to Transform the Character Case of a String in ... | SitePoint              | https://www.sitepoint.com/transform-string-character-case-javascript/                         |
+| Hybrid Web Frameworks Q&A with Allen Conway: Reach ...            | Visual Studio Magazine | https://visualstudiomagazine.com/articles/2022/09/19/hybrid-web-frameworks.aspx               |
 | How to Use Google Docs as a Code Runner                           | Digital Inspiration    | https://www.labnol.org/javascript-code-in-google-docs-220922                                  |
+| Make Delete and Edit Buttons Work - JavaScript                    | SitePoint              | https://www.sitepoint.com/community/t/make-delete-and-edit-buttons-work/396508                |
