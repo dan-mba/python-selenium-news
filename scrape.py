@@ -40,19 +40,24 @@ exit_code = 0
 
 try:
     for container in containers:
-        link = container.find_element(
-            by='xpath', value='./div/a').get_attribute('href')
+        try:
+            base = container.find_element(
+                by='xpath', value='./div/a')
+        except:
+            base = container.find_element(
+                by='xpath', value='./div/div/a')
+        link = base.get_attribute('href')
         # articles without an img are displayed differently
         try:
-            title = container.find_element(
-                by='xpath', value='./div/a/div/div[2]/div[2]').text.replace('|', '').replace('"', '\'')
-            site = container.find_element(
-                by='xpath', value='./div/a/div/div[2]/div[1]/span').text.replace('|', '')
+            title = base.find_element(
+                by='xpath', value='./div/div[2]/div[2]').text.replace('|', '').replace('"', '\'')
+            site = base.find_element(
+                by='xpath', value='./div/div[2]/div[1]/span').text.replace('|', '')
         except:
-            title = container.find_element(
-                by='xpath', value='./div/a/div/div/div[2]').text.replace('|', '').replace('"', '\'')
-            site = container.find_element(
-                by='xpath', value='./div/a/div/div/div[1]/span').text.replace('|', '')
+            title = base.find_element(
+                by='xpath', value='./div/div/div[2]').text.replace('|', '').replace('"', '\'')
+            site = base.find_element(
+                by='xpath', value='./div/div/div[1]/span').text.replace('|', '')
         titles.append(title)
         sites.append(site)
         links.append(link)
