@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday October 22 2022
+## Sunday October 23 2022
 
 
-| Title                                                         | Website        | Link                                                                                                    |
-|:--------------------------------------------------------------|:---------------|:--------------------------------------------------------------------------------------------------------|
-| All About E: The Language that Infiltrated JavaScript         | The New Stack  | https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/                            |
-| Intro to Qwik: A superfast JavaScript framework               | InfoWorld      | https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html           |
-| The Top 8 JavaScript Engines for Game Development             | MakeUseOf      | https://www.makeuseof.com/game-development-top-javascript-engines/                                      |
-| Windows 95 JavaScript App Runs on Basically Any Platform      | Tom's Hardware | https://www.tomshardware.com/news/windows-95-for-pc-mac-and-linux                                       |
-| How to Run JavaScript in Python - Programming                 | MakeUseOf      | https://www.makeuseof.com/run-javascript-in-python/                                                     |
-| New Qwik JavaScript Framework Seeks Faster Web Apps with ...  | InfoQ          | https://www.infoq.com/news/2022/10/qwik-fast-web-app-resumability/                                      |
-| How to Update Object Key Values Using Javascript              | HackerNoon     | https://hackernoon.com/how-to-update-object-key-values-using-javascript                                 |
-| Someone wrote a Javascript app that accurately emulates ...   | TechSpot       | https://www.techspot.com/news/96392-someone-wrote-javascript-app-accurately-emulates-windows-95.html    |
-| Why You Should Not Learn Javascript  by Josef Cruz  CodeX ... | Medium         | https://medium.com/codex/why-you-should-not-learn-javascript-5f7fdc54e0a4?source=rss------programming-5 |
-| JavaScript Jems - The Comma                                   | I Programmer   | https://www.i-programmer.info/programming/javascript/15801-javascript-jems-the-comma.html               |
+| Title                                                                     | Website           | Link                                                                                                                                                 |
+|:--------------------------------------------------------------------------|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Exploited Windows zero-day lets JavaScript files bypass security warnings | Bleeping Computer | https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/                            |
+| New Version of Windows 95 JavaScript App Runs On ...                      | Slashdot          | https://tech.slashdot.org/story/22/10/21/229219/new-version-of-windows-95-javascript-app-runs-on-basically-any-platform                              |
+| How Do You Format a String in JavaScript?                                 | MakeUseOf         | https://www.makeuseof.com/javascript-string-format/                                                                                                  |
+| JavaScript Still Tops Python and Java in RedMonk's Latest ...             | Slashdot          | https://developers.slashdot.org/story/22/10/21/239244/javascript-still-tops-python-and-java-in-redmonks-latest-rankings-while-go-and-typescript-rise |
+| Python vs JavaScript: Which Programming Language Will Pay ...             | Analytics Insight | https://www.analyticsinsight.net/python-vs-javascript-which-programming-language-will-pay-developers-more/                                           |
+| All About E: The Language that Infiltrated JavaScript                     | The New Stack     | https://thenewstack.io/all-about-e-the-language-that-infiltrated-javascript/                                                                         |
+| Intro to Qwik: A superfast JavaScript framework                           | InfoWorld         | https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html                                                        |
+| The Top 8 JavaScript Engines for Game Development                         | MakeUseOf         | https://www.makeuseof.com/game-development-top-javascript-engines/                                                                                   |
+| How to Run JavaScript in Python - Programming                             | MakeUseOf         | https://www.makeuseof.com/run-javascript-in-python/                                                                                                  |
+| Windows 95 JavaScript App Runs on Basically Any Platform                  | Tom's Hardware    | https://www.tomshardware.com/news/windows-95-for-pc-mac-and-linux                                                                                    |
