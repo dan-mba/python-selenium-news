@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday November 05 2022
+## Sunday November 06 2022
 
 
 | Title                                                      | Website            | Link                                                                                                                                         |
@@ -17,7 +17,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Understanding How Hoisting Works in JavaScript             | MakeUseOf          | https://www.makeuseof.com/javascript-hoisting/                                                                                               |
 | Top 10 Recession-Proof JavaScript Skills to Master for ... | Analytics Insight  | https://www.analyticsinsight.net/top-10-recession-proof-javascript-skills-to-master-for-success-in-2023/                                     |
 | Keep Ahead With JavaScript Day 2022                        | I Programmer       | https://www.i-programmer.info/news/167-javascript/15835-keep-ahead-with-javascript-day-2022.html                                             |
-| Understanding JavaScript closure and JavaScript scope      | HackerNoon         | https://hackernoon.com/understanding-javascript-closure-and-javascript-scope                                                                 |
 | How to Traverse the DOM Using JavaScript                   | MakeUseOf          | https://www.makeuseof.com/dom-javascript-traverse/                                                                                           |
 | What to Expect From the Hermes Engine in React Native 0.70 | MakeUseOf          | https://www.makeuseof.com/react-native-hermes-what-to-expect/                                                                                |
+| 5 Ways to Fix the Discord JavaScript Error                 | Make Tech Easier   | https://www.maketecheasier.com/fix-discord-javascript-error/                                                                                 |
 | More than 250 newspaper sites across the US access ...     | Tech Business News | https://www.techbusinessnews.com.au/news/more-than-250-newspaper-sites-in-the-us-access-malicious-javascript-in-malware-supply-chain-attack/ |
