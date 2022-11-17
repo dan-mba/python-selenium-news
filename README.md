@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday November 16 2022
+## Thursday November 17 2022
 
 
-| Title                                                                                | Website                | Link                                                                                                                     |
-|:-------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Programming languages: C++ overtakes PHP, but JavaScript, Python and Java still rule | ZDNET                  | https://www.zdnet.com/article/programming-languages-c-overtakes-php-but-javascript-python-and-java-still-rule/           |
-| Guide To Recruiting Java Script Developers                                           | Geek Vibes Nation      | https://geekvibesnation.com/guide-to-recruiting-java-script-developers/                                                  |
-| Intro to CSS-in-JS: Generating CSS from JavaScript                                   | InfoWorld              | https://www.infoworld.com/article/3678950/intro-to-css-in-js-generating-css-from-javascript.html                         |
-| Jamstack Panel: Multiple JavaScript Frameworks Are a Good ...                        | The New Stack          | https://thenewstack.io/jamstack-panel-multiple-javascript-frameworks-are-a-good-thing/                                   |
-| JavaScript prototypes and inheritance  Web Security Academy                          | PortSwigger            | https://portswigger.net/web-security/prototype-pollution/javascript-prototypes-and-inheritance                           |
-| Learn Python, C++, JavaScript, and more with this huge e ...                         | Macworld               | https://www.macworld.com/article/1369540/learn-python-c-javascript-and-more-with-this-huge-e-learning-bundle.html        |
-| Autoclick on print confirmation - JavaScript                                         | SitePoint              | https://www.sitepoint.com/community/t/autoclick-on-print-confirmation/400923                                             |
-| Senior Java JavaScript Developer - Semi Remote - R640 per ...                        | IT-Online              | https://it-online.co.za/2022/11/15/senior-java-javascript-developer-semi-remote-r640-per-hour-at-e-merge-it-recruitment/ |
-| Massive Black Hat Malware Infect 2500 Websites By Injecting Malicious JavaScript     | GBHackers On Security  | https://gbhackers.com/massive-black-hat-malware/                                                                         |
-| What's New for ASP.NET Core & Blazor in .NET 7                                       | Visual Studio Magazine | https://visualstudiomagazine.com/articles/2022/11/10/aspnet-core-net-7.aspx                                              |
+| Title                                                                                     | Website               | Link                                                                                                                     |
+|:------------------------------------------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------|
+| Filter JavaScript objects the easy way with Arquero                                       | InfoWorld             | https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html                       |
+| Programming languages: C++ overtakes PHP, but JavaScript, Python and Java still rule      | ZDNET                 | https://www.zdnet.com/article/programming-languages-c-overtakes-php-but-javascript-python-and-java-still-rule/           |
+| Guide To Recruiting Java Script Developers                                                | Geek Vibes Nation     | https://geekvibesnation.com/guide-to-recruiting-java-script-developers/                                                  |
+| JavaScript prototypes and inheritance  Web Security Academy                               | PortSwigger           | https://portswigger.net/web-security/prototype-pollution/javascript-prototypes-and-inheritance                           |
+| What Is React Native and Is It Worth Using?                                               | MakeUseOf             | https://www.makeuseof.com/react-native-worth-using/                                                                      |
+| Massive Black Hat Malware Infect 2500 Websites By Injecting Malicious JavaScript          | GBHackers On Security | https://gbhackers.com/massive-black-hat-malware/                                                                         |
+| Senior Java JavaScript Developer - Semi Remote - R640 per ...                             | IT-Online             | https://it-online.co.za/2022/11/15/senior-java-javascript-developer-semi-remote-r640-per-hour-at-e-merge-it-recruitment/ |
+| Autoclick on print confirmation - JavaScript                                              | SitePoint             | https://www.sitepoint.com/community/t/autoclick-on-print-confirmation/400923                                             |
+| Programming languages: These top four rule and developers are happy - for now             | ZDNet                 | https://www.zdnet.com/article/programming-languages-these-top-four-rule-and-developers-are-happy-for-now/                |
+| Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform | The Hacker News       | https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html                                            |
