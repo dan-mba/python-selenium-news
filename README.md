@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday November 21 2022
+## Tuesday November 22 2022
 
 
-| Title                                                                            | Website               | Link                                                                                                           |
-|:---------------------------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------------------------|
-| Filter JavaScript objects the easy way with Arquero                              | InfoWorld             | https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html             |
-| Oxeye Finds Bad Spotify Backstage JavaScript Vulnerability                       | The New Stack         | https://thenewstack.io/oxeye-finds-bad-spotify-backstage-javascript-vulnerability/                             |
-| Programming languages: C++ overtakes PHP, but JavaScript ...                     | ZDNET                 | https://www.zdnet.com/article/programming-languages-c-overtakes-php-but-javascript-python-and-java-still-rule/ |
-| Guide To Recruiting Java Script Developers                                       | Geek Vibes Nation     | https://geekvibesnation.com/guide-to-recruiting-java-script-developers/                                        |
-| Massive Black Hat Malware Infect 2500 Websites By Injecting Malicious JavaScript | GBHackers On Security | https://gbhackers.com/massive-black-hat-malware/                                                               |
-| What Is React Native and Is It Worth Using?                                      | MakeUseOf             | https://www.makeuseof.com/react-native-worth-using/                                                            |
-| With $8.6M in seed funding, Nx wants to take monorepos mainstream                | TechCrunch            | https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream/             |
-| Angular 15 Adds Standalone APIs                                                  | I Programmer          | https://www.i-programmer.info/news/167-javascript/15887-angular-15-adds-standalone-apis.html                   |
-| Html form tag that blocks a click counter button                                 | SitePoint             | https://www.sitepoint.com/community/t/html-form-tag-that-blocks-a-click-counter-button/401086                  |
-| Autoclick on print confirmation - JavaScript                                     | SitePoint             | https://www.sitepoint.com/community/t/autoclick-on-print-confirmation/400923                                   |
+| Title                                                                                          | Website             | Link                                                                                                            |
+|:-----------------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------------|
+| Nx Raises $8.6M to Make JavaScript Monorepos Mainstream                                        | Business Wire       | https://www.businesswire.com/news/home/20221121005322/en/Nx-Raises-8.6M-to-Make-JavaScript-Monorepos-Mainstream |
+| To Make JavaScript Monorepos Widespread, Nx Raises $8.6 ...                                    | Open Source For You | https://www.opensourceforu.com/2022/11/to-make-javascript-monorepos-widespread-nx-raises-8-6-million/           |
+| Filter JavaScript objects the easy way with Arquero                                            | InfoWorld           | https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html              |
+| Oxeye Finds Bad Spotify Backstage JavaScript Vulnerability                                     | The New Stack       | https://thenewstack.io/oxeye-finds-bad-spotify-backstage-javascript-vulnerability/                              |
+| New Hilla Release Accelerates Software Development for React Applications With a Java Back-End | Yahoo Sport UK      | https://uk.sports.yahoo.com/news/hilla-release-accelerates-software-development-090000904.html                  |
+| Guide To Recruiting Java Script Developers                                                     | Geek Vibes Nation   | https://geekvibesnation.com/guide-to-recruiting-java-script-developers/                                         |
+| A Guide to the Best Programming Language for Web ...                                           | SitePoint           | https://www.sitepoint.com/best-programming-language-for-web-development/                                        |
+| This 200-plus hour coding course bundle is on sale for just $25                                | Mashable            | https://mashable.com/deals/nov-22-code-certification-bundle                                                     |
+| What Is React Native and Is It Worth Using?                                                    | MakeUseOf           | https://www.makeuseof.com/react-native-worth-using/                                                             |
+| With $8.6M in seed funding, Nx wants to take monorepos mainstream                              | TechCrunch          | https://techcrunch.com/2022/11/17/with-8-6m-in-seed-funding-nx-wants-to-take-monorepos-mainstream/              |
