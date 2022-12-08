@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday December 07 2022
+## Thursday December 08 2022
 
 
-| Title                                                                    | Website                  | Link                                                                                                                              |
-|:-------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| Neovim as a PHP and JavaScript IDE                                       | Laravel News             | https://laravel-news.com/neovim-as-a-php-and-javascript-ide                                                                       |
-| Develop Faster JS Apps: the Ultimate Guide to Web Workers                | SitePoint                | https://www.sitepoint.com/developing-faster-javascript-apps-the-ultimate-guide-to-web-workers/                                    |
-| Have Content Load First For JavaScript Heavy Sites Says Google           | Search Engine Roundtable | https://www.seroundtable.com/google-javascript-heavy-sites-content-first-34516.html                                               |
-| Preload initial menu and store into localStorage? - JavaScript           | SitePoint                | https://www.sitepoint.com/community/t/preload-initial-menu-and-store-into-localstorage/402702                                     |
-| Should You Buy JavaScript Token (JS) Sunday?                             | InvestorsObserver        | https://www.investorsobserver.com/news/crypto-update/should-you-buy-javascript-token-js-sunday-2                                  |
-| JavaScript Web Frameworks Software Market Size Current ...               | Prizm News               | https://www.prizmnews.com/2022/12/07/javascript-web-frameworks-software-market-size-current-and-future-industry-trends-2022-2028/ |
-| Onclick email address verify - JavaScript                                | SitePoint                | https://www.sitepoint.com/community/t/onclick-email-address-verify/402596/                                                        |
-| How To Eliminate Render-Blocking Resources                               | Search Engine Journal    | https://www.searchenginejournal.com/eliminate-render-blocking-resources/466367/                                                   |
-| UCI Students Place First in Observable Data Jam  New ...                 | New University Newspaper | https://newuniversity.org/2022/12/06/uci-students-place-first-in-observable-data-jam/                                             |
-| CISA Issues Directive To Patch This Exploited Chrome Flaw By December 26 | HotHardware              | https://hothardware.com/news/cisa-directive-patch-exploited-chrome-flaw-december-26                                               |
+| Title                                                          | Website                  | Link                                                                                                  |
+|:---------------------------------------------------------------|:-------------------------|:------------------------------------------------------------------------------------------------------|
+| Top 10 JavaScript Trends that Developers Should Follow in ...  | Analytics Insight        | https://www.analyticsinsight.net/top-10-javascript-trends-that-developers-should-follow-in-2023/      |
+| How to Prevent Cross-Site Scripting Using HTML, JavaScript ... | MakeUseOf                | https://www.makeuseof.com/prevent-xss-html-javascript-dom-examples/                                   |
+| How to Use Splice in JavaScript: Understanding the Array ...   | HackerNoon               | https://hackernoon.com/how-to-use-splice-in-javascript-understanding-the-array-method                 |
+| Neovim as a PHP and JavaScript IDE                             | Laravel News             | https://laravel-news.com/neovim-as-a-php-and-javascript-ide                                           |
+| Develop Faster JS Apps: the Ultimate Guide to Web Workers      | SitePoint                | https://www.sitepoint.com/developing-faster-javascript-apps-the-ultimate-guide-to-web-workers/        |
+| Have Content Load First For JavaScript Heavy Sites Says Google | Search Engine Roundtable | https://www.seroundtable.com/google-javascript-heavy-sites-content-first-34516.html                   |
+| Should You Buy JavaScript Token (JS) Sunday?                   | InvestorsObserver        | https://www.investorsobserver.com/news/crypto-update/should-you-buy-javascript-token-js-sunday-2      |
+| 14 hot language projects riding WebAssembly                    | InfoWorld                | https://www.infoworld.com/article/3619608/14-hot-language-projects-riding-webassembly.html            |
+| Top 10 Programming Languages that are Loved by Stack ...       | Analytics Insight        | https://www.analyticsinsight.net/top-10-programming-languages-that-are-loved-by-stack-overflow-users/ |
+| Best APIs for Developers                                       | SitePoint                | https://www.sitepoint.com/best-apis-for-developers/                                                   |
