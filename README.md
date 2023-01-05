@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday January 04 2023
+## Thursday January 05 2023
 
 
-| Title                                                                  | Website            | Link                                                                                                                                                                                    |
-|:-----------------------------------------------------------------------|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| JavaScript: How to Implement Client-Server Isomorphism                 | The New Stack      | https://thenewstack.io/doordash-building-isomorphic-javascript-libraries/                                                                                                               |
-| Lead Software Engineer (JavaScript) in Malaysia - Apply Today!         | EPAM               | https://www.epam.com/careers/job-listings/job.86687.lead-software-engineer-javascript_malaysia                                                                                          |
-| 2022 FPV Contest: ESP32-Powered FPV Car Uses Javascript ...            | Hackaday           | https://hackaday.com/2022/12/30/2022-fpv-contest-esp32-powered-fpv-car-uses-javascript-for-vr-magic/                                                                                    |
-| Generative Music Created In Minimalistic Javascript Code               | Hackaday           | https://hackaday.com/2023/01/02/generative-music-created-in-minimalistic-javascript-code/                                                                                               |
-| How Do Proxy Objects Work in JavaScript?                               | MakeUseOf          | https://www.makeuseof.com/javascript-proxy-objects/                                                                                                                                     |
-| New Linux malware uses 30 plugin exploits to backdoor WordPress sites  | Bleeping Computer  | https://www.bleepingcomputer.com/news/security/new-linux-malware-uses-30-plugin-exploits-to-backdoor-wordpress-sites/                                                                   |
-| Code-generating AI can introduce security vulnerabilities, study finds | TechCrunch         | https://techcrunch.com/2022/12/28/code-generating-ai-can-introduce-security-vulnerabilities-study-finds/                                                                                |
-| How to Remove a File from a JavaScript FileList?                       | Medium             | https://medium.com/@hohanga/how-to-remove-a-file-from-a-javascript-filelist-4c55f78067ea?source=topics_v2---------4-84--------------------1c9c8eef_bc0b_4685_ad28_43f19394c0a2-------17 |
-| Stop from being hacked by getting this critical Windows update now     | Yahoo News         | https://news.yahoo.com/stop-being-hacked-getting-critical-184403210.html                                                                                                                |
-| The Ongoing Battle to Protect Consumer Payment Card Data               | Retail TouchPoints | https://www.retailtouchpoints.com/topics/security/data-security/the-ongoing-battle-to-protect-consumer-payment-card-data                                                                |
+| Title                                                        | Website       | Link                                                                                                                              |
+|:-------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript: How to Implement Client-Server Isomorphism       | The New Stack | https://thenewstack.io/doordash-building-isomorphic-javascript-libraries/                                                         |
+| How Do Proxy Objects Work in JavaScript?                     | MakeUseOf     | https://www.makeuseof.com/javascript-proxy-objects/                                                                               |
+| What are the basic things to be considered in terms of ...   | Nagpur Today  | https://www.nagpurtoday.in/what-are-the-basic-things-to-be-considered-in-terms-of-improving-javascript-security/01051140          |
+| Generative Music Created In Minimalistic Javascript Code     | Hackaday      | https://hackaday.com/2023/01/02/generative-music-created-in-minimalistic-javascript-code/                                         |
+| Solutions Architect Java JavaScript Cloud - Semi Remote ...  | IT-Online     | https://it-online.co.za/2023/01/04/solutions-architect-java-javascript-cloud-semi-remote-r850-per-hour-at-e-merge-it-recruitment/ |
+| 2022 FPV Contest: ESP32-Powered FPV Car Uses Javascript ...  | Hackaday      | https://hackaday.com/2022/12/30/2022-fpv-contest-esp32-powered-fpv-car-uses-javascript-for-vr-magic/                              |
+| Vue 3.3 to support externally imported types                 | InfoWorld     | https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html                                        |
+| Detecting mobile browsers - JavaScript                       | SitePoint     | https://www.sitepoint.com/community/t/detecting-mobile-browsers/404844                                                            |
+| New Linux Malware Exploiting 30 Vulnerabilities in ...       | Spiceworks    | https://www.spiceworks.com/it-security/security-general/news/linux-malware-targeting-wordpless-plugins/                           |
+| Google recaptcha V3 , button needing to press the submit ... | SitePoint     | https://www.sitepoint.com/community/t/google-recaptcha-v3-button-needing-to-press-the-submit-button-twice/404571                  |
