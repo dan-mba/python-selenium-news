@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday January 17 2023
+## Wednesday January 18 2023
 
 
-| Title                                                           | Website                | Link                                                                                                                     |
-|:----------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| JavaScript developers: Here are the top trends and tools        | ZDNET                  | https://www.zdnet.com/article/javascript-developers-here-are-the-top-trends-and-tools/                                   |
-| JavaScript Survey: Devs Want Static Typing (and Favor ...       | Visual Studio Magazine | https://visualstudiomagazine.com/articles/2023/01/12/javascript-typing.aspx                                              |
-| JavaScript survey shows enthusiasm for Tauri over Electron ...  | DevClass               | https://devclass.com/2023/01/11/javascript-survey-shows-enthusiasm-for-tauri-over-electron-and-vite-over-webpack/        |
-| JavaScript, Java, and Python are Most In-Demand Skills ...      | Slashdot               | https://developers.slashdot.org/story/23/01/15/0355202/javascript-java-and-python-are-most-in-demand-skills-survey-finds |
-| JavaScript, Java, and Python skills top demand                  | InfoWorld              | https://www.infoworld.com/article/3685672/javascript-java-and-python-skills-top-demand.html                              |
-| Google's John Mueller: Move JavaScript Below HTML Headers       | Search Engine Journal  | https://www.searchenginejournal.com/googles-john-mueller-move-javascript-below-html-headers/476024/                      |
-| Java, .NET Developers Prone to More Frequent Vulnerabilities    | Dark Reading           | https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities                             |
-| How to manipulate a hidden drop-down menu with javascript?      | SitePoint              | https://www.sitepoint.com/community/t/how-to-manipulate-a-hidden-drop-down-menu-with-javascript/405857                   |
-| How to Create a Word Counter in JavaScript                      | MakeUseOf              | https://www.makeuseof.com/javascript-word-counter-how-to-create/                                                         |
-| Scroll to anchor and highlight menu item not working in Firefox | SitePoint              | https://www.sitepoint.com/community/t/scroll-to-anchor-and-highlight-menu-item-not-working-in-firefox/405583/            |
+| Title                                                            | Website                  | Link                                                                                                                           |
+|:-----------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript developers: Here are the top trends and tools         | ZDNET                    | https://www.zdnet.com/article/javascript-developers-here-are-the-top-trends-and-tools/                                         |
+| JavaScript Survey: Devs Want Static Typing (and Favor ...        | Visual Studio Magazine   | https://visualstudiomagazine.com/articles/2023/01/12/javascript-typing.aspx                                                    |
+| JavaScript survey shows enthusiasm for Tauri over Electron ...   | DevClass                 | https://devclass.com/2023/01/11/javascript-survey-shows-enthusiasm-for-tauri-over-electron-and-vite-over-webpack/              |
+| Batloader Malware Abuses Legitimate Tools Uses Obfuscated ...    | Trend Micro              | https://www.trendmicro.com/en_us/research/23/a/batloader-malware-abuses-legitimate-tools-uses-obfuscated-javasc.html           |
+| JavaScript, Java, and Python are Most In-Demand Skills ...       | Slashdot                 | https://developers.slashdot.org/story/23/01/15/0355202/javascript-java-and-python-are-most-in-demand-skills-survey-finds       |
+| Application security: Survey finds JavaScript beats Java and ... | DevClass                 | https://devclass.com/2023/01/17/application-security-survey-finds-javascript-beats-java-and-net-with-fewer-flaws-faster-fixes/ |
+| How to Create a Word Counter in JavaScript                       | MakeUseOf                | https://www.makeuseof.com/javascript-word-counter-how-to-create/                                                               |
+| Experts rate programming languages for beginners in 2023         | TechTarget               | https://www.techtarget.com/searchsoftwarequality/news/252529257/Experts-rate-programming-languages-for-beginners-in-2023       |
+| How to manipulate a hidden drop-down menu with javascript?       | SitePoint                | https://www.sitepoint.com/community/t/how-to-manipulate-a-hidden-drop-down-menu-with-javascript/405857                         |
+| Google's John Mueller: More About Head Section & JavaScript      | Search Engine Roundtable | https://www.seroundtable.com/google-head-section-javascript-34740.html                                                         |
