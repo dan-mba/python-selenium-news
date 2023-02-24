@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Thursday February 23 2023
+## Friday February 24 2023
 
 
-| Title                                                                       | Website                  | Link                                                                                                                                                                   |
-|:----------------------------------------------------------------------------|:-------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NPM JavaScript packages abused to create scambait links in bulk             | Naked Security           | https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/                                                           |
-| JAVASCRIPT, A MOTHER OF ALL  by Olusola Samuel O ...                        | Medium                   | https://medium.com/@kent-dev/javascript-as-a-mother-of-all-260330adbde3?source=topics_v2---------2-84--------------------3afaf21f_9d03_4522_a3cd_bd65de735ee0-------17 |
-| Creating Functions in JavaScript                                            | MakeUseOf                | https://www.makeuseof.com/javascript-creating-functions/                                                                                                               |
-| Top JavaScript Frameworks and Technology 2023  by Eric ...                  | Medium                   | https://medium.com/javascript-scene/top-javascript-frameworks-and-technology-2023-4e4a06d6be93                                                                         |
-| Get 'The JavaScript Workshop' (worth $28.99) for a limited time             | BetaNews                 | https://betanews.com/2023/02/16/get-the-javascript-workshop/                                                                                                           |
-| Why WebAssembly? Top 11 Wasm benefits                                       | TheServerSide            | https://www.theserverside.com/tip/Why-WebAssembly-Top-Wasm-benefits                                                                                                    |
-| Adding Serverless Authentication Microservice to a HTML ...                 | HackerNoon               | https://hackernoon.com/adding-serverless-authentication-microservice-to-a-html-css-and-javascript-app                                                                  |
-| Uncaught TypeError: names.map is not a function                             | SitePoint                | https://www.sitepoint.com/community/t/uncaught-typeerror-names-map-is-not-a-function/408411                                                                            |
-| Google: Not All Googlebots Use Same Rendering Engine & Render JavaScript    | Search Engine Roundtable | https://www.seroundtable.com/google-bot-rendering-engine-34915.html                                                                                                    |
-| Radware Introduces a Best-of-Suite Approach to Cloud Application Protection | Yahoo Finance            | https://finance.yahoo.com/news/radware-introduces-best-suite-approach-110000970.html                                                                                   |
+| Title                                                           | Website        | Link                                                                                                         |
+|:----------------------------------------------------------------|:---------------|:-------------------------------------------------------------------------------------------------------------|
+| Explore Bun.js: The all-in-one JavaScript runtime               | InfoWorld      | https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html               |
+| RequestAnimationFrame in JavaScript                             | Built In       | https://builtin.com/software-engineering-perspectives/requestanimationframe                                  |
+| NPM JavaScript packages abused to create scambait links in bulk | Naked Security | https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/ |
+| Top JavaScript Frameworks and Technology 2023  by Eric ...      | Medium         | https://medium.com/javascript-scene/top-javascript-frameworks-and-technology-2023-4e4a06d6be93               |
+| JAVASCRIPT, A MOTHER OF ALL  by Olusolakent  Feb, 2023          | Medium         | https://medium.com/@olusolakent1/javascript-as-a-mother-of-all-260330adbde3                                  |
+| FormData and Ajax Problem - JavaScript                          | SitePoint      | https://www.sitepoint.com/community/t/formdata-and-ajax-problem/408708/                                      |
+| Why WebAssembly? Top 11 Wasm benefits                           | TheServerSide  | https://www.theserverside.com/tip/Why-WebAssembly-Top-Wasm-benefits                                          |
+| Tabnine readies AI-generated unit testing for developers        | InfoWorld      | https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.html      |
+| Adding Serverless Authentication Microservice to a HTML ...     | HackerNoon     | https://hackernoon.com/adding-serverless-authentication-microservice-to-a-html-css-and-javascript-app        |
+| Uncaught TypeError: names.map is not a function                 | SitePoint      | https://www.sitepoint.com/community/t/uncaught-typeerror-names-map-is-not-a-function/408411                  |
