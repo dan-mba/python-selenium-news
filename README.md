@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday March 27 2023
+## Tuesday March 28 2023
 
 
-| Title                                                                                                       | Website            | Link                                                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
-| Java vs JavaScript: Difference You Should Know                                                              | Analytics Insight  | https://www.analyticsinsight.net/java-vs-javascript-difference-you-should-know/                                                                 |
-| Toolkit Allows JavaScript Devs to Program Embedded Devices                                                  | The New Stack      | https://thenewstack.io/toolkit-allows-javascript-devs-to-program-embedded-devices/                                                              |
-| JavaScript Library Lets Devs Add AI Capabilities to Web                                                     | The New Stack      | https://thenewstack.io/javascript-library-lets-devs-add-ai-capabilities-to-web/                                                                 |
-| 4 Ways to Remove a Specific Item From a JavaScript Array                                                    | MakeUseOf          | https://www.makeuseof.com/javascript-array-remove-specific-item/                                                                                |
-| A Guide to Regular Expressions (Regex) In JavaScript                                                        | Built In           | https://builtin.com/software-engineering-perspectives/javascript-regex                                                                          |
-| Hackers Inject Weaponized JavaScript (JS) on 51,000 Websites                                                | GBHackers          | https://gbhackers.com/hackers-inject-weaponized-javascript/                                                                                     |
-| How to learn JavaScript? - JavaScript                                                                       | SitePoint          | https://www.sitepoint.com/community/t/how-to-learn-javascript/411103                                                                            |
-| You’re One JavaScript Function Call Away From Using (Most) WebR R Functions In Your WebR-Powered Apps/Sites | Security Boulevard | https://securityboulevard.com/2023/03/youre-one-javascript-function-call-away-from-using-most-webr-r-functions-in-your-webr-powered-apps-sites/ |
-| Select data value from grandparent div? - JavaScript                                                        | SitePoint          | https://www.sitepoint.com/community/t/select-data-value-from-grandparent-div/411234                                                             |
-| What's New in TypeScript 5.0?                                                                               | Slashdot           | https://developers.slashdot.org/story/23/03/27/0056258/whats-new-in-typescript-50                                                               |
+| Title                                                        | Website           | Link                                                                               |
+|:-------------------------------------------------------------|:------------------|:-----------------------------------------------------------------------------------|
+| No More JavaScript: How Microsoft Blazor Uses WebAssembly    | The New Stack     | https://thenewstack.io/no-more-javascript-how-microsoft-blazor-uses-webassembly/   |
+| Mastering the JavaScript switch Statement — SitePoint        | SitePoint         | https://www.sitepoint.com/javascript-switch-statement/                             |
+| OpenBLAS 0.3.22 Introduces EmScripten JavaScript, Fixes ...  | Phoronix          | https://www.phoronix.com/news/OpenBLAS-0.3.22-Released                             |
+| Best practice for dynamic javascript? - PHP                  | SitePoint         | https://www.sitepoint.com/community/t/best-practice-for-dynamic-javascript/411653  |
+| Toolkit Allows JavaScript Devs to Program Embedded Devices   | The New Stack     | https://thenewstack.io/toolkit-allows-javascript-devs-to-program-embedded-devices/ |
+| Java vs JavaScript: Difference You Should Know               | Analytics Insight | https://www.analyticsinsight.net/java-vs-javascript-difference-you-should-know/    |
+| A Guide to Regular Expressions (Regex) In JavaScript         | Built In          | https://builtin.com/software-engineering-perspectives/javascript-regex             |
+| 4 Ways to Remove a Specific Item From a JavaScript Array     | MakeUseOf         | https://www.makeuseof.com/javascript-array-remove-specific-item/                   |
+| Hackers Inject Weaponized JavaScript (JS) on 51,000 Websites | GBHackers         | https://gbhackers.com/hackers-inject-weaponized-javascript/                        |
+| How to learn JavaScript? - JavaScript                        | SitePoint         | https://www.sitepoint.com/community/t/how-to-learn-javascript/411103               |
