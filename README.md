@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday May 10 2023
+## Thursday May 11 2023
 
 
-| Title                                                          | Website         | Link                                                                                                                                                                                      |
-|:---------------------------------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The New JavaScript Features Coming in ECMAScript 2023          | The New Stack   | https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/                                                                                                             |
-| Understanding Bitwise Operators in JavaScript                  | MakeUseOf       | https://www.makeuseof.com/javascript-understanding-bitwise-operators/                                                                                                                     |
-| Understanding Type Conversion and Coercion in JavaScript       | MakeUseOf       | https://www.makeuseof.com/javascript-type-conversion-coercion/                                                                                                                            |
-| 5 Tips to Optimize JavaScript Arrays                           | MakeUseOf       | https://www.makeuseof.com/javascript-arrays-optimize-tips/                                                                                                                                |
-| The Top 4 Node.js Testing Packages                             | MakeUseOf       | https://www.makeuseof.com/nodejs-top-testing-packages/                                                                                                                                    |
-| Why the Creator of Ruby on Rails Prefers Dynamic Typing        | Slashdot        | https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing                                                                            |
-| Next.js rearchitects router for smoother server-side rendering | InfoWorld       | https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html                                                                              |
-| JavaScript Develop Service Market Share Forecasting ...        | Digital Journal | https://www.digitaljournal.com/pr/news/a2z-market-research/javascript-develop-service-market-share-forecasting-competitors-impact-globally-algoworks-smartsites-mercury-development       |
-| Qatar Fund for Development provides life-saving essential ...  | EMRO            | https://www.emro.who.int/afg/afghanistan-news/qatar-fund-for-development-provides-life-saving-essential-medicines-to-under-served-areas-in-afghanistan-in-collaboration-with-the-who.html |
-| Beyond React: 7 Ways of Integrating React With Other ...       | MakeUseOf       | https://www.makeuseof.com/react-integrating-other-technologies/                                                                                                                           |
+| Title                                                           | Website                 | Link                                                                                                                |
+|:----------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| Why You Should Be Careful Using Arrow Functions in ...          | MakeUseOf               | https://www.makeuseof.com/javascript-arrow-functions-careful/                                                       |
+| The New JavaScript Features Coming in ECMAScript 2023           | The New Stack           | https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/                                       |
+| How to Use JSON.stringify() and JSON.parse() in JavaScript      | Built In                | https://builtin.com/software-engineering-perspectives/json-stringify                                                |
+| Understanding Bitwise Operators in JavaScript                   | MakeUseOf               | https://www.makeuseof.com/javascript-understanding-bitwise-operators/                                               |
+| How to stop myself from scrolling under the fold in vanilla ... | SitePoint               | https://www.sitepoint.com/community/t/how-to-stop-myself-from-scrolling-under-the-fold-in-vanilla-javascript/415371 |
+| Understanding Type Conversion and Coercion in JavaScript        | MakeUseOf               | https://www.makeuseof.com/javascript-type-conversion-coercion/                                                      |
+| Why the Creator of Ruby on Rails Prefers Dynamic Typing         | Slashdot                | https://developers.slashdot.org/story/23/05/08/0015216/why-the-creator-of-ruby-on-rails-prefers-dynamic-typing      |
+| Next.js rearchitects router for smoother server-side rendering  | InfoWorld               | https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html        |
+| How to Set Up Prettier in Visual Studio Code                    | MakeUseOf               | https://www.makeuseof.com/prettier-visual-studio-code-how-set-up/                                                   |
+| Google strikes back at Microsoft with AI 'experience' for ...   | Interesting Engineering | https://interestingengineering.com/innovation/google-microsoft-ai-experience-search                                 |
