@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday June 27 2023
+## Wednesday June 28 2023
 
 
-| Title                                                           | Website                                          | Link                                                                                                                        |
-|:----------------------------------------------------------------|:-------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
-| New PindOS JavaScript dropper deploys Bumblebee, IcedID malware | Bleeping Computer                                | https://www.bleepingcomputer.com/news/security/new-pindos-javascript-dropper-deploys-bumblebee-icedid-malware/              |
-| The Getting Started with AI Stack for JavaScript                | Andreessen Horowitz                              | https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript/                                               |
-| Too Much JavaScript? Why the Frontend Needs to Build Better     | The New Stack                                    | https://thenewstack.io/too-much-javascript-why-the-frontend-needs-to-build-better/                                          |
-| WebAssembly                                                     | TechTarget                                       | https://www.techtarget.com/searchitoperations/definition/WebAssembly                                                        |
-| How to Check for Null in JavaScript                             | Built In                                         | https://builtin.com/software-engineering-perspectives/javascript-null-check                                                 |
-| Progressive enhancement and JavaScript frameworks — a ...       | Richard Bultitude                                | https://rbultitudezone.medium.com/progressive-enhancement-and-javascript-frameworks-a-complicated-relationship-254892b652cb |
-| Learn About JavaScript Closures: A Beginner's Guide             | HackerNoon                                       | https://hackernoon.com/learn-about-javascript-closures-a-beginners-guide                                                    |
-| 21st Century Technologies: The JAMstack (JavaScript, APIs ...   | CityLife                                         | https://citylife.capetown/uncategorized/21st-century-technologies-the-jamstack-javascript-apis-and-markup/31379/            |
-| ComponentSource announces Master Distribution agreement ...     | PRWeb  Online Press Release Distribution Service | https://www.prweb.com/releases/2023/6/prweb19395620.htm                                                                     |
-| An ESP8266 Simulator in JavaScript #Emulation ...               | Adafruit Blog                                    | https://blog.adafruit.com/2023/06/21/an-esp8266-simulator-in-javascript-emulation-wokwimakes/                               |
+| Title                                                                     | Website             | Link                                                                                                                   |
+|:--------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------------------------------|
+| Jscrambler Launches JavaScript Scanner for PCI DSS 4.0 ...                | Dark Reading        | https://www.darkreading.com/dr-tech/jscrambler-launches-javascript-scanner-for-pci-dss-4-0-compliance                  |
+| What's Next for JavaScript: New Features to Look Forward to               | The New Stack       | https://thenewstack.io/whats-next-for-javascript-new-features-to-look-forward-to/                                      |
+| Demystifying JavaScript Operators: What Does That Symbol ...              | SitePoint           | https://www.sitepoint.com/javascript-operators/                                                                        |
+| Warning: JavaScript registry npm vulnerable to 'manifest confusion' abuse | Theregister         | https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/                                             |
+| The Getting Started with AI Stack for JavaScript                          | Andreessen Horowitz | https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript/                                          |
+| New PindOS JavaScript dropper deploys Bumblebee, IcedID malware           | Bleeping Computer   | https://www.bleepingcomputer.com/news/security/new-pindos-javascript-dropper-deploys-bumblebee-icedid-malware/         |
+| 10 Things I Ceased Doing in JavaScript after Learning from ...            | DataDrivenInvestor  | https://medium.datadriveninvestor.com/10-things-i-ceased-doing-in-javascript-after-learning-from-the-pros-a903191057bd |
+| Too Much JavaScript? Why the Frontend Needs to Build Better               | The New Stack       | https://thenewstack.io/too-much-javascript-why-the-frontend-needs-to-build-better/                                     |
+| Jnr JavaScript/TypeScript Developer (Node.js)                             | IT-Online           | https://it-online.co.za/2023/06/27/jnr-javascript-typescript-developer-node-js/                                        |
+| The Alchemy of the Web: Transforming Ideas Into Reality With ...          | HackerNoon          | https://hackernoon.com/the-alchemy-of-the-web-transforming-ideas-into-reality-with-htmlcss-and-javascript              |
