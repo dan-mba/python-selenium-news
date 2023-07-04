@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday July 03 2023
+## Tuesday July 04 2023
 
 
-| Title                                                                     | Website                | Link                                                                                                           |
-|:--------------------------------------------------------------------------|:-----------------------|:---------------------------------------------------------------------------------------------------------------|
-| Demystifying JavaScript Operators: What Does That Symbol ...              | SitePoint              | https://www.sitepoint.com/javascript-operators/                                                                |
-| What's Next for JavaScript: New Features to Look Forward to               | The New Stack          | https://thenewstack.io/whats-next-for-javascript-new-features-to-look-forward-to/                              |
-| Jscrambler Launches JavaScript Scanner for PCI DSS 4.0 ...                | Dark Reading           | https://www.darkreading.com/dr-tech/jscrambler-launches-javascript-scanner-for-pci-dss-4-0-compliance          |
-| Svelte 4 Released: New Features for the JavaScript Framework              | devmio                 | https://devm.io/javascript/svelte-4-javascript-framework                                                       |
-| Warning: JavaScript registry npm vulnerable to 'manifest confusion' abuse | Theregister            | https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/                                     |
-| New PindOS JavaScript dropper deploys Bumblebee, IcedID malware           | Bleeping Computer      | https://www.bleepingcomputer.com/news/security/new-pindos-javascript-dropper-deploys-bumblebee-icedid-malware/ |
-| TypeScript 5.2 beta brings explicit resource management                   | InfoWorld              | https://www.infoworld.com/article/3701454/typescript-52-beta-brings-explicit-resource-management.html          |
-| Stack Overflow Dev Survey: VS Code, Visual Studio Still Top ...           | Visual Studio Magazine | https://visualstudiomagazine.com/articles/2023/06/28/so-2023.aspx?m=1                                          |
-| Jnr JavaScript/TypeScript Developer (Node.js)                             | IT-Online              | https://it-online.co.za/2023/06/27/jnr-javascript-typescript-developer-node-js/                                |
-| JavaScript SEO: Optimizing Websites for Search Engines ...                | NNN                    | https://nnn.ng/seo/4503/                                                                                       |
+| Title                                                                     | Website                | Link                                                                                                  |
+|:--------------------------------------------------------------------------|:-----------------------|:------------------------------------------------------------------------------------------------------|
+| Beyond Browsers: The Longterm Future of JavaScript Standards              | The New Stack          | https://thenewstack.io/beyond-browsers-the-longterm-future-of-javascript-standards/                   |
+| Is JavaScript Token (JS) a Good Investment Monday?                        | InvestorsObserver      | https://www.investorsobserver.com/news/crypto-update/is-javascript-token-js-a-good-investment-monday  |
+| Developing Cross-Platform Mobile Applications With JavaScript             | Tech Critter           | https://www.tech-critter.com/developing-cross-platform-mobile-applications-with-javascript/           |
+| Demystifying JavaScript Operators: What Does That Symbol ...              | SitePoint              | https://www.sitepoint.com/javascript-operators/                                                       |
+| Warning: JavaScript registry npm vulnerable to 'manifest confusion' abuse | Theregister            | https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/                            |
+| Jscrambler Launches JavaScript Scanner for PCI DSS 4.0 ...                | Dark Reading           | https://www.darkreading.com/dr-tech/jscrambler-launches-javascript-scanner-for-pci-dss-4-0-compliance |
+| Svelte 4 Released: New Features for the JavaScript Framework              | devmio                 | https://devm.io/javascript/svelte-4-javascript-framework                                              |
+| A Beginner's Guide to HTML, CSS, and JavaScript                           | HackerNoon             | https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript                                   |
+| PCI DSS JavaScript compliance tool free from Jscrambler                   | App Developer Magazine | https://appdevelopermagazine.com/Pci-dss-javascript-compliance-tool-free-from-jscrambler/             |
+| PindOS JavaScript Dropper Distributes Bumblebee and ...                   | Gridinsoft             | https://gridinsoft.com/blogs/pindos-javascript-dropper/                                               |
