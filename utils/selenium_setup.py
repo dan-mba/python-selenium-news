@@ -12,7 +12,7 @@ def selenium_setup():
     options = Options()
     options.headless = True
     if "CHROME_PATH" in os.environ:
-        options.setChromeBinaryPath(os.environ["CHROME_PATH"])
+        options.binary_location = os.environ["CHROME_PATH"]
     driver_service = Service(executable_path=driver_path)
     driver = webdriver.Chrome(service=driver_service, options=options)
 
