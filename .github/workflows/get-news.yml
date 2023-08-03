@@ -19,8 +19,11 @@ jobs:
           python-version: '3.x'
           cache: 'pip'
 
-      - name: Setup Chrome Driver
-        uses: nanasess/setup-chromedriver@v2
+      - name: Setup Chrome & Driver
+        # uses: nanasess/setup-chromedriver@v2
+        run: |
+          npx @puppeteer/browsers install chrome@stable
+          npx @puppeteer/browsers install chromedriver@stable
 
       - name: Install dependencies
         run: |
