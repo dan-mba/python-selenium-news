@@ -19,18 +19,18 @@ jobs:
           python-version: '3.x'
           cache: 'pip'
 
-      - name: Setup Chrome Driver
-        uses: nanasess/setup-chromedriver@v1
+      - name: Setup Chrome & Driver
+        # uses: nanasess/setup-chromedriver@v2
+        run: |
+          P_CHROME=$(npx @puppeteer/browsers install --path /tmp chrome@stable)
+          echo "CHROME_PATH=$(echo $P_CHROME | cut -d' ' -f2)" >> $GITHUB_ENV
+          P_DRIVER=$(npx @puppeteer/browsers install --path /tmp chromedriver@stable)
+          echo "CHROMEDRIVER_PATH=$(echo $P_DRIVER | cut -d' ' -f2)" >> $GITHUB_ENV
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Setup Chrome Driver Path
-        run: |
-          which chromedriver
-          echo "CHROMEDRIVER_PATH=$(which chromedriver)" >> $GITHUB_ENV
 
       - name: Run Scraping Script
         run: |
