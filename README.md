@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday August 08 2023
+## Wednesday August 09 2023
 
 
-| Title                                                                            | Website                    | Link                                                                                                                           |
-|:---------------------------------------------------------------------------------|:---------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| Socket moves beyond JavaScript and Python and gets into Go                       | Theregister                | https://www.theregister.com/2023/08/02/socket_go_funding/                                                                      |
-| How to Implement Smooth Scrolling in JavaScript: A Guide for ...                 | MakeUseOf                  | https://www.makeuseof.com/javascript-smooth-scrolling-guide-web-developers/                                                    |
-| Nim programming language version 2.0 released, compiles to ...                   | devclass                   | https://devclass.com/2023/08/03/nim-programming-language-version-2-0-released-compiles-to-native-code-or-javascript/           |
-| Revolutionizing Crypto Mining: Tether Unveils Closed-source JavaScript Libraries | CryptoMode                 | https://cryptomode.com/revolutionizing-crypto-mining-tether-unveils-closed-source-javascript-libraries/                        |
-| Intro to Nest.js: The higher-order JavaScript and TypeScript server              | InfoWorld                  | https://www.infoworld.com/article/3703212/intro-to-nestjs-the-higher-order-javascript-and-typescript-server.html               |
-| The Challenges of CSS Positioning and JavaScript Learning                        | Fagen Wasanni Technologies | https://fagenwasanni.com/news/the-challenges-of-css-positioning-and-javascript-learning/119870/                                |
-| Troubleshooting English Summaries for a Dutch Conversation ...                   | Fagen Wasanni Technologies | https://fagenwasanni.com/news/troubleshooting-english-summaries-for-a-dutch-conversation-in-javascript/113122/                 |
-| A Beginner's Guide to Interacting With Smart Contracts Using ...                 | MakeUseOf                  | https://www.makeuseof.com/smart-contracts-interact-using-javascript/                                                           |
-| When Optimisations Go Wrong: Avoiding Bad Practices in ...                       | Medium                     | https://medium.com/@kainikhil/when-optimisations-go-wrong-avoiding-bad-practices-in-javascript-performance-tuning-8d97e7c3f73b |
-| Senior Developer (Java & JavaScript) (CPT Hybrid)                                | IT-Online                  | https://it-online.co.za/2023/08/04/senior-developer-java-javascript-cpt-hybrid/                                                |
+| Title                                                                            | Website                    | Link                                                                                                                 |
+|:---------------------------------------------------------------------------------|:---------------------------|:---------------------------------------------------------------------------------------------------------------------|
+| Nim programming language version 2.0 released, compiles to ...                   | devclass                   | https://devclass.com/2023/08/03/nim-programming-language-version-2-0-released-compiles-to-native-code-or-javascript/ |
+| How to Implement Smooth Scrolling in JavaScript: A Guide for ...                 | MakeUseOf                  | https://www.makeuseof.com/javascript-smooth-scrolling-guide-web-developers/                                          |
+| Revolutionizing Crypto Mining: Tether Unveils Closed-source JavaScript Libraries | CryptoMode                 | https://cryptomode.com/revolutionizing-crypto-mining-tether-unveils-closed-source-javascript-libraries/              |
+| Troubleshooting English Summaries for a Dutch Conversation ...                   | Fagen Wasanni Technologies | https://fagenwasanni.com/news/troubleshooting-english-summaries-for-a-dutch-conversation-in-javascript/113122/       |
+| A Beginner's Guide to Interacting With Smart Contracts Using ...                 | MakeUseOf                  | https://www.makeuseof.com/smart-contracts-interact-using-javascript/                                                 |
+| The Challenges of CSS Positioning and JavaScript Learning                        | Fagen Wasanni Technologies | https://fagenwasanni.com/news/the-challenges-of-css-positioning-and-javascript-learning/119870/                      |
+| Senior Developer (Java & JavaScript) (CPT Hybrid)                                | IT-Online                  | https://it-online.co.za/2023/08/04/senior-developer-java-javascript-cpt-hybrid/                                      |
+| How to Call a JavaScript Function from Python Code                               | HackerNoon                 | https://hackernoon.com/how-to-call-a-javascript-function-from-python-code                                            |
+| Functional Programming with JavaScript — part 2  by Ivan ...                     | Medium                     | https://medium.com/@ivanspoljaric22/functional-programming-with-javascript-part-2-7b8fbd920d6a                       |
+| 3 Ways To Block Google From Indexing AI Chatbot Content                          | Search Engine Journal      | https://www.searchenginejournal.com/ways-to-block-google-from-indexing-ai-chatbot-content/493431/                    |
