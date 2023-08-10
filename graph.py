@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 import pandas as pd
 
-df = pd.read_csv("./history.csv",parse_dates=['Date'], usecols=['Date', 'Website'])
+df = pd.read_csv("./history.csv",parse_dates=['Date'])
 
 df_week = df[(df['Date'] > (datetime.today() - timedelta(days=7)))]
 df_week = df_week.value_counts(subset=['Website']).reset_index().head()
