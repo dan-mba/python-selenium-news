@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday August 19 2023
+## Sunday August 20 2023
 
 
 | Title                                                        | Website     | Link                                                                                 |
