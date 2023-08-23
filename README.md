@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday August 22 2023
+## Wednesday August 23 2023
 
 
-| Title                                                              | Website       | Link                                                                                                                         |
-|:-------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| A Guide to Optimizing JavaScript Files — SitePoint                 | SitePoint     | https://www.sitepoint.com/optimizing-javascript-files/                                                                       |
-| Top 50 JavaScript Interview Questions with Example Answers         | Built In      | https://builtin.com/software-engineering-perspectives/javascript-interview-questions                                         |
-| Prisma.js: Code-first ORM in JavaScript                            | InfoWorld     | https://www.infoworld.com/article/3704793/code-first-orm-with-prismajs.html                                                  |
-| Guide to the JavaScript Array Filter() Method                      | Built In      | https://builtin.com/software-engineering-perspectives/javascript-filter                                                      |
-| JavaScript File Upload: Advantages And Functionalities             | MacSources    | https://macsources.com/javascript-file-upload-advantages-and-functionalities/                                                |
-| Junior Developer (JavaScript, ASP.Net)                             | IT-Online     | https://it-online.co.za/2023/08/17/junior-developer-javascript-asp-net-3/                                                    |
-| What Is the Event Loop and How Does It Improve App ...             | MakeUseOf     | https://www.makeuseof.com/javascript-event-loop-improve-app-performance/                                                     |
-| Node/React Javascript Engineer - FinTech                           | EU-Startups   | https://www.eu-startups.com/job/node-react-javascript-engineer-fintech-2/                                                    |
-| Firefox Finally Outperforming Google Chrome In SunSpider           | Phoronix      | https://www.phoronix.com/news/Firefox-Faster-SunSpider                                                                       |
-| An interactive JavaScript page for playing with particles #Art ... | Adafruit Blog | https://blog.adafruit.com/2023/08/16/an-interactive-javascript-page-for-playing-with-particles-art-javascript-austinzhenley/ |
+| Title                                                                   | Website         | Link                                                                                                                                                                   |
+|:------------------------------------------------------------------------|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript File Upload: Advantages And Functionalities                  | MacSources      | https://macsources.com/javascript-file-upload-advantages-and-functionalities/                                                                                          |
+| Front End Web Developer (Javascript, NodeJS, Vue.js)                    | IT-Online       | https://it-online.co.za/2023/08/17/front-end-web-developer-javascript-nodejs-vue-js-2/                                                                                 |
+| Firefox 'finally' beats Chrome (in a decade-old JS benchmark)           | TechSpot        | https://www.techspot.com/news/99824-firefox-finally-beats-chrome-decade-old-js-benchmark.html                                                                          |
+| Meet Chroma: An AI-Native Open-Source Vector Database ...               | MarkTechPost    | https://www.marktechpost.com/2023/08/19/meet-chroma-an-ai-native-open-source-vector-database-for-llms-a-faster-way-to-build-python-or-javascript-llm-apps-with-memory/ |
+| Map-Reduce vs. Aggregation Pipeline in MongoDB                          | MakeUseOf       | https://www.makeuseof.com/mapreduce-vs-aggregation-pipeline-mongodb/                                                                                                   |
+| JavaScript Engineer - Jobot - Hebron, KY                                | Dice.com        | https://www.dice.com/job-detail/692e18d4-2cfe-4def-9802-381c69f0bf02                                                                                                   |
+| WoofLocker Toolkit Hides Malicious Codes in Images to Run ...           | The Hacker News | https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html                                                                                              |
+| Google opens up Chrome 117 Developer Tools box, drops in a few spanners | Theregister     | https://www.theregister.com/2023/08/17/chrome_117_developer_tools/                                                                                                     |
+| Senior PHP JavaScript Full Stack Developer - Fully Remote ...           | IT-Online       | https://it-online.co.za/2023/08/16/senior-php-javascript-full-stack-developer-fully-remote-r1-2m-pa-at-e-merge-it-recruitment-remote-remote/                           |
+| Dealing with checkboxes selection issue - JavaScript                    | SitePoint       | https://www.sitepoint.com/community/t/dealing-with-checkboxes-selection-issue/424246                                                                                   |
