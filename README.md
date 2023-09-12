@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday September 11 2023
+## Tuesday September 12 2023
 
 
 | Title                                                              | Website             | Link                                                                                                               |
@@ -19,5 +19,5 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Portals Community Call, September 2023: Advanced ...               | MSDynamicsWorld.com | https://msdynamicsworld.com/event/portals-community-call-september-2023-advanced-javascript-techniques-power-pages |
 | How to Make an API Call in React: 3 Ways                           | Built In            | https://builtin.com/software-engineering-perspectives/react-api                                                    |
 | Full Stack Developer (JavaScript, TypeScript, React) - Western ... | IT-Online           | https://it-online.co.za/2023/09/07/full-stack-developer-javascript-typescript-react-western-cape-woodstock/        |
-| GNOME 45 formalizes extensions module system                       | TheRegister.        | https://www.theregister.com/2023/09/08/gnome_45_esm_extensions/                                                    |
 | Node.js upgrade adds environment variable config                   | InfoWorld           | https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html                     |
+| GNOME 45 formalizes extensions module system                       | TheRegister.        | https://www.theregister.com/2023/09/08/gnome_45_esm_extensions/                                                    |
