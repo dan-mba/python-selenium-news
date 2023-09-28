@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday September 27 2023
+## Thursday September 28 2023
 
 
 | Title                                                            | Website                   | Link                                                                                                                                                    |
@@ -19,5 +19,5 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | MySQL HeatWave Gets Generative AI and JavaScript, Slew of ...    | The New Stack             | https://thenewstack.io/mysql-heatwave-gets-generative-ai-and-javascript-slew-of-new-features/                                                           |
 | Fixing dates and amounts in JavaScript - JavaScript              | SitePoint                 | https://www.sitepoint.com/community/t/fixing-dates-and-amounts-in-javascript/427527                                                                     |
 | Moddable Unveils Moddable Four, Industry's First Ultra Low ...   | PR Newswire               | https://www.prnewswire.com/news-releases/moddable-unveils-moddable-four-industrys-first-ultra-low-power-platform-for-embedded-javascript-301935197.html |
+| Checking Username with ajax and stop entery into database ...    | SitePoint                 | https://www.sitepoint.com/community/t/checking-username-with-ajax-and-stop-entery-into-database-table/427626                                            |
 | Why Python Surpasses JavaScript and C++ in Ranking               | Analytics Insight         | https://www.analyticsinsight.net/why-python-surpasses-javascript-and-c-in-ranking/                                                                      |
-| Problem with swiper slider - JavaScript                          | SitePoint                 | https://www.sitepoint.com/community/t/problem-with-swiper-slider/426965                                                                                 |
