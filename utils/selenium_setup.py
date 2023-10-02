@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 import os
 
@@ -9,8 +8,8 @@ def selenium_setup():
     test_driver_path = os.path.join(cwd_path, 'bin', 'chromedriver')
     driver_path = os.environ.get('CHROMEDRIVER_PATH', test_driver_path)
 
-    options = Options()
-    options.headless = True
+    options = webdriver.ChromeOptions()
+    options.add_argument('--headless')
     if "CHROME_PATH" in os.environ:
         options.binary_location = os.environ["CHROME_PATH"]
     driver_service = Service(executable_path=driver_path)
