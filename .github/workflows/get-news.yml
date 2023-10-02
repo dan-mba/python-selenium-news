@@ -19,13 +19,20 @@ jobs:
           python-version: '3.x'
           cache: 'pip'
 
+      # - name: Setup Chrome & Driver
+      #   run: |
+      #     P_CHROME=$(npx @puppeteer/browsers install --path /tmp chrome@stable)
+      #     echo "CHROME_PATH=$(echo $P_CHROME | cut -d' ' -f2)" >> $GITHUB_ENV
+      #     P_DRIVER=$(npx @puppeteer/browsers install --path /tmp chromedriver@stable)
+      #     echo "CHROMEDRIVER_PATH=$(echo $P_DRIVER | cut -d' ' -f2)" >> $GITHUB_ENV
+
       - name: Setup Chrome & Driver
-        # uses: nanasess/setup-chromedriver@v2
+        uses: nanasess/setup-chromedriver@v2
+
+      - name: Setup Chrome Driver Path
         run: |
-          P_CHROME=$(npx @puppeteer/browsers install --path /tmp chrome@stable)
-          echo "CHROME_PATH=$(echo $P_CHROME | cut -d' ' -f2)" >> $GITHUB_ENV
-          P_DRIVER=$(npx @puppeteer/browsers install --path /tmp chromedriver@stable)
-          echo "CHROMEDRIVER_PATH=$(echo $P_DRIVER | cut -d' ' -f2)" >> $GITHUB_ENV
+          which chromedriver
+          echo "CHROMEDRIVER_PATH=$(which chromedriver)" >> $GITHUB_ENV
 
       - name: Install dependencies
         run: |
