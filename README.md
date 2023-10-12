@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday October 11 2023
+## Thursday October 12 2023
 
 
-| Title                                                            | Website            | Link                                                                                                                         |
-|:-----------------------------------------------------------------|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Functional Programming in JavaScript is Not That Overrated       | Medium             | https://medium.com/@PurpleGreenLemon/functional-programming-in-javascript-is-not-that-overrated-dab5536c4f68                 |
-| Intro to Hyperscript: Rethinking JavaScript                      | InfoWorld          | https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html                                    |
-| Coding with Latenode's AI + JavaScript Assistant: A Low-Code ... | HackerNoon         | https://hackernoon.com/coding-with-latenodes-ai-javascript-assistant-a-low-code-platform-for-simplified-development          |
-| Execution of Arbitrary JavaScript in Android Application         | Security Boulevard | https://securityboulevard.com/2023/10/execution-of-arbitrary-javascript-in-android-application/                              |
-| JavaScript's New Horizon: Exploring the Potential of Pattern ... | Medium             | https://medium.com/@codeeverywhere/javascripts-new-horizon-exploring-the-potential-of-pattern-matching-proposal-8e3c5f93cb37 |
-| Combating AI-Generated Fake Images with JavaScript ...           | InfoQ              | https://www.infoq.com/news/2023/10/combating-fake-images-qcon-sf/                                                            |
-| QCon SF 2023: Streamlining Cloud Development with Deno ...       | InfoQ              | https://www.infoq.com/news/2023/10/streamlining-cloud-deno-dahl/                                                             |
-| How to Lazy Load Images Using HTML and JavaScript                | MakeUseOf          | https://www.makeuseof.com/lazy-load-images-html-javascript/                                                                  |
-| Make A Date With JavaScript Day 2023                             | I Programmer       | https://www.i-programmer.info/news/167-javascript/16659-make-a-date-with-javascript-day-2023.html                            |
-| TypeScript 5.3 adds support for import attributes                | InfoWorld          | https://www.infoworld.com/article/3708188/typescript-53-adds-support-for-import-attributes.html                              |
+| Title                                                            | Website               | Link                                                                                                                                                                 |
+|:-----------------------------------------------------------------|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Functional Programming in JavaScript is Not That Overrated       | Medium                | https://medium.com/@PurpleGreenLemon/functional-programming-in-javascript-is-not-that-overrated-dab5536c4f68                                                         |
+| Intro to Hyperscript: Rethinking JavaScript                      | InfoWorld             | https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html                                                                            |
+| Combating AI-Generated Fake Images with JavaScript ...           | InfoQ                 | https://www.infoq.com/news/2023/10/combating-fake-images-qcon-sf/                                                                                                    |
+| Make A Date With JavaScript Day 2023                             | I Programmer          | https://www.i-programmer.info/news/167-javascript/16659-make-a-date-with-javascript-day-2023.html                                                                    |
+| JavaScript's New Horizon: Exploring the Potential of Pattern ... | Medium                | https://medium.com/@codeeverywhere/javascripts-new-horizon-exploring-the-potential-of-pattern-matching-proposal-8e3c5f93cb37?responsesOpen=true&sortBy=REVERSE_CHRON |
+| The Power of Open Source and JavaScript: The Journey of ...      | HackerNoon            | https://hackernoon.com/the-power-of-open-source-and-javascript-the-journey-of-globalping                                                                             |
+| How to Lazy Load Images Using HTML and JavaScript                | MakeUseOf             | https://www.makeuseof.com/lazy-load-images-html-javascript/                                                                                                          |
+| X-Force uncovers global NetScaler Gateway credential ...         | Security Intelligence | https://securityintelligence.com/x-force/x-force-uncovers-global-netscaler-gateway-credential-harvesting-campaign/                                                   |
+| Is there a way to 'break' when a value changes?                  | SitePoint             | https://www.sitepoint.com/community/t/is-there-a-way-to-break-when-a-value-changes/428992/                                                                           |
+| Best JavaScript Books to Help Job Seekers Learn and ...          | dataquest             | https://www.dqindia.com/best-javascript-books-to-help-job-seekers-learn-and-advance-their-career/                                                                    |
