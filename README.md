@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday October 17 2023
+## Wednesday October 18 2023
 
 
-| Title                                                              | Website      | Link                                                                                                                         |
-|:-------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Is there a way to check for typos in JavaScript?                   | SitePoint    | https://www.sitepoint.com/community/t/is-there-a-way-to-check-for-typos-in-javascript/428971                                 |
-| Intro to Hyperscript: Rethinking JavaScript                        | InfoWorld    | https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html                                    |
-| JavaScript Security Best Practices  by Dale Clifford  Internet ... | Medium       | https://medium.com/internetstack/javascript-security-best-practices-cf7a364a699f                                             |
-| Exploring the checkIfExist Function in JavaScript  by Akhil ...    | Medium       | https://medium.com/@akhilkumarp/exploring-the-checkifexist-function-in-javascript-25641346a569                               |
-| JavaScript's New Horizon: Exploring the Potential of Pattern ...   | Medium       | https://medium.com/@codeeverywhere/javascripts-new-horizon-exploring-the-potential-of-pattern-matching-proposal-8e3c5f93cb37 |
-| Scammers Use JavaScript to Target Friendtech Users                 | CoinGape     | https://coingape.com/scammers-use-javascript-to-target-friendtech-users/                                                     |
-| How to Create a Simple Contact Form Using HTML, CSS, and ...       | MakeUseOf    | https://www.makeuseof.com/create-contact-form-html-css-js/                                                                   |
-| Make A Date With JavaScript Day 2023                               | I Programmer | https://www.i-programmer.info/news/167-javascript/16659-make-a-date-with-javascript-day-2023.html                            |
-| Is there a way to 'break' when a value changes?                    | SitePoint    | https://www.sitepoint.com/community/t/is-there-a-way-to-break-when-a-value-changes/428992                                    |
-| How to Lazy Load Images Using HTML and JavaScript                  | MakeUseOf    | https://www.makeuseof.com/lazy-load-images-html-javascript/                                                                  |
+| Title                                                           | Website             | Link                                                                                                      |
+|:----------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------------|
+| Scammers Use JavaScript to Target Friendtech Users              | CoinGape            | https://coingape.com/scammers-use-javascript-to-target-friendtech-users/                                  |
+| The Importance of JavaScript for Modern Websites                | Game Is Hard        | https://gameishard.gg/news/the-importance-of-javascript-for-modern-websites/386565/                       |
+| Exploring the checkIfExist Function in JavaScript  by Akhil ... | Medium              | https://medium.com/@akhilkumarp/exploring-the-checkifexist-function-in-javascript-25641346a569            |
+| How to Create a Simple Contact Form Using HTML, CSS, and ...    | MakeUseOf           | https://www.makeuseof.com/create-contact-form-html-css-js/                                                |
+| Is there a way to 'break' when a value changes?                 | SitePoint           | https://www.sitepoint.com/community/t/is-there-a-way-to-break-when-a-value-changes/428992                 |
+| The Importance of JavaScript in Modern Websites                 | Game Is Hard        | https://gameishard.gg/news/the-importance-of-javascript-in-modern-websites/334430/                        |
+| Your Ultimate Guide To Implementing A Blockchain With ...       | Blockchain Magazine | https://blockchainmagazine.net/your-ultimate-guide-to-implementing-a-blockchain-with-javascript/          |
+| Scripting vs. programming languages: Where they differ          | TechTarget          | https://www.techtarget.com/searchapparchitecture/tip/Scripting-vs-programming-languages-Where-they-differ |
+| OpenJS Foundation: Node.js 21 arrives                           | Computer Weekly     | https://www.computerweekly.com/blog/Open-Source-Insider/OpenJS-Foundation-Nodejs-21-arrives               |
+| Report finds few open source projects actively maintained       | InfoWorld           | https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html  |
