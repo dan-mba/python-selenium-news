@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday October 31 2023
+## Wednesday November 01 2023
 
 
-| Title                                                                            | Website           | Link                                                                                                                          |
-|:---------------------------------------------------------------------------------|:------------------|:------------------------------------------------------------------------------------------------------------------------------|
-| How to Get Advantages of TypeScript in JavaScript                                | The New Stack     | https://thenewstack.io/how-to-get-advantages-of-typescript-in-javascript/                                                     |
-| JavaScript Day 2023 - What's In Store                                            | I Programmer      | https://www.i-programmer.info/news/167-javascript/16713-javascript-day-2023-whats-in-store.html                               |
-| How to Use Pointer Events in JavaScript                                          | MakeUseOf         | https://www.makeuseof.com/javascript-pointer-events/                                                                          |
-| How to Use Astro with a Sprinkling of React                                      | The New Stack     | https://thenewstack.io/how-to-use-astro-with-a-sprinkling-of-react/                                                           |
-| Roundcube webmail zero-day exploited to spy on government ...                    | Help Net Security | https://www.helpnetsecurity.com/2023/10/25/roundcube-webmail-zero-day-exploited-to-spy-on-government-entities-cve-2023-5631/  |
-| What is Formjacking? How It Works & How to Detect It                             | Techopedia        | https://www.techopedia.com/definition/formjacking                                                                             |
-| GP Cellulose to celebrate 85th anniversary with First Friday exhibit             | Yahoo Finance     | https://finance.yahoo.com/news/gp-cellulose-celebrate-85th-anniversary-091800919.html                                         |
-| Tallship visits Brunswick, to open for tours                                     | AOL.com           | https://www.aol.com/tallship-visits-brunswick-open-tours-091700593.html                                                       |
-| Five Actionable Website Optimization Tips For Ultimate Performance               | Forbes            | https://www.forbes.com/sites/forbestechcouncil/2023/10/26/five-actionable-website-optimization-tips-for-ultimate-performance/ |
-| Privacy advocate challenges YouTube's ad blocking detection scripts under EU law | Theregister       | https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/                                                   |
+| Title                                                                                                | Website           | Link                                                                                                                                           |
+|:-----------------------------------------------------------------------------------------------------|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| How to Get Advantages of TypeScript in JavaScript                                                    | The New Stack     | https://thenewstack.io/how-to-get-advantages-of-typescript-in-javascript/                                                                      |
+| A Complete Guide to LangChain in JavaScript — SitePoint                                              | SitePoint         | https://www.sitepoint.com/langchain-javascript-complete-guide/                                                                                 |
+| JavaScript Day 2023 - What's In Store                                                                | I Programmer      | https://www.i-programmer.info/news/167-javascript/16713-javascript-day-2023-whats-in-store.html                                                |
+| How to Use Pointer Events in JavaScript                                                              | MakeUseOf         | https://www.makeuseof.com/javascript-pointer-events/                                                                                           |
+| Valletta Software Development Company Investigates How a Simple Code Review Exposed a Digital Danger | Yahoo Finance     | https://finance.yahoo.com/news/valletta-software-development-company-investigates-090000797.html                                               |
+| REMOTE Application Support Manager C# SQL Trading ...                                                | eFinancialCareers | https://www.efinancialcareers.com/jobs-USA-NY-Manhattan-REMOTE_Application_Support_Manager_C_SQL_Trading_Finance.id20413690                    |
+| Five Actionable Website Optimization Tips For Ultimate Performance                                   | Forbes            | https://www.forbes.com/sites/forbestechcouncil/2023/10/26/five-actionable-website-optimization-tips-for-ultimate-performance/                  |
+| Intro to OOP: The everyday programming style                                                         | InfoWorld         | https://www.infoworld.com/article/3709690/what-is-object-oriented-programming-the-everyday-programming-style.html                              |
+| Javascript Develop Service Industry Thriving at a Tremendous ...                                     | Argyle Report     | https://www.argylereport.com/golf/javascript-develop-service-industry-thriving-at-a-tremendous-growth-mercury-development-kamee-mozilla/28040/ |
+| Privacy advocate challenges YouTube's ad blocking detection scripts under EU law                     | Theregister       | https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/                                                                    |
