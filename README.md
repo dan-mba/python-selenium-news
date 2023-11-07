@@ -6,18 +6,18 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday August 09 2023
+## Tuesday November 07 2023
 
 
-| Title                                                                            | Website                    | Link                                                                                                                 |
-|:---------------------------------------------------------------------------------|:---------------------------|:---------------------------------------------------------------------------------------------------------------------|
-| Nim programming language version 2.0 released, compiles to ...                   | devclass                   | https://devclass.com/2023/08/03/nim-programming-language-version-2-0-released-compiles-to-native-code-or-javascript/ |
-| How to Implement Smooth Scrolling in JavaScript: A Guide for ...                 | MakeUseOf                  | https://www.makeuseof.com/javascript-smooth-scrolling-guide-web-developers/                                          |
-| Revolutionizing Crypto Mining: Tether Unveils Closed-source JavaScript Libraries | CryptoMode                 | https://cryptomode.com/revolutionizing-crypto-mining-tether-unveils-closed-source-javascript-libraries/              |
-| Troubleshooting English Summaries for a Dutch Conversation ...                   | Fagen Wasanni Technologies | https://fagenwasanni.com/news/troubleshooting-english-summaries-for-a-dutch-conversation-in-javascript/113122/       |
-| A Beginner's Guide to Interacting With Smart Contracts Using ...                 | MakeUseOf                  | https://www.makeuseof.com/smart-contracts-interact-using-javascript/                                                 |
-| The Challenges of CSS Positioning and JavaScript Learning                        | Fagen Wasanni Technologies | https://fagenwasanni.com/news/the-challenges-of-css-positioning-and-javascript-learning/119870/                      |
-| Senior Developer (Java & JavaScript) (CPT Hybrid)                                | IT-Online                  | https://it-online.co.za/2023/08/04/senior-developer-java-javascript-cpt-hybrid/                                      |
-| How to Call a JavaScript Function from Python Code                               | HackerNoon                 | https://hackernoon.com/how-to-call-a-javascript-function-from-python-code                                            |
-| Functional Programming with JavaScript — part 2  by Ivan ...                     | Medium                     | https://medium.com/@ivanspoljaric22/functional-programming-with-javascript-part-2-7b8fbd920d6a                       |
-| 3 Ways To Block Google From Indexing AI Chatbot Content                          | Search Engine Journal      | https://www.searchenginejournal.com/ways-to-block-google-from-indexing-ai-chatbot-content/493431/                    |
+| Title                                                            | Website        | Link                                                                                                                                          |
+|:-----------------------------------------------------------------|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript Map and Set Tutorial                                  | TechRepublic   | https://www.techrepublic.com/article/javascript-map-set-tutorial/                                                                             |
+| A Complete Guide to LangChain in JavaScript — SitePoint          | SitePoint      | https://www.sitepoint.com/langchain-javascript-complete-guide/                                                                                |
+| How to make a JavaScript code which failed to run one ...        | SitePoint      | https://www.sitepoint.com/community/t/how-to-make-a-javascript-code-which-failed-to-run-one-webpage-to-run-anyway-on-any-other-webpage/431212 |
+| JS13K: Play the Games JavaScript Developers Built with Only ...  | The New Stack  | https://thenewstack.io/js13k-play-the-games-javascript-developers-built-with-only-13k/                                                        |
+| Mastering Mobile App Development: JavaScript Frameworks Unveiled | MobileAppDaily | https://www.mobileappdaily.com/knowledge-hub/javascript-frameworks-for-mobile-app-development                                                 |
+| WebAssembly vs. Kubernetes: Understand the relationship          | TechTarget     | https://www.techtarget.com/searchitoperations/tip/WebAssembly-vs-Kubernetes-Understand-the-relationship                                       |
+| Intro to OOP: The everyday programming style                     | InfoWorld      | https://www.infoworld.com/article/3709690/what-is-object-oriented-programming-the-everyday-programming-style.html                             |
+| Creating Real-Time Virtual Backgrounds With BodyPix and ...      | HackerNoon     | https://hackernoon.com/creating-real-time-virtual-backgrounds-with-bodypix-and-webcam-in-html-and-javascript                                  |
+| “My TIIDELab Experience 4.0- Embracing the Abyss”  by ...        | Medium         | https://medium.com/@doyedunmade/my-tiidelab-experience-4-0-embracing-the-abyss-fee21cd5decb                                                   |
+| Go/JavaScript Engineer up to 125K                                | IamExpat       | https://www.iamexpat.nl/career/jobs-netherlands/amsterdam/it-technology/gojavascript-engineer-125k/429694                                     |
