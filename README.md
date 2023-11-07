@@ -21,3 +21,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Creating Real-Time Virtual Backgrounds With BodyPix and ...      | HackerNoon     | https://hackernoon.com/creating-real-time-virtual-backgrounds-with-bodypix-and-webcam-in-html-and-javascript                                  |
 | “My TIIDELab Experience 4.0- Embracing the Abyss”  by ...        | Medium         | https://medium.com/@doyedunmade/my-tiidelab-experience-4-0-embracing-the-abyss-fee21cd5decb                                                   |
 | Go/JavaScript Engineer up to 125K                                | IamExpat       | https://www.iamexpat.nl/career/jobs-netherlands/amsterdam/it-technology/gojavascript-engineer-125k/429694                                     |
+
+## Top Sites for Past 7 Days
+
+![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)

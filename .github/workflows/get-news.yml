@@ -49,6 +49,14 @@ jobs:
           echo -e "\n## $(date '+%A %B %d %Y')\n\n" >> README.md
           cat news.md >> README.md
 
+      - name: Run Grpah Creation
+        run: |
+          python graph.py
+  
+      - name: Copy Graph to Readme
+        run: |
+          cat README-graph.md >> README.md
+
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
