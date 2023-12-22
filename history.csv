@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-The Getting Started with AI Stack for JavaScript,Andreessen Horowitz,https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript/,2023-06-25
-Powerful JavaScript Dropper PindOS Distributes Bumblebee and IcedID Malware,The Hacker News,https://thehackernews.com/2023/06/powerful-javascript-dropper-pindos.html,2023-06-25
-Too Much JavaScript? Why the Frontend Needs to Build Better,The New Stack,https://thenewstack.io/too-much-javascript-why-the-frontend-needs-to-build-better/,2023-06-25
-How to Check for Null in JavaScript,Built In,https://builtin.com/software-engineering-perspectives/javascript-null-check,2023-06-25
-Functional Programming in JavaScript: Unlocking the Power ...,CityLife,https://citylife.capetown/uncategorized/functional-programming-in-javascript-unlocking-the-power-of-es6/227516/,2023-06-25
-New JavaScript-based Dropper Delivers Bumblebee and IcedID Malware,GBHackers,https://gbhackers.com/javascript-based-dropper/,2023-06-25
-SolidJS: The Powerful and Reactive JavaScript Framework ...,Open Source For You,https://www.opensourceforu.com/2023/06/solidjs-the-powerful-and-reactive-javascript-framework-you-should-use/,2023-06-25
-Learn About JavaScript Closures: A Beginner's Guide,HackerNoon,https://hackernoon.com/learn-about-javascript-closures-a-beginners-guide,2023-06-25
-Progressive enhancement and JavaScript frameworks — a ...,Richard Bultitude,https://rbultitudezone.medium.com/progressive-enhancement-and-javascript-frameworks-a-complicated-relationship-254892b652cb,2023-06-25
-An ESP8266 Simulator in JavaScript #Emulation ...,Adafruit Blog,https://blog.adafruit.com/2023/06/21/an-esp8266-simulator-in-javascript-emulation-wokwimakes/,2023-06-25
 The Getting Started with AI Stack for JavaScript,Andreessen Horowitz,https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript/,2023-06-26
 JavaScript: A Complex Love Story - A Dissection and ...,HackerNoon,https://hackernoon.com/javascript-a-complex-love-story-a-dissection-and-probable-resolution,2023-06-26
 Powerful JavaScript Dropper PindOS Distributes Bumblebee and IcedID Malware,The Hacker News,https://thehackernews.com/2023/06/powerful-javascript-dropper-pindos.html,2023-06-26
@@ -1769,3 +1759,13 @@ PHP not reading POST data sent from JavaScript fetch,SitePoint,https://www.sitep
 How I Moved to Berlin Using ChatGPT and JavaScript,HackerNoon,https://hackernoon.com/how-i-moved-to-berlin-using-chatgpt-and-javascript,2023-12-21
 Moving the contents inside squares in a particular order,SitePoint,https://www.sitepoint.com/community/t/moving-the-contents-inside-squares-in-a-particular-order/434556,2023-12-21
 BYU professors can detect identity fraud by tracking computer ...,BYU News,https://news.byu.edu/byu-professors-can-detect-identity-fraud-by-tracking-computer-keystrokes,2023-12-21
+"New JavaScript Malware Targeted 50,000+ Users at Dozens ...",The Hacker News,https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html,2023-12-22
+Something nasty injected login-stealing JavaScript into 50K online banking sessions,The Register,https://www.theregister.com/2023/12/20/credentialstealing_malware_infects_50k_banking/,2023-12-22
+Web injections are back on the rise: 40+ banks affected by ...,Security Intelligence,https://securityintelligence.com/posts/web-injections-back-on-rise-banks-affected-danabot-malware/,2023-12-22
+"VanJS: A Minimalist, 'Vanilla JavaScript' UI Framework",The New Stack,https://thenewstack.io/vanjs-a-minimalist-vanilla-javascript-ui-framework/,2023-12-22
+"JavaScript in 2023: Signals, React's RSC, and Full-Stack JS",The New Stack,https://thenewstack.io/javascript-in-2023-signals-reacts-rsc-and-full-stack-js/,2023-12-22
+"Web Development in 2023: JavaScript Still Rules, AI Emerges",The New Stack,https://thenewstack.io/web-development-in-2023-javascript-still-rules-ai-emerges/,2023-12-22
+PHP not reading POST data sent from JavaScript fetch,SitePoint,https://www.sitepoint.com/community/t/php-not-reading-post-data-sent-from-javascript-fetch/434652,2023-12-22
+10 Reasons JavaScript Could Be Outpaced by 2025  by Ava ...,Medium,https://medium.com/@jane2001/10-reasons-javascript-could-be-outpaced-by-2025-dadb212d132d,2023-12-22
+"Mastering JavaScript Proxy and Reflect  by Tsz  Dec, 2023",Level Up Coding,https://levelup.gitconnected.com/mastering-javascript-proxy-and-reflect-8eb0a0167527,2023-12-22
+How I Moved to Berlin Using ChatGPT and JavaScript,HackerNoon,https://hackernoon.com/how-i-moved-to-berlin-using-chatgpt-and-javascript,2023-12-22
