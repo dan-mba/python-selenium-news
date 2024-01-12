@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-A guide to diagnosing common JavaScript SEO issues,Search Engine Land,https://searchengineland.com/diagnosing-common-javascript-seo-issues-guide-429178,2023-07-16
-Ternary Operator in JavaScript Explained,Built In,https://builtin.com/software-engineering-perspectives/ternary-operator-js,2023-07-16
-How to Build an Image Magnifier With Vanilla JavaScript,MakeUseOf,https://www.makeuseof.com/image-magnifier-vanilla-javascript-how-build/,2023-07-16
-A Ultimate Guide to Understanding JavaScript for Web ...,Medium,https://medium.com/@dwomowale/a-ultimate-guide-to-understanding-javascript-for-web-development-fe29d980f1f7,2023-07-16
-Termux and Node.js: Exploring JavaScript on Android,Medium,https://medium.com/@desmondmutuma35/termux-and-node-js-exploring-javascript-on-android-a1a5871e07e5,2023-07-16
-JavaScript with 'then' and 'BLOB' is a bit not comfortable for ...,SitePoint,https://www.sitepoint.com/community/t/javascript-with-then-and-blob-is-a-bit-not-comfortable-for-me-to-work-with-is-there-any-alternative/420809,2023-07-16
-"Junior Developer (JavaScript, ASP.Net)",IT-Online,https://it-online.co.za/2023/07/12/junior-developer-javascript-asp-net-2/,2023-07-16
-BSides Knoxville 2023 – Omar Minawi – Client-Side JavaScript From Your Nightmares: Multi-Step X...,Security Boulevard,https://securityboulevard.com/2023/07/bsides-knoxville-2023-omar-minawi-client-side-javascript-from-your-nightmares-multi-step-xss-attacks-and-defenses/,2023-07-16
-How to Gain 10x Productivity By Utilizing These 2 Time ...,Entrepreneur,https://www.entrepreneur.com/science-technology/how-to-gain-10x-productivity-by-utilizing-these-2/455042,2023-07-16
-.NET 8 Preview 6 Bolsters New Blazor Rendering Schemes,Visual Studio Magazine,https://visualstudiomagazine.com/articles/2023/07/11/blazor-preview.aspx?m=1,2023-07-16
 A guide to diagnosing common JavaScript SEO issues,Search Engine Land,https://searchengineland.com/diagnosing-common-javascript-seo-issues-guide-429178,2023-07-17
 A Ultimate Guide to Understanding JavaScript for Web ...,Dwayne Wong (Omowale),https://dwomowale.medium.com/a-ultimate-guide-to-understanding-javascript-for-web-development-fe29d980f1f7,2023-07-17
 Ternary Operator in JavaScript Explained,Built In,https://builtin.com/software-engineering-perspectives/ternary-operator-js,2023-07-17
@@ -1769,3 +1759,13 @@ Understanding Nested Arrays: A Hotel Adventure in JavaScript!,Medium,https://med
 Demystifying Memoization and Hoisting in JavaScript  by Ritik ...,Medium,https://medium.com/@ritiksingh07/demystifying-memoization-and-hoisting-in-javascriptintroduction-d98d3cc37fc8,2024-01-11
 "Vue framework speeds template parsing, improves reactivity",InfoWorld,https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html,2024-01-11
 20 Best JavaScript Editors for Linux,GeekyGen,https://geekygen.com/best-javascript-editors-for-linux/,2024-01-11
+"JavaScript Malware: 50,000+ Bank Users at Risk Worldwide",Security Boulevard,https://securityboulevard.com/2024/01/javascript-malware-50000-bank-users-at-risk-worldwide/,2024-01-12
+JavaScript functions stored procedures previewed in MySQL ...,devclass,https://devclass.com/2024/01/09/javascript-functions-stored-procedures-previewed-in-mysql-but-developers-are-wary/,2024-01-12
+How To Troubleshoot 'Discord JavaScript Error' On Windows,SlashGear,https://www.slashgear.com/1486737/how-to-troubleshoot-discord-javascript-error-windows/,2024-01-12
+ngrok Solves Ingress for Large Developer Communities with ...,Database Trends and Applications,https://www.dbta.com/Editorial/News-Flashes/ngrok-Solves-Ingress-for-Large-Developer-Communities-with-JavaScript-and-Python-SDKs-162034.aspx,2024-01-12
+JavaScript Promises: Your Toolkit for Asynchronous ...,Medium,https://medium.com/@harshvardhanonweb/javascript-promises-your-toolkit-for-asynchronous-excellence-9a08f87ec87d,2024-01-12
+Understanding Nested Arrays: A Hotel Adventure in JavaScript!,Medium,https://medium.com/@thedevbek/understanding-nested-arrays-a-hotel-adventure-in-javascript-6551507a2447,2024-01-12
+"Vue framework speeds template parsing, improves reactivity",InfoWorld,https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html,2024-01-12
+20 Best JavaScript Editors for Linux,GeekyGen,https://geekygen.com/best-javascript-editors-for-linux/,2024-01-12
+Full Stack Typescript / JavaScript Developer LW0587,IT-Online,https://it-online.co.za/2024/01/09/full-stack-typescript-javascript-developer-lw0587/,2024-01-12
+Alpine adds a new build to work with Content Security Policies,Laravel News,https://laravel-news.com/alpinejs-csp,2024-01-12
