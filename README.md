@@ -6,14 +6,14 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday February 03 2024
+## Sunday February 04 2024
 
 
 | Title                                                                                       | Website             | Link                                                                                                                      |
 |:--------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Learn More by Building Your Own Custom JavaScript Framework                                 | The New Stack       | https://thenewstack.io/learn-more-by-building-your-own-custom-javascript-framework/                                       |
 | Get 'JavaScript All-in-One For Dummies' (worth $24) for FREE                                | BetaNews            | https://betanews.com/2024/02/02/get-javascript-all-in-one-for-dummies-worth-24-for-free/                                  |
-| How to write custome forEach in Javascript?  by Priti Jha  Feb, 2024  Medium                | Medium              | https://jhapriti09.medium.com/how-to-write-custome-foreach-in-javascript-b1d5f9743b4a                                     |
+| How to write custome forEach in Javascript?  by Priti Jha  Feb, 2024                        | Medium              | https://medium.com/@jhapriti09/how-to-write-custome-foreach-in-javascript-b1d5f9743b4a                                    |
 | Fixing bug-prone JavaScript dates: Deno 1.4 adds its support for Temporal API • DEVCLASS    | devclass            | https://devclass.com/2024/01/29/fixing-bug-prone-javascript-dates-deno-1-4-adds-its-support-for-temporal-api/             |
 | Top 100+ Node.js Interview Questions and Answers for 2024                                   | Simplilearn.com     | https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions                                          |
 | ‘Ethical Hacking’ and Java-Script: These eBooks are free from TradePub for 9to5Toys readers | 9to5Toys            | https://9to5toys.com/2024/02/01/ethical-hacking-and-java-script-these-ebooks-are-free-from-tradepub-for-9to5toys-readers/ |
