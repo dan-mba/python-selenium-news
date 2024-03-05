@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday March 04 2024
+## Tuesday March 05 2024
 
 
-| Title                                                                                 | Website           | Link                                                                                                                                       |
-|:--------------------------------------------------------------------------------------|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| What is JavaScript? The full-stack programming language                               | InfoWorld         | https://www.infoworld.com/article/3441178/what-is-javascript-the-full-stack-programming-language.html                                      |
-| How to learn JavaScript—the most popular coding language and earn a six-figure salary | Fortune           | https://fortune.com/education/careers/how-to-learn-javascript/                                                                             |
-| JavaScript Runs the World—Maybe Even Literally                                        | WIRED             | https://www.wired.com/story/javascript-runs-the-world-maybe-literally/                                                                     |
-| 20 Javascript Tools Revolutionizing Web Development Today                             | Simplilearn.com   | https://www.simplilearn.com/javascript-tools-for-web-development-article                                                                   |
-| A Comprehensive Guide to Cryptography in JavaScript  by Caleb  Mar, 2024              | Medium            | https://medium.com/@calebpr/a-comprehensive-guide-to-cryptography-in-javascript-5a2e7f42cc1b?responsesOpen=true&sortBy=REVERSE_CHRON       |
-| Brackets vs braces vs parentheses: What's the difference?                             | TheServerSide     | https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Whats-the-difference-between-brackets-braces-and-parentheses |
-| How active adversaries divide labor to more effectively target victims                | SC Media          | https://www.scmagazine.com/resource/how-active-adversaries-divide-labor-to-more-effectively-target-victims                                 |
-| JavaScript Dominates Web Development: High Demand for Skilled Programmers Persists    | BNN Breaking      | https://bnnbreaking.com/tech/javascript-dominates-web-development-high-demand-for-skilled-programmers-persists                             |
-| Earth Lusca Uses Geopolitical Lure to Target Taiwan Before Elections                  | Trend Micro       | https://www.trendmicro.com/en_us/research/24/b/earth-lusca-uses-geopolitical-lure-to-target-taiwan.html                                    |
-| ECMAScript 5: The Latest in JavaScript Programming                                    | Analytics Insight | https://www.analyticsinsight.net/web-stories/ecmascript-5-the-latest-in-javascript-programming/                                            |
+| Title                                                                                                          | Website         | Link                                                                                                                       |
+|:---------------------------------------------------------------------------------------------------------------|:----------------|:---------------------------------------------------------------------------------------------------------------------------|
+| What is JavaScript? The full-stack programming language                                                        | InfoWorld       | https://www.infoworld.com/article/3441178/what-is-javascript-the-full-stack-programming-language.html                      |
+| How to learn JavaScript—the most popular coding language and earn a six-figure salary                          | Fortune         | https://fortune.com/education/careers/how-to-learn-javascript/                                                             |
+| JavaScript Runs the World—Maybe Even Literally                                                                 | WIRED           | https://www.wired.com/story/javascript-runs-the-world-maybe-literally/                                                     |
+| Deno 1.40 Released, Features Upcoming JavaScript's Temporal API and Decorators                                 | InfoQ.com       | https://www.infoq.com/news/2024/02/deno-1-40-decorators-temporal/                                                          |
+| Ruby on Rails vs JavaScript: A Developer's Dilemma [2024]                                                      | Simplilearn.com | https://www.simplilearn.com/ruby-on-rails-vs-javascript-article                                                            |
+| Leetcode: Rotate Array (189). Problem no. 189 (Rotate Array) using…  by Ayush Tibra  The Tech Bible  Mar, 2024 | Medium          | https://medium.com/the-tech-bible/leetcode-rotate-array-189-a82817701d3d                                                   |
+| Web Developer's Guide to the 2024 Esri Developer Summit                                                        | Esri            | https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/web-developers-guide-to-the-2024-esri-developer-summit/ |
+| JavaScript: Empowered by Rust                                                                                  | InfoQ.com       | https://www.infoq.com/presentations/rust-javascript/                                                                       |
+| Most Twin Cities suburbs are unaffordable for middle-income home buyers.                                       | Star Tribune    | https://www.startribune.com/hot-housing-where-can-i-afford-to-live/600346257/                                              |
+| JavaScript Dominates Web Development: High Demand for Skilled Programmers Persists                             | BNN Breaking    | https://bnnbreaking.com/tech/javascript-dominates-web-development-high-demand-for-skilled-programmers-persists             |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
