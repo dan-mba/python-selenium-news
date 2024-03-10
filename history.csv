@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Coding Tips to Sidestep JavaScript Vulnerabilities,Dark Reading,https://www.darkreading.com/dr-tech/coding-tips-to-sidestep-javascript-vulnerabilities,2023-09-12
-How to Become a Full-Stack JavaScript Developer,Dice.com,https://www.dice.com/career-advice/how-to-become-a-full-stack-javascript-developer,2023-09-12
-Ways To Use JavaScript On You Website,ReadWrite,https://readwrite.com/5-ways-to-use-javascript-to-add-interactivity-to-your-website/,2023-09-12
-Bun 1.0 is out of the oven,InfoWorld,https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html,2023-09-12
-Misconceptions About JavaScript. Introduction  by Hudson ...,Medium,https://medium.com/@cubettech11/misconceptions-about-javascript-43c90dd455ee,2023-09-12
-"Portals Community Call, September 2023: Advanced ...",MSDynamicsWorld.com,https://msdynamicsworld.com/event/portals-community-call-september-2023-advanced-javascript-techniques-power-pages,2023-09-12
-How to Make an API Call in React: 3 Ways,Built In,https://builtin.com/software-engineering-perspectives/react-api,2023-09-12
-"Full Stack Developer (JavaScript, TypeScript, React) - Western ...",IT-Online,https://it-online.co.za/2023/09/07/full-stack-developer-javascript-typescript-react-western-cape-woodstock/,2023-09-12
-Node.js upgrade adds environment variable config,InfoWorld,https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html,2023-09-12
-GNOME 45 formalizes extensions module system,TheRegister.,https://www.theregister.com/2023/09/08/gnome_45_esm_extensions/,2023-09-12
 Bun 1.0 is out of the oven,InfoWorld,https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html,2023-09-13
 Bun 1.0 JavaScript runtime released complete with ...,devclass,https://devclass.com/2023/09/11/bun-1-0-javascript-runtime-released-complete-with-experimental-windows-version/,2023-09-13
 Bun 1.0 all-in-one JavaScript runtime and toolkit,Geeky Gadgets,https://www.geeky-gadgets.com/bun-javascript-runtime-toolkit/,2023-09-13
@@ -1789,3 +1779,13 @@ OpenNMS XSS Flaw Let Attackers Inject JavaScript Payload,GBHackers on Security,h
 TypeScript soothes type narrowing pain point,InfoWorld,https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html,2024-03-09
 Web Developer's Guide to the 2024 Esri Developer Summit,Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/web-developers-guide-to-the-2024-esri-developer-summit/,2024-03-09
 How to Use WebSockets in Node.js to Create Real-time Apps — SitePoint,SitePoint,https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/,2024-03-09
+JavaScript Runs the World—Maybe Even Literally,WIRED,https://www.wired.com/story/javascript-runs-the-world-maybe-literally/,2024-03-10
+JavaScript: Empowered by Rust,InfoQ.com,https://www.infoq.com/presentations/rust-javascript/,2024-03-10
+"Slack's New Dev Portal Offers CI/CD, Python, JavaScript Aids",The New Stack,https://thenewstack.io/slacks-new-dev-portal-offers-ci-cd-python-javascript-aids/,2024-03-10
+"CISA and open-source operators of Rust, JavaScript make new cybersecurity commitments",Axios,https://amp.axios.com/biden-admin-open-source-security-promises-d36999fa-3fc9-4395-b547-b2f6e4a75c4b.html,2024-03-10
+"OpenVINO 2024.0 Brings More GenAI Features, New JavaScript API",Phoronix,https://www.phoronix.com/news/OpenVINO-2024.0-Released,2024-03-10
+Node.js vs JavaScript - What's Right for You in 2024?,Simplilearn.com,https://www.simplilearn.com/node-js-vs-javascript-article,2024-03-10
+Gleam language available in first stable release,InfoWorld,https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html,2024-03-10
+OpenNMS XSS Flaw Let Attackers Inject JavaScript Payload,GBHackers on Security,https://gbhackers.com/opennms-xss-attackers-javascript/,2024-03-10
+How to enable JavaScript in Google Chrome: A step-by-step guide,XDA Developers,https://www.xda-developers.com/how-enable-javascript-google-chrome/,2024-03-10
+Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks,The Hacker News,https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html,2024-03-10
