@@ -6,14 +6,14 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Sunday March 17 2024
+## Monday March 18 2024
 
 
 | Title                                                                               | Website         | Link                                                                                                                     |
 |:------------------------------------------------------------------------------------|:----------------|:-------------------------------------------------------------------------------------------------------------------------|
 | 5 Exciting New JavaScript Features in 2024 — SitePoint                              | SitePoint       | https://www.sitepoint.com/new-javascript-ecmascript/                                                                     |
-| Best programming languages to learn: JavaScript, Python, SQL, and Java top the list | Fortune         | https://fortune.com/education/articles/best-programming-languages-to-learn/                                              |
 | JavaScript Reference Guide: An Introduction to Pure JavaScript                      | ITPro Today     | https://www.itprotoday.com/programming-languages/javascript-reference-guide-beginners-introduction-pure-javascript       |
+| Best programming languages to learn: JavaScript, Python, SQL, and Java top the list | Fortune         | https://fortune.com/education/articles/best-programming-languages-to-learn/                                              |
 | Rust-based WinterJS web server reaches 1.0                                          | InfoWorld       | https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html                                 |
 | Top 40 ReactJS Interview Questions and Answers in 2024                              | Simplilearn.com | https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions                                       |
 | 9 Common Coding Routines in JavaScript  by Xiuer Old  Mar, 2024                     | Medium          | https://medium.com/@xiuerold/9-common-coding-routines-in-javascript-66ef819ec3c7?responsesOpen=true&sortBy=REVERSE_CHRON |
