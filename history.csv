@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-DataStax’s new JSON API targets JavaScript developers,InfoWorld,https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html,2023-09-21
-Definitive Javascript SEO Guide,Neil Patel,https://neilpatel.com/blog/javascript-seo/,2023-09-21
-Intro to HTMX: Dynamic HTML without JavaScript,InfoWorld,https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html,2023-09-21
-Rails 7.1 Beta Eases Docker Releases And Boosts Javascript ...,Tom Smykowski,https://tomaszs2.medium.com/rails-7-1-beta-eases-docker-releases-and-boosts-javascript-with-bun-7a9418f6def8,2023-09-21
-How to Document JavaScript Code Using JSDoc,MakeUseOf,https://www.makeuseof.com/jsdoc-javascript-document-code/,2023-09-21
-How to Convert a Javascript Callback to Promise,HackerNoon,https://hackernoon.com/how-to-convert-a-javascript-callback-to-promise,2023-09-21
-Is Your Code Slow?: Avoid These 19 Common JavaScript and ...,HackerNoon,https://hackernoon.com/is-your-code-slow-avoid-these-19-common-javascript-and-nodejs-mistakes,2023-09-21
-"Mastering Unary, Binary, and Ternary Operators in JavaScript",MakeUseOf,https://www.makeuseof.com/javascript-operators-unary-binary-ternary/,2023-09-21
-Java Vs JavaScript: Exploring Their Differences,Analytics Insight,https://www.analyticsinsight.net/java-vs-javascript-exploring-their-differences/,2023-09-21
-"Portals Community Call, September 2023: Advanced ...",MSDynamicsWorld.com,https://msdynamicsworld.com/video/portals-community-call-september-2023-advanced-javascript-techniques-power-pages,2023-09-21
 DataStax’s new JSON API targets JavaScript developers,InfoWorld,https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html,2023-09-22
 Intro to HTMX: Dynamic HTML without JavaScript,InfoWorld,https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html,2023-09-22
 "MySQL HeatWave Gets Generative AI and JavaScript, Slew of ...",The New Stack,https://thenewstack.io/mysql-heatwave-gets-generative-ai-and-javascript-slew-of-new-features/,2023-09-22
@@ -1789,3 +1779,13 @@ What Is Ethers.js? A Deep Dive Into Ethereum's JavaScript Library,BeInCrypto,htt
 "AdonisJS v6 Released: TypeScript, ESM, and beyond",InfoQ.com,https://www.infoq.com/news/2024/03/adonisjsv6-released/,2024-03-18
 TypeScript 5.4 Adds NoInfer Type,I Programmer,https://www.i-programmer.info/news/167-javascript/17035-typescript-54-adds-noinfer-type.html,2024-03-18
 Complexity bad: An interview with HTMX creator Carson Gross,InfoWorld,https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html,2024-03-18
+5 Exciting New JavaScript Features in 2024 — SitePoint,SitePoint,https://www.sitepoint.com/new-javascript-ecmascript/,2024-03-19
+It's Time to Make the Switch From Ruby on Rails to Javascript,Built In,https://builtin.com/articles/switch-from-ruby-on-rails-to-javascript,2024-03-19
+JavaScript Reference Guide: An Introduction to Pure JavaScript,ITPro Today,https://www.itprotoday.com/programming-languages/javascript-reference-guide-beginners-introduction-pure-javascript,2024-03-19
+"Best programming languages to learn: JavaScript, Python, SQL, and Java top the list",Fortune,https://fortune.com/education/articles/best-programming-languages-to-learn/,2024-03-19
+"🔥 Top 7 Mind-Blowing JavaScript Features for 2024  by Vitalii Shevchuk  Mar, 2024",Medium,https://medium.com/@easy-web/top-7-mind-blowing-javascript-features-for-2024-196e53502b20?responsesOpen=true&sortBy=REVERSE_CHRON,2024-03-19
+Usings ASTs and Crafting Custom ESLint Rules for JavaScript Development,HackerNoon,https://hackernoon.com/usings-asts-and-crafting-custom-eslint-rules-for-javascript-development,2024-03-19
+Rust-based WinterJS web server reaches 1.0,InfoWorld,https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html,2024-03-19
+TypeScript 5.4 Adds NoInfer Type,I Programmer,https://www.i-programmer.info/news/167-javascript/17035-typescript-54-adds-noinfer-type.html,2024-03-19
+wasmCloud 1.0 Brings the WebAssembly Component Model to Enterprise,Yahoo Finance,https://finance.yahoo.com/news/wasmcloud-1-0-brings-webassembly-083000195.html,2024-03-19
+Complexity bad: An interview with HTMX creator Carson Gross,InfoWorld,https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html,2024-03-19
