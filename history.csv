@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-DataStax’s new JSON API targets JavaScript developers,InfoWorld,https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html,2023-09-22
-Intro to HTMX: Dynamic HTML without JavaScript,InfoWorld,https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html,2023-09-22
-"MySQL HeatWave Gets Generative AI and JavaScript, Slew of ...",The New Stack,https://thenewstack.io/mysql-heatwave-gets-generative-ai-and-javascript-slew-of-new-features/,2023-09-22
-How to Document JavaScript Code Using JSDoc,MakeUseOf,https://www.makeuseof.com/jsdoc-javascript-document-code/,2023-09-22
-How to Convert a Javascript Callback to Promise,HackerNoon,https://hackernoon.com/how-to-convert-a-javascript-callback-to-promise,2023-09-22
-"Moddable Unveils Moddable Four, Industry's First Ultra Low ...",PR Newswire,https://www.prnewswire.com/news-releases/moddable-unveils-moddable-four-industrys-first-ultra-low-power-platform-for-embedded-javascript-301935197.html,2023-09-22
-Java Vs JavaScript: Exploring Their Differences,Analytics Insight,https://www.analyticsinsight.net/java-vs-javascript-exploring-their-differences/,2023-09-22
-Diego Lizarazo Of Agoric: Blockchain Professional Comments ...,Crowdfund Insider,https://www.crowdfundinsider.com/2023/09/212379-diego-lizarazo-of-agoric-blockchain-professional-comments-on-how-a-javascript-library-supports-web3-devs-entering-dlt-smart-contracts-ecosystem/,2023-09-22
-How do I place an image on the screen?,SitePoint,https://www.sitepoint.com/community/t/how-do-i-place-an-image-on-the-screen/427160,2023-09-22
-"Mastering Unary, Binary, and Ternary Operators in JavaScript",MakeUseOf,https://www.makeuseof.com/javascript-operators-unary-binary-ternary/,2023-09-22
 DataStax’s new JSON API targets JavaScript developers,InfoWorld,https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html,2023-09-23
 "MySQL HeatWave Gets Generative AI and JavaScript, Slew of ...",The New Stack,https://thenewstack.io/mysql-heatwave-gets-generative-ai-and-javascript-slew-of-new-features/,2023-09-23
 Intro to HTMX: Dynamic HTML without JavaScript,InfoWorld,https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html,2023-09-23
@@ -1789,3 +1779,13 @@ Rust-based WinterJS web server reaches 1.0,InfoWorld,https://www.infoworld.com/a
 TypeScript 5.4 Adds NoInfer Type,I Programmer,https://www.i-programmer.info/news/167-javascript/17035-typescript-54-adds-noinfer-type.html,2024-03-19
 wasmCloud 1.0 Brings the WebAssembly Component Model to Enterprise,Yahoo Finance,https://finance.yahoo.com/news/wasmcloud-1-0-brings-webassembly-083000195.html,2024-03-19
 Complexity bad: An interview with HTMX creator Carson Gross,InfoWorld,https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html,2024-03-19
+It's Time to Make the Switch From Ruby on Rails to Javascript,Built In,https://builtin.com/articles/switch-from-ruby-on-rails-to-javascript,2024-03-20
+JavaScript Libraries for Implementing Trendy Technologies in Web Apps in 2024,HackerNoon,https://hackernoon.com/javascript-libraries-for-implementing-trendy-technologies-in-web-apps-in-2024,2024-03-20
+"Best programming languages to learn: JavaScript, Python, SQL, and Java top the list",Fortune,https://fortune.com/education/articles/best-programming-languages-to-learn/,2024-03-20
+"🔥 Top 7 Mind-Blowing JavaScript Features for 2024  by Vitalii Shevchuk  Mar, 2024",Medium,https://medium.com/@easy-web/top-7-mind-blowing-javascript-features-for-2024-196e53502b20?responsesOpen=true&sortBy=REVERSE_CHRON,2024-03-20
+"ES6 in JavaScript: Features, Benefits, and Accounting for Modern Development",DataScientest.com,https://datascientest.com/en/es6-in-javascript-features-benefits-and-accounting-for-modern-development,2024-03-20
+What Is Ethers.js? A Deep Dive Into Ethereum's JavaScript Library,BeInCrypto,https://beincrypto.com/learn/ethers-js-explained/,2024-03-20
+Usings ASTs and Crafting Custom ESLint Rules for JavaScript Development,HackerNoon,https://hackernoon.com/usings-asts-and-crafting-custom-eslint-rules-for-javascript-development,2024-03-20
+10 Little-Known One-Liners For 5x Shorter Code,Medium,https://medium.com/@tariibaba/10-little-known-javascript-one-liners-for-5x-shorter-code-73b36434c343?responsesOpen=true&sortBy=REVERSE_CHRON,2024-03-20
+Top Artificial Intelligence (AI) Tools That Can Generate Code To Help Programmers (2024),MarkTechPost,https://www.marktechpost.com/2024/03/14/top-artificial-intelligence-ai-tools-that-can-generate-code-to-help-programmers/,2024-03-20
+Upcoming Meta Quest games releasing in March 2024 and beyond,Android Central,https://www.androidcentral.com/upcoming-meta-quest-games,2024-03-20
