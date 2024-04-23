@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-How to Sustain Quality and Velocity in a JavaScript or ...,InfoQ,https://www.infoq.com/articles/javascript-typescript-quality-velocity/,2023-10-26
-How to Migrate a React Project from JavaScript to TypeScript,HackerNoon,https://hackernoon.com/how-to-migrate-a-react-project-from-javascript-to-typescript,2023-10-26
-Winter Vivern APT Blasts Webmail Zero-Day Bug With One ...,Dark Reading,https://www.darkreading.com/endpoint/winter-vivern-blasts-webmail-0day-one-click-exploit,2023-10-26
-How to select an element in a shadow root?,SitePoint,https://www.sitepoint.com/community/t/how-to-select-an-element-in-a-shadow-root/430046,2023-10-26
-Top 10 Programming Languages To Learn for 2023,Techopedia,https://www.techopedia.com/top-10-programming-languages,2023-10-26
-We need a new convention for Javascript  by shrey ...,Medium,https://medium.com/@shreyvijayvargiya26/we-need-a-new-convention-for-javascript-267c54eda495,2023-10-26
-"Dev News: Angular's New Loading, an AI Compiler, and JS ...",The New Stack,https://thenewstack.io/dev-news-angulars-new-loading-an-ai-compiler-and-js-runs-wasm/,2023-10-26
-Understanding protocol buffers vs. JSON,TechTarget,https://www.techtarget.com/searchapparchitecture/tip/Understanding-protocol-buffers-vs-JSON,2023-10-26
-Node.js 21 Has Stable WebStreams,I Programmer,https://www.i-programmer.info/news/167-javascript/16700-nodejs-21-has-stable-webstreams.html,2023-10-26
-How to install Node.js on Windows,XDA Developers,https://www.xda-developers.com/how-install-nodejs-windows/,2023-10-26
 Winter Vivern APT Blasts Webmail Zero-Day Bug With One ...,Dark Reading,https://www.darkreading.com/endpoint/winter-vivern-blasts-webmail-0day-one-click-exploit,2023-10-27
 How to select an element added to the DOM dynamically?,SitePoint,https://www.sitepoint.com/community/t/how-to-select-an-element-added-to-the-dom-dynamically/430203,2023-10-27
 Meet Gradio-lite: A JavaScript Library Elevating Interactive Machine Learning-Based Library (Gradio) to the Browser with Pyodide,MarkTechPost,https://www.marktechpost.com/2023/10/26/meet-gradio-lite-a-javascript-library-elevating-interactive-machine-learning-based-library-gradio-to-the-browser-with-pyodide/,2023-10-27
@@ -1799,3 +1789,13 @@ Hackers Attempted To Takeover JavaScript Project From OpenJS Foundation,Cybersec
 OpenSSF Warns of Fake Maintainers Targeting JavaScript Projects,Hackread,https://www.hackread.com/openssf-fake-maintainers-target-javascript-projects/,2024-04-22
 How to Find an Object in an Array of Objects in JavaScript,Medium,https://medium.com/@xiuerold/how-to-find-an-object-in-an-array-of-objects-in-javascript-64c852edc37e,2024-04-22
 Attempted XZ Utils backdoor-like hijacking thwarted,SC Media,https://www.scmagazine.com/brief/attempted-xz-utils-backdoor-like-hijacking-thwarted,2024-04-22
+OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt,The Hacker News,https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html,2024-04-23
+Creating a search function - JavaScript,SitePoint,https://www.sitepoint.com/community/t/creating-a-search-function/444541,2024-04-23
+Top 5 Underutilized JavaScript Features,The New Stack,https://thenewstack.io/top-5-underutilized-javascript-features/,2024-04-23
+Beyond the Smile: Decoding Emoji Lengths in JavaScript,HackerNoon,https://hackernoon.com/beyond-the-smile-decoding-emoji-lengths-in-javascript,2024-04-23
+Hackers Attempted To Takeover JavaScript Project From OpenJS Foundation,CybersecurityNews,https://cybersecuritynews.com/hackers-openjs-javascript-project/,2024-04-23
+How to Find an Object in an Array of Objects in JavaScript,Medium,https://medium.com/@xiuerold/how-to-find-an-object-in-an-array-of-objects-in-javascript-64c852edc37e,2024-04-23
+Attempted XZ Utils backdoor-like hijacking thwarted,SC Media,https://www.scmagazine.com/brief/attempted-xz-utils-backdoor-like-hijacking-thwarted,2024-04-23
+Will TypeScript Wipe Out JavaScript?,Analytics India Magazine,https://analyticsindiamag.com/will-typescript-wipe-out-javascript/,2024-04-23
+ECMAScript 2024 features you can use now,InfoWorld,https://www.infoworld.com/article/3715260/ecmascript-2024-features-you-can-use-now.html,2024-04-23
+"After a failed Linux backdoor attempt grabs headlines, open-source leaders warn of more attacks",Fortune,https://fortune.com/2024/04/16/xz-utils-open-source-linux-javascript-vulnerabilities-social-engineering/,2024-04-23
