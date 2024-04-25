@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday April 24 2024
+## Thursday April 25 2024
 
 
-| Title                                                                       | Website                  | Link                                                                                                                                                         |
-|:----------------------------------------------------------------------------|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| How to Disable JavaScript in Internet Explorer 11                           | Lifewire                 | https://www.lifewire.com/disable-javascript-in-internet-explorer-11-4103679                                                                                  |
-| Combating AI-Generated Fake Images with JavaScript Libraries                | infoq.com                | https://www.infoq.com/presentations/ai-fake-images-javascript/                                                                                               |
-| How to Find an Object in an Array of Objects in JavaScript                  | Medium                   | https://medium.com/@xiuerold/how-to-find-an-object-in-an-array-of-objects-in-javascript-64c852edc37e?responsesOpen=true&sortBy=REVERSE_CHRON                 |
-| Why PHP Usage Has Declined by 40% in Just Over 2 Years                      | The New Stack            | https://thenewstack.io/why-php-usage-has-declined-by-40-in-just-over-2-years/                                                                                |
-| Will TypeScript Wipe Out JavaScript?                                        | Analytics India Magazine | https://analyticsindiamag.com/will-typescript-wipe-out-javascript/                                                                                           |
-| More sophisticated, stealthy RedLine Stealer variant emerges                | SC Media                 | https://www.scmagazine.com/brief/more-sophisticated-stealthy-redline-stealer-variant-emerges                                                                 |
-| Typescript or JavaScript: Best Programming Language to Choose               | Analytics Insight        | https://www.analyticsinsight.net/typescript-or-javascript-best-programming-language-to-choose/                                                               |
-| Social engineering takeover attacks are on the rise                         | App Developer Magazine   | https://appdevelopermagazine.com/Social-engineering-takeover-attacks-are-on-the-rise/                                                                        |
-| Compiling And Running Turbo Pascal In The Browser                           | Hackaday                 | https://hackaday.com/2024/04/17/compiling-and-running-turbo-pascal-in-the-browser/                                                                           |
-| Frontend Engineers: Architects of the Internet. The story of Ivan Korolenko | USA Today                | https://www.usatoday.com/story/special/contributor-content/2024/04/20/frontend-engineers-architects-of-the-internet-the-story-of-ivan-korolenko/73399204007/ |
+| Title                                                                   | Website                  | Link                                                                                                                                                      |
+|:------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Combating AI-Generated Fake Images with JavaScript Libraries            | infoq.com                | https://www.infoq.com/presentations/ai-fake-images-javascript/                                                                                            |
+| Why PHP Usage Has Declined by 40% in Just Over 2 Years                  | The New Stack            | https://thenewstack.io/why-php-usage-has-declined-by-40-in-just-over-2-years/                                                                             |
+| Choosing the Right JavaScript Variable Declaration: let, var, or const? | Medium                   | https://medium.com/@chintanonweb/choosing-the-right-javascript-variable-declaration-let-var-or-const-d00ce4d41fc3?responsesOpen=true&sortBy=REVERSE_CHRON |
+| Will TypeScript Wipe Out JavaScript?                                    | Analytics India Magazine | https://analyticsindiamag.com/will-typescript-wipe-out-javascript/                                                                                        |
+| IBM QRadar XSS Flaw Let Attackers Arbitrary JavaScript Code             | CybersecurityNews        | https://cybersecuritynews.com/ibm-qradar-xss-flaw/                                                                                                        |
+| Node.js 22 arrives, backs ECMAScript modules                            | InfoWorld                | https://www.infoworld.com/article/3715283/nodejs-22-arrives-backs-ecmascript-modules.html                                                                 |
+| More sophisticated, stealthy RedLine Stealer variant emerges            | SC Media                 | https://www.scmagazine.com/brief/more-sophisticated-stealthy-redline-stealer-variant-emerges                                                              |
+| Typescript or JavaScript: Best Programming Language to Choose           | Analytics Insight        | https://www.analyticsinsight.net/typescript-or-javascript-best-programming-language-to-choose/                                                            |
+| Social engineering takeover attacks are on the rise                     | App Developer Magazine   | https://appdevelopermagazine.com/Social-engineering-takeover-attacks-are-on-the-rise/                                                                     |
+| Study demonstrates efficacy of MIT-led Brave Behind Bars program        | MIT News                 | https://news.mit.edu/2024/study-demonstrates-efficacy-mit-led-brave-behind-bars-program-0424                                                              |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
