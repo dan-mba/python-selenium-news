@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday May 22 2024
+## Thursday May 23 2024
 
 
-| Title                                                                       | Website           | Link                                                                                                                                       |
-|:----------------------------------------------------------------------------|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| Outer Excuses: Why JavaScript Developers Should Learn SQL                   | The New Stack     | https://thenewstack.io/outer-excuses-why-javascript-developers-should-learn-sql/                                                           |
-| Senseii Games Teaches JavaScript Programming through Video Game Play        | KXAN Austin       | https://www.kxan.com/business/press-releases/ein-presswire/711659848/senseii-games-teaches-javascript-programming-through-video-game-play/ |
-| Addressing JavaScript Vulnerabilities Beyond PCI DSS V4.0                   | Spiceworks        | https://www.spiceworks.com/it-security/data-security/guest-article/fortify-data-security-with-pci-dss-v4/                                  |
-| PoC Released for JavaScript execution Vulnerability in PDF.js               | CybersecurityNews | https://cybersecuritynews.com/poc-released-for-javascript/                                                                                 |
-| Memory corruption flaw in Fluent Bit could disrupt cloud platforms          | SC Media          | https://www.scmagazine.com/news/memory-corruption-flaw-in-fluent-bit-could-disrupt-cloud-platforms                                         |
-| JetBrains releases Aqua IDE for test automation                             | InfoWorld         | https://www.infoworld.com/article/3715269/jetbrains-releases-aqua-ide-for-test-automation.html                                             |
-| Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability | The Hacker News   | https://thehackernews.com/2024/05/google-patches-yet-another-actively.html                                                                 |
-| Prime Video Renews 6 TV Shows in 2024, Confirms 1 Series Not Returning      | Just Jared        | https://www.justjared.com/2024/05/15/prime-video-renews-6-tv-shows-in-2024-confirms-1-series-not-returning/3/                              |
-| Google fixes third actively exploited Chrome zero-day in a week             | BleepingComputer  | https://www.bleepingcomputer.com/news/google/google-fixes-CVE-2024-4947-third-actively-exploited-chrome-zero-day-in-a-week/                |
-| 2nd level: Music                                                            | BBC               | https://www.bbc.co.uk/teach/school-radio/articles/z7q3pg8                                                                                  |
+| Title                                                                                | Website           | Link                                                                                                                                                    |
+|:-------------------------------------------------------------------------------------|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell       | The Hacker News   | https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html                                                                              |
+| Addressing JavaScript Vulnerabilities Beyond PCI DSS V4.0                            | Spiceworks        | https://www.spiceworks.com/it-security/data-security/guest-article/fortify-data-security-with-pci-dss-v4/                                               |
+| PoC Released for JavaScript execution Vulnerability in PDF.js                        | CybersecurityNews | https://cybersecuritynews.com/poc-released-for-javascript/                                                                                              |
+| Exploring the Top JavaScript Frameworks in 2024. A Detailed Review                   | Techiexpert.com   | https://www.techiexpert.com/exploring-the-top-javascript-frameworks-in-2024-a-detailed-review/                                                          |
+| How to Tell setInterval to Only Fire x Amount of Times with JavaScript?              | Medium            | https://medium.com/@hohanga/how-to-tell-setinterval-to-only-fire-x-amount-of-times-with-javascript-cab6eb95a781?responsesOpen=true&sortBy=REVERSE_CHRON |
+| The 20 Generative AI Coding Tools Every Programmer Should Know About                 | Forbes            | https://www.forbes.com/sites/bernardmarr/2024/05/23/the-20-generative-ai-coding-tools-every-programmer-should-know-about/?ss=ai                         |
+| Memory corruption flaw in Fluent Bit could disrupt cloud platforms                   | SC Media          | https://www.scmagazine.com/news/memory-corruption-flaw-in-fluent-bit-could-disrupt-cloud-platforms                                                      |
+| JetBrains releases Aqua IDE for test automation                                      | InfoWorld         | https://www.infoworld.com/article/3715269/jetbrains-releases-aqua-ide-for-test-automation.html                                                          |
+| Disney Channel Cancels 1 Series in 2024, Announces 1 Is Ending & Picks Up 2 Spinoffs | Just Jared        | https://www.justjared.com/2024/05/22/disney-channel-cancels-1-series-in-2024-announces-1-is-ending-picks-up-2-spinoffs/2/                               |
+| How to Get Past a Paywall to Read an Article for Free                                | Lifehacker        | https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free                                                                              |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
