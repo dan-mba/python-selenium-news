@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Javet 3.0.2 Released: Bridging Java and JavaScript with ...,InfoQ,https://www.infoq.com/news/2023/12/javet-302-released/,2023-12-08
-ngrok Announces JavaScript and Python SDKs for Secure ...,Yahoo Finance,https://finance.yahoo.com/news/ngrok-announces-javascript-python-sdks-140000975.html,2023-12-08
-I learned something today about javascript that I think is super ...,Medium,https://medium.com/@apugia/i-learned-something-today-about-javascript-that-i-think-is-super-cool-and-i-wanted-to-share-it-c0198e1c5881,2023-12-08
-Unleashing the Power of JavaScript in Artificial Intelligence,HackerNoon,https://hackernoon.com/unleashing-the-power-of-javascript-in-artificial-intelligence,2023-12-08
-9 Reasons Why JavaScript Haters Are Secretly Using It Anyway,Medium,https://medium.com/@cannon_circuit/9-reasons-why-javascript-haters-are-secretly-using-it-anyway-dffd73602dea,2023-12-08
-The Power of Typescript: How to Boost Your JavaScript ...,Medium,https://medium.com/@leogbrt/the-power-of-typescript-how-to-boost-your-javascript-development-1808c91ff5ca,2023-12-08
-How to Improve Performance with Client-Side JavaScript Tag ...,Security Boulevard,https://securityboulevard.com/2023/12/how-to-improve-performance-with-client-side-javascript-tag-optimizations/,2023-12-08
-Trying to close a hamburger menu when it is clicked on,SitePoint,https://www.sitepoint.com/community/t/trying-to-close-a-hamburger-menu-when-it-is-clicked-on/433392,2023-12-08
-Unleashing the Power of JavaScript for Backend Development ...,Medium,https://medium.com/@kuamrchaurasiatanmay/unleashing-the-power-of-javascript-for-backend-development-a-beginners-guide-00b79eec5778?responsesOpen=true&sortBy=REVERSE_CHRON,2023-12-08
-Where do these values come from and how does this work?,SitePoint,https://www.sitepoint.com/community/t/where-do-these-values-come-from-and-how-does-this-work/433074,2023-12-08
 ngrok Announces JavaScript and Python SDKs for Secure ...,Yahoo Finance,https://finance.yahoo.com/news/ngrok-announces-javascript-python-sdks-140000975.html,2023-12-09
 9 Reasons Why JavaScript Haters Are Secretly Using It Anyway,Medium,https://medium.com/@cannon_circuit/9-reasons-why-javascript-haters-are-secretly-using-it-anyway-dffd73602dea,2023-12-09
 Go Language Slices: Understanding and Comparing with ...,Medium,https://medium.com/@akhilkumarp/go-language-slices-understanding-and-comparing-with-javascript-references-136f15224a84,2023-12-09
@@ -1789,3 +1779,13 @@ Quake-like game made with JavaScript takes up just 13KB of storage,Tom's Hardwar
 The State of JavaScript: Language Versions,ITPro Today,https://www.itprotoday.com/javascript/the-state-of-javascript-language-versions,2024-06-04
 Grab your free copy of 'JavaScript Essentials For Dummies' today,BetaNews,https://betanews.com/2024/05/30/grab-your-free-copy-of-javascript-essentials-for-dummies-today/,2024-06-04
 Get Started With Ollama's Python & Javascript Libraries,I Programmer,https://www.i-programmer.info/news/105-artificial-intelligence/17232-get-started-with-ollamas-python-a-javascript-libraries.html,2024-06-04
+JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2024-06-05
+Why We Need a Standard JavaScript ORM for SQL Databases,The New Stack,https://thenewstack.io/why-we-need-a-standard-javascript-orm-for-sql-databases/,2024-06-05
+Microsoft Axing VBScript in Favor of JavaScript/PowerShell: Here's the Timeline,Visual Studio Magazine,https://visualstudiomagazine.com/Articles/2024/05/30/vbscript-deprecation.aspx,2024-06-05
+Quake clone in 13 kilobytes of Javascript,Boing Boing,https://boingboing.net/2024/06/03/quake-clone-in-13-kilobytes-of-javascript.html,2024-06-05
+Global Variable Not Working In Javascript - JavaScript,SitePoint,https://www.sitepoint.com/community/t/global-variable-not-working-in-javascript/448078,2024-06-05
+Quake-like game made with JavaScript takes up just 13KB of storage,Tom's Hardware,https://www.tomshardware.com/video-games/retro-gaming/quake-like-game-made-with-javascript-takes-up-just-13kb-of-storage,2024-06-05
+Activating ActiveX Controls with JavaScript,ITPro Today,https://www.itprotoday.com/javascript/activating-activex-controls-with-javascript,2024-06-05
+Grab your free copy of 'JavaScript Essentials For Dummies' today,BetaNews,https://betanews.com/2024/05/30/grab-your-free-copy-of-javascript-essentials-for-dummies-today/,2024-06-05
+Get Started With Ollama's Python & Javascript Libraries,I Programmer,https://www.i-programmer.info/news/105-artificial-intelligence/17232-get-started-with-ollamas-python-a-javascript-libraries.html,2024-06-05
+"Hackers Employ JavaScript Framework To Trick Users Copy, Paste And Command Execution",CybersecurityNews,https://cybersecuritynews.com/hackers-javascript-framework-trick-users/,2024-06-05
