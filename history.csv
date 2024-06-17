@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"Web Development in 2023: JavaScript Still Rules, AI Emerges",The New Stack,https://thenewstack.io/web-development-in-2023-javascript-still-rules-ai-emerges/,2023-12-20
-"VanJS: a Minimalist, 'Vanilla JavaScript' UI Framework",The New Stack,https://thenewstack.io/vanjs-a-minimalist-vanilla-javascript-ui-framework/,2023-12-20
-What Are the Three Dots (...) in JavaScript?,Built In,https://builtin.com/articles/three-dots-in-javascript,2023-12-20
-How I Moved to Berlin Using ChatGPT and JavaScript,HackerNoon,https://hackernoon.com/how-i-moved-to-berlin-using-chatgpt-and-javascript,2023-12-20
-10 Reasons JavaScript Could Be Outpaced by 2025  by Ava ...,Medium,https://medium.com/@jane2001/10-reasons-javascript-could-be-outpaced-by-2025-dadb212d132d,2023-12-20
-Avoid to open (some) links in new tab [solved],SitePoint,https://www.sitepoint.com/community/t/avoid-to-open-some-links-in-new-tab-solved/434592/,2023-12-20
-How to understand what needs to be done here?,SitePoint,https://www.sitepoint.com/community/t/how-to-understand-what-needs-to-be-done-here/434343,2023-12-20
-Call Apply Bind in Javascript — Beginners Guide  by ...,Medium,https://medium.com/@shaiksameer15/call-apply-bind-in-javascript-beginners-guide-26cef63c7dc0,2023-12-20
-Web injections are back on the rise: 40+ banks affected by ...,Security Intelligence,https://securityintelligence.com/posts/web-injections-back-on-rise-banks-affected-danabot-malware/,2023-12-20
-"DataStax Introduces SwiftieGPT, Merging Advanced AI with ...",Datanami,https://www.datanami.com/this-just-in/datastax-introduces-swiftiegpt-merging-advanced-ai-with-real-time-data-for-a-dynamic-fan-experience/,2023-12-20
 "Web Development in 2023: JavaScript Still Rules, AI Emerges",The New Stack,https://thenewstack.io/web-development-in-2023-javascript-still-rules-ai-emerges/,2023-12-21
 Something nasty injected login-stealing JavaScript into 50K online banking sessions,The Register,https://www.theregister.com/2023/12/20/credentialstealing_malware_infects_50k_banking/,2023-12-21
 "VanJS: A Minimalist, 'Vanilla JavaScript' UI Framework",The New Stack,https://thenewstack.io/vanjs-a-minimalist-vanilla-javascript-ui-framework/,2023-12-21
@@ -1789,3 +1779,13 @@ TIOBE Index for June 2024: Top 10 Most Popular Programming Languages,TechRepubli
 TypeScript 5.5 Adds ECMAScript Set Support,I Programmer,https://www.i-programmer.info/news/167-javascript/17252-typescript-55-adds-ecmascript-set-support.html,2024-06-16
 Horror - Best Meta Quest 2 and Quest 3 games - Page 8,Android Central,https://www.androidcentral.com/best-meta-quest-games/8,2024-06-16
 Media Action - Meet the BBC's international charity,BBC,https://www.bbc.co.uk/mediaaction/,2024-06-16
+How JavaScript Is Finally Improving the Module Experience,The New Stack,https://thenewstack.io/how-javascript-is-finally-improving-the-module-experience/,2024-06-17
+Conditional to check if class exists not working,SitePoint,https://www.sitepoint.com/community/t/conditional-to-check-if-class-exists-not-working/449400,2024-06-17
+"SlashData: Rust sees fastest growth, JavaScript still dominates",Developer Tech News,https://www.developer-tech.com/news/2024/jun/12/slashdata-rust-fastest-growth-javascript-dominates/,2024-06-17
+JavaScript needs more money,InfoWorld,https://www.infoworld.com/article/3715680/javascript-needs-more-money.html,2024-06-17
+Streaming HTML – Asynchronous DOM Updates without JavaScript,infoq.com,https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/,2024-06-17
+JavaScript vs. Ruby: Closing the Gap for Developers Part -II,Medium,https://medium.com/@k-saikrishna78/javascript-vs-ruby-closing-the-gap-for-developers-part-ii-1eddbedfdd53,2024-06-17
+Google Announces Immersive 3D Maps Through Its Maps JavaScript API,Geo Week News,https://www.geoweeknews.com/news/google-maps-3d-javascript-visualization,2024-06-17
+TIOBE Index for June 2024: Top 10 Most Popular Programming Languages,TechRepublic,https://www.techrepublic.com/article/tiobe-index-language-rankings/,2024-06-17
+TypeScript 5.5 Adds ECMAScript Set Support,I Programmer,https://www.i-programmer.info/news/167-javascript/17252-typescript-55-adds-ecmascript-set-support.html,2024-06-17
+Upcoming Meta Quest games releasing in June 2024 and beyond,Android Central,https://www.androidcentral.com/upcoming-meta-quest-games,2024-06-17
