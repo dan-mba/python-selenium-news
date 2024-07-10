@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday July 09 2024
+## Wednesday July 10 2024
 
 
-| Title                                                                                       | Website              | Link                                                                                                                |
-|:--------------------------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------|
-| How To Learn HTML CSS and Javascript In One Month                                           | SitePoint            | https://www.sitepoint.com/community/t/how-to-learn-html-css-and-javascript-in-one-month/451024                      |
-| JavaScript Tutorial: Learn JavaScript from Scratch                                          | Simplilearn.com      | https://www.simplilearn.com/tutorials/javascript-tutorial                                                           |
-| Exploring Compiled V8 JavaScript Usage in Malware - Check Point Research                    | Check Point Software | https://research.checkpoint.com/2024/exploring-compiled-v8-javascript-usage-in-malware/                             |
-| ECMAScript 2024 JavaScript standard approved                                                | InfoWorld            | https://www.infoworld.com/article/3715631/ecmascript-2024-javascript-standard-approved.html                         |
-| Doing Jstz to Tezos: JavaScript is Coming to the Blockchain                                 | AlexaBlockchain      | https://alexablockchain.com/javascript-is-coming-to-tezos/                                                          |
-| JavaScript Formula Cheat Sheet. JavaScript is contained mostly in it’s…  by Saif  Jul, 2024 | Medium               | https://medium.com/@saifmd993/javascript-formula-cheat-sheet-b7acf5780d4d                                           |
-| Intro to multithreaded JavaScript                                                           | InfoWorld            | https://www.infoworld.com/article/3715643/intro-to-multithreaded-javascript.html                                    |
-| Guide on How to Add a New Line in JavaScript                                                | Simplilearn.com      | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-new-line                                       |
-| JavaScript vs TypeScript: Which One to Learn in 2024?                                       | Analytics Insight    | https://www.analyticsinsight.net/tech-news/javascript-vs-typescript-which-one-to-learn-in-2024                      |
-| Dashes are not inserted automatically in pakistan mobile number format                      | SitePoint            | https://www.sitepoint.com/community/t/dashes-are-not-inserted-automatically-in-pakistan-mobile-number-format/451054 |
+| Title                                                                                           | Website              | Link                                                                                                                                      |
+|:------------------------------------------------------------------------------------------------|:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript Tutorial: Learn JavaScript from Scratch                                              | Simplilearn.com      | https://www.simplilearn.com/tutorials/javascript-tutorial                                                                                 |
+| Exploring Compiled V8 JavaScript Usage in Malware                                               | Check Point Software | https://research.checkpoint.com/2024/exploring-compiled-v8-javascript-usage-in-malware/                                                   |
+| ECMAScript 2024 JavaScript standard approved                                                    | InfoWorld            | https://www.infoworld.com/article/3715631/ecmascript-2024-javascript-standard-approved.html                                               |
+| Javascript Is Coming to Tezos X Blockchain                                                      | Bitcoin.com News     | https://news.bitcoin.com/javascript-is-coming-to-tezos-x-blockchain/                                                                      |
+| Tezos Introduces Jstz: Empowering Blockchain Development with JavaScript                        | Blockchain News      | https://blockchain.news/news/tezos-introduces-jstz-empowering-blockchain-development-with-javascript                                      |
+| Dashes are not inserted automatically in pakistan mobile number format                          | SitePoint            | https://www.sitepoint.com/community/t/dashes-are-not-inserted-automatically-in-pakistan-mobile-number-format/451054                       |
+| Do It Jstz with Tezos: Introducing JavaScript-Powered Smart Rollups                             | XTZ News             | https://xtz.news/en/tezos-x/do-it-jstz-with-tezos-introducing-javascript-smart-rollups/                                                   |
+| Doing Jstz to Tezos: JavaScript is Coming to the Blockchain                                     | AlexaBlockchain      | https://alexablockchain.com/javascript-is-coming-to-tezos/                                                                                |
+| KritB's Links a Lidar Sensor to Python and JavaScript to Create Impressive Color Visualizations | Hackster.io          | https://www.hackster.io/news/kritb-s-links-a-lidar-sensor-to-python-and-javascript-to-create-impressive-color-visualizations-4b694b69f116 |
+| Hackers Leveraging Compiled V8 JavaScript In Wild To Deploy Malware                             | CybersecurityNews    | https://cybersecuritynews.com/hackers-compiled-v8-javascript-malware/                                                                     |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
