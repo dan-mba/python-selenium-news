@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday July 20 2024
+## Sunday July 21 2024
 
 
 | Title                                                                                       | Website               | Link                                                                                                                              |
 |:--------------------------------------------------------------------------------------------|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | JavaScript MMORPG from Scratch - Maiu online #3 - Combat system - Spells and visual effects | GameDev.net           | https://www.gamedev.net/blogs/entry/2293747-javascript-mmorpg-from-scratch-maiu-online-3-combat-system-spells-and-visual-effects/ |
+| JavaScript Tutorial: Learn JavaScript from Scratch                                          | Simplilearn.com       | https://www.simplilearn.com/tutorials/javascript-tutorial                                                                         |
 | Frequently sought solutions for JavaScript                                                  | InfoWorld             | https://www.infoworld.com/article/2516823/frequently-sought-solutions-for-javascript.html                                         |
-| The Best Guide to Understanding JavaScript Learning Path                                    | Simplilearn.com       | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-learning-path                                                |
+| How to console.log WITHOUT newline in JavaScript  by Tari Ibaba  Coding Beauty  Jul, 2024   | Medium                | https://medium.com/coding-beauty/javascript-console-log-without-newline-20e7e63cca36                                              |
 | Google Renders All Pages For Search, Including JavaScript-Heavy Sites                       | Search Engine Journal | https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/                  |
-| JavaScript Data Grid Solutions: Key Features and Benefits for Developers                    | Space Coast Daily     | https://spacecoastdaily.com/2024/07/javascript-data-grid-solutions-key-features-and-benefits-for-developers/                      |
-| What is the JavaScript used for?                                                            | Medium                | https://medium.com/@satishlokhande5674/what-is-the-javascript-used-for-9679bd1622c8                                               |
-| Building Real-Time Language Translation with AssemblyAI and DeepL in JavaScript             | Blockchain News       | https://blockchain.news/news/building-real-time-language-translation-with-assemblyai-and-deepl-in-javascript                      |
-| Using setAttribute with the SVG path arc                                                    | SitePoint             | https://www.sitepoint.com/community/t/using-setattribute-with-the-svg-path-arc/451533                                             |
-| Understand JavaScript Events with Examples                                                  | Simplilearn.com       | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-events                                                       |
+| GoogleAnalytics in NextJS app is not sending data to GA                                     | SitePoint             | https://www.sitepoint.com/community/t/googleanalytics-in-nextjs-app-is-not-sending-data-to-ga/452103                              |
+| The Best Guide to Understanding JavaScript Learning Path                                    | Simplilearn.com       | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-learning-path                                                |
 | What is the difference between ASP script and JavaScript?                                   | Medium                | https://medium.com/@satishlokhande5674/what-is-the-difference-between-asp-script-and-javascript-21caf9830bf5                      |
+| BlazeFace: How to Run Real-time Object Detection in the Browser                             | Towards Data Science  | https://towardsdatascience.com/blazeface-how-to-run-real-time-object-detection-in-the-browser-66c2ac9acd75                        |
+| Google’s Web Crawler Fakes Being “Idle” To Render JavaScript                                | Search Engine Journal | https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/                             |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
