@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-The Trouble with Nesting Ternaries in JavaScript,The New Stack,https://thenewstack.io/the-trouble-with-nesting-ternaries-in-javascript/,2024-02-01
-How to Get the Last Item in a JavaScript Object?,Medium,https://medium.com/@hohanga/how-to-get-the-last-item-in-a-javascript-object-a2ecf99db06a,2024-02-01
-Fixing bug-prone JavaScript dates: Deno 1.4 adds its support for Temporal API • DEVCLASS,devclass,https://devclass.com/2024/01/29/fixing-bug-prone-javascript-dates-deno-1-4-adds-its-support-for-temporal-api/,2024-02-01
-TypeScript 5.4 beta arrives,InfoWorld,https://www.infoworld.com/article/3712660/typescript-54-beta-arrives.html,2024-02-01
-Learn More by Building Your Own Custom JavaScript Framework,The New Stack,https://thenewstack.io/learn-more-by-building-your-own-custom-javascript-framework/,2024-02-01
-"34 Official Uses Of JavaScript Array Objects  by Xiuer Old  Jan, 2024",Medium,https://medium.com/@xiuer/34-official-uses-of-javascript-array-objects-3a58f0fefa40,2024-02-01
-Testing for prototype pollution with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/prototype-pollution,2024-02-01
-"Slint 1.4 released: lightweight cross-platform GUI toolkit for Rust, C++ and JavaScript • DEVCLASS",devclass,https://devclass.com/2024/02/01/slint-1-4-released-lightweight-cross-platform-gui-toolkit-for-rust-c-and-javascript/,2024-02-01
-‘SNL’: Stanley Tumblers Craze Zinged In ‘Big Dumb Cups’ Sketch,Deadline,https://deadline.com/2024/01/snl-stanley-cups-craze-zinged-big-dumb-cups-sketch-1235807146/,2024-02-01
-Upcoming Meta Quest games releasing in February 2024 and beyond,Android Central,https://www.androidcentral.com/upcoming-meta-quest-games,2024-02-01
 Learn More by Building Your Own Custom JavaScript Framework,The New Stack,https://thenewstack.io/learn-more-by-building-your-own-custom-javascript-framework/,2024-02-02
 How to Get the Last Item in a JavaScript Object?,Medium,https://medium.com/@hohanga/how-to-get-the-last-item-in-a-javascript-object-a2ecf99db06a,2024-02-02
 Get 'JavaScript All-in-One For Dummies' (worth $24) for FREE,BetaNews,https://betanews.com/2024/02/02/get-javascript-all-in-one-for-dummies-worth-24-for-free/,2024-02-02
@@ -1789,3 +1779,13 @@ TypeScript takes aim at truthy and nullish bugs,InfoWorld,https://www.infoworld.
 How to Build A Calculator App in JavaScript - Full Tutorial,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript,2024-07-29
 Top 50 TypeScript Interview Questions With Answers for 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/typescript-tutorial/typescript-interview-questions,2024-07-29
 20 Javascript Tools Revolutionizing Web Development Today,Simplilearn.com,https://www.simplilearn.com/javascript-tools-for-web-development-article,2024-07-29
+Tauri: Mixing JavaScript With Rust for GUI Desktop Apps,The New Stack,https://thenewstack.io/tauri-mixing-javascript-with-rust-for-gui-desktop-apps/,2024-07-30
+"JavaScript Daily Tips #1: How to Master Variables in JavaScript  by Mariosdev  Jul, 2024",Medium,https://medium.com/@Marioskif/javascript-daily-tips-1-how-to-master-variables-in-javascript-e0419512ff67,2024-07-30
+Top 50 TypeScript Interview Questions With Answers for 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/typescript-tutorial/typescript-interview-questions,2024-07-30
+"What Is MEAN Stack? (Components, Applications)",BuiltIn,https://builtin.com/articles/mean-stack,2024-07-30
+Pickle Pantry application open for 2024-25 academic year,University of North Carolina School of the Arts,https://www.uncsa.edu/announcements/20240729-pickle-pantry.aspx,2024-07-30
+TypeScript takes aim at truthy and nullish bugs,InfoWorld,https://www.infoworld.com/article/3478113/typescript-5-6-takes-aim-at-truthy-and-nullish-bugs.html,2024-07-30
+"Move Over, PM Lee: Dr Vivian Balakrishnan Just Released A Javascript Sudoku Solver",Yahoo News Singapore,https://sg.news.yahoo.com/move-over-pm-lee-dr-024823277.html,2024-07-30
+"JavaScript Daily Tips #4: Top Tricks to Optimize Your Loops  by Mariosdev  Jul, 2024",Medium,https://medium.com/@Marioskif/javascript-daily-tips-4-top-tricks-to-optimize-your-loops-daebe6dd567c,2024-07-30
+Guide To Using Typescript With React,Simplilearn.com,https://www.simplilearn.com/tutorials/reactjs-tutorial/react-typescript,2024-07-30
+Campus Dining update,University of North Carolina School of the Arts,https://www.uncsa.edu/announcements/20240729-campus-dining-update.aspx,2024-07-30
