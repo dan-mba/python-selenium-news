@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Learn More by Building Your Own Custom JavaScript Framework,The New Stack,https://thenewstack.io/learn-more-by-building-your-own-custom-javascript-framework/,2024-02-05
-Get 'JavaScript All-in-One For Dummies' (worth $24) for FREE,BetaNews,https://betanews.com/2024/02/02/get-javascript-all-in-one-for-dummies-worth-24-for-free/,2024-02-05
-Fixing bug-prone JavaScript dates: Deno 1.4 adds its support for Temporal API • DEVCLASS,devclass,https://devclass.com/2024/01/29/fixing-bug-prone-javascript-dates-deno-1-4-adds-its-support-for-temporal-api/,2024-02-05
-Top 100+ Node.js Interview Questions and Answers for 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions,2024-02-05
-‘Ethical Hacking’ and Java-Script: These eBooks are free from TradePub for 9to5Toys readers,9to5Toys,https://9to5toys.com/2024/02/01/ethical-hacking-and-java-script-these-ebooks-are-free-from-tradepub-for-9to5toys-readers/,2024-02-05
-"JavaScript: What is Type Coercion and Type conversion?  by Ganiyu Yusuf Olamilekan  Feb, 2024",Medium,https://medium.com/@ganiyuyusuf918/javascript-what-is-type-coercion-and-type-conversion-daadcfa52bf6?responsesOpen=true&sortBy=REVERSE_CHRON,2024-02-05
-Google supply chain bug patched in code-testing tool Bazel,SC Media,https://www.scmagazine.com/news/supply-chain-vulnerability-fixed-in-google-bazel,2024-02-05
-TypeScript 5.4 beta arrives,InfoWorld,https://www.infoworld.com/article/3712660/typescript-54-beta-arrives.html,2024-02-05
-Bun: Ushering in a New Era of JavaScript Runtime,Open Source For You,https://www.opensourceforu.com/2024/01/bun-ushering-in-a-new-era-of-javascript-runtime/,2024-02-05
-The Trouble with Nesting Ternaries in JavaScript,The New Stack,https://thenewstack.io/the-trouble-with-nesting-ternaries-in-javascript/,2024-02-05
 Learn More by Building Your Own Custom JavaScript Framework,The New Stack,https://thenewstack.io/learn-more-by-building-your-own-custom-javascript-framework/,2024-02-06
 Javascript Rendering: Common JS Rendering Issues for Websites,Neil Patel,https://neilpatel.com/blog/common-javascript-rendering-issues/,2024-02-06
 How To Write Clean Code With These 5 Javascript Tips And Tricks?,Medium,https://medium.com/@ori.holis/how-to-write-clean-code-with-these-5-javascript-tips-and-tricks-c3675914cc4d,2024-02-06
@@ -1789,3 +1779,13 @@ TypeScript takes aim at truthy and nullish bugs,InfoWorld,https://www.infoworld.
 Researchers find new way to steal tokens using cross-site scripting and OAuth,Cybernews,https://cybernews.com/security/researchers-find-new-way-to-steal-tokens-xss-oauth/,2024-08-02
 "JavaScript Daily Tips #12: The Power of JavaScript Object Destructuring  by Mariosdev  Aug, 2024",Medium,https://medium.com/@Marioskif/javascript-daily-tips-12-the-power-of-javascript-object-destructuring-25aec309aca5,2024-08-02
 20 Javascript Tools Revolutionizing Web Development Today,Simplilearn.com,https://www.simplilearn.com/javascript-tools-for-web-development-article,2024-08-02
+JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2024-08-03
+Deep Dive On How Google Search Indexes JavaScript,Search Engine Roundtable,https://www.seroundtable.com/google-search-indexes-javascript-37827.html,2024-08-03
+5 JavaScript Security Best Practices for 2024,The New Stack,https://thenewstack.io/5-javascript-security-best-practices-for-2024/,2024-08-03
+"JavaScript Daily Tips #10: Why You Should Use Template Literals  by Mariosdev  Jul, 2024",Medium,https://medium.com/@Marioskif/javascript-daily-tips-10-why-you-should-use-template-literals-1af4389abaf2,2024-08-03
+Human Resources Highlight of the Month: How to Stay Motivated,University of North Carolina School of the Arts,https://www.uncsa.edu/announcements/20240802-human-resources-highlight.aspx,2024-08-03
+Node.js Adds Experimental TypeScript Support,I Programmer,https://www.i-programmer.info/news/167-javascript/17367-nodejs-adds-experimental-typescript-support.html,2024-08-03
+Researchers find new way to steal tokens using cross-site scripting and OAuth,Cybernews,https://cybernews.com/security/researchers-find-new-way-to-steal-tokens-xss-oauth/,2024-08-03
+Navigating the Risks of Third-Party JavaScript Integrations,The New Stack,https://thenewstack.io/navigating-the-risks-of-third-party-javascript-integrations/,2024-08-03
+"JavaScript Daily Tips #12: The Power of JavaScript Object Destructuring  by Mariosdev  Aug, 2024",Medium,https://medium.com/@Marioskif/javascript-daily-tips-12-the-power-of-javascript-object-destructuring-25aec309aca5,2024-08-03
+20 Javascript Tools Revolutionizing Web Development Today,Simplilearn.com,https://www.simplilearn.com/javascript-tools-for-web-development-article,2024-08-03
