@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday August 24 2024
+## Sunday August 25 2024
 
 
 | Title                                                                                                    | Website           | Link                                                                                                                                                                              |
@@ -14,12 +14,12 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Sanity Check: Using data- attributes to pass to javascript?                                              | SitePoint         | https://www.sitepoint.com/community/t/sanity-check-using-data-attributes-to-pass-to-javascript/454773                                                                             |
 | State of JavaScript: Insights from the latest JavaScript developer survey                                | InfoWorld         | https://www.infoworld.com/article/3486850/state-of-javascript-insights-from-the-latest-javascript-community-survey.html                                                           |
 | Inside ECMAScript: JavaScript Standard Gets an Extra Stage                                               | The New Stack     | https://thenewstack.io/inside-ecmascript-javascript-standard-gets-an-extra-stage/                                                                                                 |
+| How to Disable JavaScript in Opera                                                                       | Lifewire          | https://www.lifewire.com/disable-javascript-opera-web-browser-4103693                                                                                                             |
 | The Top Programming Languages 2024                                                                       | IEEE Spectrum     | https://spectrum.ieee.org/top-programming-languages-2024                                                                                                                          |
-| Top JavaScript Frameworks and Libraries to Learn in 2024                                                 | Analytics Insight | https://www.analyticsinsight.net/coding/programming-languages/top-javascript-frameworks-and-libraries-to-learn-in-2024                                                            |
 | Encore Week at ESF HQ in Bryn Mawr: Game Masterminds: Gaming with HTML, CSS, JavaScript, and AI- Week 11 | LevittownNow.com  | https://levittownnow.com/community-calendar/?_evDiscoveryPath=/event/35238090a-encore-week-at-esf-hq-in-bryn-mawr-game-masterminds-gaming-with-html-css-javascript-and-ai-week-11 |
-| Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild                                    | The Hacker News   | https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html                                                                                                     |
+| Top JavaScript Libraries for Front-End Development                                                       | Analytics Insight | https://www.analyticsinsight.net/coding/javascript-analytics-insight/top-javascript-libraries-for-front-end-development                                                           |
+| Python Daily Tips #10: How to Decode JSON Files Like a Pro  by Mariosdev  Aug, 2024                      | Medium            | https://medium.com/@Marioskif/python-daily-tips-10-how-to-decode-json-files-like-a-pro-54ea1c00a32e                                                                               |
 | Shreds AI Creates Complex Software in Java and JavaScript                                                | The New Stack     | https://thenewstack.io/shreds-ai-creates-complex-software-in-java-and-javascript/                                                                                                 |
-| PBS Cancels 1 TV Show, Renews 7 More, & Announces 1 Has Ended in 2024                                    | Just Jared        | https://www.justjared.com/2024/08/18/pbs-cancels-1-tv-show-renews-7-more-announces-1-has-ended-in-2024/2/                                                                         |
 | Chrome Zero-day Vulnerability (CVE-2024-7971) Actively Exploited in The Wild                             | CybersecurityNews | https://cybersecuritynews.com/chrome-zero-day-vulnerability/                                                                                                                      |
 ## Top Sites for Past 7 Days
 
