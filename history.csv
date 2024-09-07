@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-JavaScript: Empowered by Rust,InfoQ.com,https://www.infoq.com/presentations/rust-javascript/,2024-03-11
-JavaScript Objects: From Fundamentals to Advanced Techniques,HackerNoon,https://hackernoon.com/javascript-objects-from-fundamentals-to-advanced-techniques,2024-03-11
-"Slack's New Dev Portal Offers CI/CD, Python, JavaScript Aids",The New Stack,https://thenewstack.io/slacks-new-dev-portal-offers-ci-cd-python-javascript-aids/,2024-03-11
-"CISA and open-source operators of Rust, JavaScript make new cybersecurity commitments",Axios,https://amp.axios.com/biden-admin-open-source-security-promises-d36999fa-3fc9-4395-b547-b2f6e4a75c4b.html,2024-03-11
-Ruby on Rails vs JavaScript: A Developer's Dilemma [2024],Simplilearn.com,https://www.simplilearn.com/ruby-on-rails-vs-javascript-article,2024-03-11
-"OpenVINO 2024.0 Brings More GenAI Features, New JavaScript API",Phoronix,https://www.phoronix.com/news/OpenVINO-2024.0-Released,2024-03-11
-OpenNMS XSS Flaw Let Attackers Inject JavaScript Payload,GBHackers on Security,https://gbhackers.com/opennms-xss-attackers-javascript/,2024-03-11
-TypeScript soothes type narrowing pain point,InfoWorld,https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html,2024-03-11
-"Video Playlist Using HTML, CSS and JavaScript with Source Code",Medium,https://medium.com/@bijanrai/video-playlist-using-html-css-and-javascript-with-source-code-a138cc289207?responsesOpen=true&sortBy=REVERSE_CHRON,2024-03-11
-How to enable JavaScript in Google Chrome: A step-by-step guide,XDA Developers,https://www.xda-developers.com/how-enable-javascript-google-chrome/,2024-03-11
 JavaScript Objects: From Fundamentals to Advanced Techniques,HackerNoon,https://hackernoon.com/javascript-objects-from-fundamentals-to-advanced-techniques,2024-03-12
 "Slack's New Dev Portal Offers CI/CD, Python, JavaScript Aids",The New Stack,https://thenewstack.io/slacks-new-dev-portal-offers-ci-cd-python-javascript-aids/,2024-03-12
 "CISA and open-source operators of Rust, JavaScript make new cybersecurity commitments",Axios,https://www.axios.com/2024/03/07/biden-admin-open-source-security-promises,2024-03-12
@@ -1787,3 +1777,13 @@ LangGraph.js v0.2 Enhances JavaScript Agents with Cloud and Studio Support,Block
 "Hackers inject malicious JS in Cisco store to steal credit cards, credentials",BleepingComputer,https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/,2024-09-06
 5 Best Programming Languages for Hacking in 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/cyber-security-tutorial/programming-languages-for-hacking,2024-09-06
 Can JavaScript Help You Develop AI Applications?,Analytics India Magazine,https://analyticsindiamag.com/developers-corner/can-javascript-help-you-develop-ai-applications/,2024-09-06
+"I have a series of Javascript codes, I need help with a couple",SitePoint,https://www.sitepoint.com/community/t/i-have-a-series-of-javascript-codes-i-need-help-with-a-couple/456246,2024-09-07
+Malicious JavaScript facilitates Cisco store customer info theft  SC Media,SC Media,https://www.scmagazine.com/brief/malicious-javascript-facilitates-cisco-store-customer-info-theft,2024-09-07
+Vue JavaScript framework boosts reactivity system,InfoWorld,https://www.infoworld.com/article/3506994/vue-javascript-framework-improves-reactivity-system.html,2024-09-07
+"on() Method: The JavaScript Listener That Makes Your Website Interactive  by Amira Khaled  Aug, 2024",Medium,https://medium.com/@amirakhaled2027/on-method-the-javascript-listener-that-makes-your-website-interactive-3e86a6ea2d2b,2024-09-07
+How Brendan Eich Transformed the Web: From JavaScript to Brave Browser,Crypto News Flash,https://www.crypto-news-flash.com/how-brendan-eich-transformed-the-web-from-javascript-to-brave-browser/,2024-09-07
+"Hackers inject malicious JS in Cisco store to steal credit cards, credentials",BleepingComputer,https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/,2024-09-07
+Lazarus Hackers Attacking Job-Seekers to Deliver Javascript Malware,GBHackers,https://gbhackers.com/lazarus-hackers-attacking-job-seekers/,2024-09-07
+LangGraph.js v0.2 Enhances JavaScript Agents with Cloud and Studio Support,Blockchain News,https://blockchain.news/news/langgraph-js-v0-2-enhances-javascript-agents-cloud-studio,2024-09-07
+I learned the language of computer programming in my 50s – here’s what I discovered,The Guardian,https://www.theguardian.com/technology/article/2024/aug/31/learning-computer-programming-language-coding-devil-stack-andrew-smith,2024-09-07
+5 Best Programming Languages for Hacking in 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/cyber-security-tutorial/programming-languages-for-hacking,2024-09-07
