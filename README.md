@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday September 16 2024
+## Tuesday September 17 2024
 
 
-| Title                                                                                        | Website           | Link                                                                                                                               |
-|:---------------------------------------------------------------------------------------------|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| Building a group of datasets into an Obj                                                     | SitePoint         | https://www.sitepoint.com/community/t/building-a-group-of-datasets-into-an-obj/457087                                              |
-| JavaScript, Python and Java Among Tops in Language Rankings                                  | The New Stack     | https://thenewstack.io/javascript-python-and-java-among-tops-in-language-rankings/                                                 |
-| How to Access OpenAI Assistant JavaScript?                                                   | Watcher Guru      | https://watcher.guru/news/how-to-access-openai-assistant-javascript                                                                |
-| The Complete Guide to JavaScript Console Methods and Advanced Debugging Techniques           | Medium            | https://medium.com/@personal.nayak/the-complete-guide-to-javascript-console-methods-and-advanced-debugging-techniques-cdb196c25e37 |
-| TypeScript 5.6 now generally available                                                       | InfoWorld         | https://www.infoworld.com/article/3513917/typescript-5-6-now-generally-available.html                                              |
-| 60+ Angular Interview Questions in 2024: Prepare Like a Pro                                  | Simplilearn.com   | https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions                                                 |
-| TIOBE Index for September 2024: Top 10 Most Popular Programming Languages                    | TechRepublic      | https://www.techrepublic.com/article/tiobe-index-language-rankings/                                                                |
-| 10 Innovative Projects to Master JavaScript in 2024                                          | Analytics Insight | https://www.analyticsinsight.net/coding/javascript-analytics-insight/10-innovative-projects-to-master-javascript-in-2024           |
-| Client Server — Job Vacancy Senior JavaScript Developer VXX XX XX XX XX eCommerce Billericay | Free-Work         | https://www.free-work.com/en-gb/tech/front-end-developer/job-mission/senior-javascript-developer-vxx-xx-xx-xx-xx-ecommerce-2       |
-| New Hampshire primaries: Live results                                                        | The Hill          | https://thehill.com/homenews/4870052-new-hampshire-primaries-live-results/                                                         |
+| Title                                                                                       | Website         | Link                                                                                                                               |
+|:--------------------------------------------------------------------------------------------|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Building a group of datasets into an Obj                                                    | SitePoint       | https://www.sitepoint.com/community/t/building-a-group-of-datasets-into-an-obj/457087                                              |
+| Oracle urged again to give up JavaScript trademark                                          | The Register    | https://www.theregister.com/2024/09/17/oracle_urged_to_surrender_javascript_trademark/                                             |
+| JavaScript, Python and Java Among Tops in Language Rankings                                 | The New Stack   | https://thenewstack.io/javascript-python-and-java-among-tops-in-language-rankings/                                                 |
+| How to Access OpenAI Assistant JavaScript?                                                  | Watcher Guru    | https://watcher.guru/news/how-to-access-openai-assistant-javascript                                                                |
+| TypeScript 5.6 now generally available                                                      | InfoWorld       | https://www.infoworld.com/article/3513917/typescript-5-6-now-generally-available.html                                              |
+| Flipper Zero Reaches a Major Milestone with Firmware 1.0 — and Gains JavaScript Powers, Too | Hackster.io     | https://www.hackster.io/news/flipper-zero-reaches-a-major-milestone-with-firmware-1-0-and-gains-javascript-powers-too-af8ec2e5042c |
+| JavaScript stakeholders call on Oracle to release trademark - again                         | Computing UK    | https://www.computing.co.uk/news/4360670/javascript-stakeholders-oracle-release-trademark                                          |
+| 60+ Angular Interview Questions in 2024: Prepare Like a Pro                                 | Simplilearn.com | https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions                                                 |
+| LangChain v0.3 Released With Key Upgrades for Python and JavaScript                         | Blockchain News | https://blockchain.news/news/langchain-v0-3-released-with-key-upgrades                                                             |
+| TypeScript 5.6 Tightens Truthy And Nullish Checks                                           | I Programmer    | https://www.i-programmer.info/news/167-javascript/17478-typescript-56-tightens-truthy-and-nullish-checks.html                      |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
