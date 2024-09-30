@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Sunday September 29 2024
+## Monday September 30 2024
 
 
 | Title                                                                                                          | Website                  | Link                                                                                                                     |
@@ -17,10 +17,10 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Report: Google Fixing Noindex Bug With Some JavaScript Pages                                                   | Search Engine Roundtable | https://www.seroundtable.com/google-noindex-bug-with-javascript-pages-38118.html                                         |
 | 15+ Awesome Stuff to Build and Sell With JavaScript (and Friends)                                              | HackerNoon               | https://hackernoon.com/15-awesome-stuff-to-build-and-sell-with-javascript-and-friends                                    |
 | How to Add Event Listeners to Multiple Elements in a Single Line with JavaScript?  by John Au-Yeung  Sep, 2024 | Medium                   | https://medium.com/@hohanga/how-to-add-event-listeners-to-multiple-elements-in-a-single-line-with-javascript-349ed1d855d |
+| Client-Side Vs. Server-Side Rendering                                                                          | Search Engine Journal    | https://www.searchenginejournal.com/client-side-vs-server-side/482574/                                                   |
 | Intro to Node's built-in SQLite module                                                                         | InfoWorld                | https://www.infoworld.com/article/3537050/intro-to-nodes-built-in-sqlite-module.html                                     |
-| Client Server — Job Vacancy C# Developer Full Stack .Net Core JavaScript St Albans                             | Free-Work                | https://www.free-work.com/en-gb/tech/front-end-developer/job-mission/c-developer-full-stack-net-core-javascript-2        |
+| Oliver Fabel Brings MicroPython to the Popular Flipper Zero Multitool                                          | Hackster.io              | https://www.hackster.io/news/oliver-fabel-brings-micropython-to-the-popular-flipper-zero-multitool-4fc168e2a181          |
 | Deno 2 Release Candidate Ready                                                                                 | I Programmer             | https://www.i-programmer.info/news/167-javascript/17505-deno-2-release-candidate-ready.html                              |
-| Netflix Cancels 6 TV Shows in 2024, Renews 27 Others (So Far)                                                  | Just Jared               | https://www.justjared.com/2024/09/22/netflix-cancels-6-tv-shows-in-2024-renews-27-others-so-far/2/                       |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
