@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday October 08 2024
+## Wednesday October 09 2024
 
 
-| Title                                                                                                 | Website                  | Link                                                                                                                              |
-|:------------------------------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| Developers are using JavaScript in droves — not many want to                                          | Techzine Europe          | https://www.techzine.eu/news/devops/124983/developers-are-using-javascript-in-droves-not-many-want-to/                            |
-| Google Warning On JavaScript-Generated Product Markup                                                 | Search Engine Roundtable | https://www.seroundtable.com/google-javascript-generated-product-markup-warning-38172.html                                        |
-| Vite Creator Launches Company To Build JavaScript Toolchain                                           | The New Stack            | https://thenewstack.io/vite-creator-launches-company-to-build-javascript-toolchain/                                               |
-| Node.js previews network inspection support                                                           | InfoWorld                | https://www.infoworld.com/article/3547304/node-js-previews-network-inspection-support.html                                        |
-| These are apparently the most popular coding languages around - with an old favourite taking top spot | TechRadar                | https://www.techradar.com/pro/these-are-apparently-the-most-popular-coding-languages-around-with-an-old-favourite-taking-top-spot |
-| How Garbage Collection Works in JavaScript?  by Shweta Jain  Oct, 2024                                | Medium                   | https://medium.com/@shwetajain21/how-garbage-collection-works-in-javascript-fc7a211ba91d                                          |
-| Massive Response Follows Hurricane Helene’s Gut Punch                                                 | Samaritan's Purse        | https://samaritanspurse.org/disaster/hurricane-helene/                                                                            |
-| Google Adds Two New Best Practices For Product Markup                                                 | Search Engine Journal    | https://www.searchenginejournal.com/google-adds-two-new-best-practices-for-product-markup/528917/                                 |
-| How to use ChatGPT to write code: What it does well and what it doesn't                               | ZDNET                    | https://www.zdnet.com/article/how-to-use-chatgpt-to-write-code-what-it-does-well-and-what-it-doesnt/                              |
-| Behind the Scenes at the JavaScript Registry                                                          | The New Stack            | https://thenewstack.io/behind-the-scenes-at-the-javascript-repository/                                                            |
+| Title                                                                    | Website              | Link                                                                                                                |
+|:-------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------|
+| Developers are using JavaScript in droves — not many want to             | Techzine Europe      | https://www.techzine.eu/news/devops/124983/developers-are-using-javascript-in-droves-not-many-want-to/              |
+| How to Auto Import Vue Components in JavaScript                          | Built In             | https://builtin.com/articles/vue-component-auto-import-js                                                           |
+| Vite Creator Launches Company To Build JavaScript Toolchain              | The New Stack        | https://thenewstack.io/vite-creator-launches-company-to-build-javascript-toolchain/                                 |
+| Node.js previews network inspection support                              | InfoWorld            | https://www.infoworld.com/article/3547304/node-js-previews-network-inspection-support.html                          |
+| Samaritan’s Purse Responds After Hurricane Helene                        | Samaritan's Purse    | https://www.samaritanspurse.org/disaster/hurricane-helene/                                                          |
+| 20 Best Programming Languages in 2024 [Ultimate List]                    | Simplilearn.com      | https://www.simplilearn.com/best-programming-languages-start-learning-today-article                                 |
+| How to use ChatGPT to write code: What it does well and what it doesn't  | ZDNet                | https://www.zdnet.com/article/how-to-use-chatgpt-to-write-code-what-it-does-well-and-what-it-doesnt/                |
+| Behind the Scenes at the JavaScript Registry                             | The New Stack        | https://thenewstack.io/behind-the-scenes-at-the-javascript-repository/                                              |
+| ROSS DOUTHAT: The most important question Harris hasn't answered         | TribLIVE.com         | https://community.triblive.com/news/413a836dc3df107c3d8428cae4fb4260                                                |
+| [Trends ] JavaScript Monitoring and Debugging Tool Market Growth Drivers | www.nieuwsinassen.nl | https://www.nieuwsinassen.nl/worldwide/trends-javascript-monitoring-and-debugging-tool-market-growth-drivers/89208/ |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
