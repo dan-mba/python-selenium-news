@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Wednesday October 09 2024
+## Thursday October 10 2024
 
 
-| Title                                                                    | Website              | Link                                                                                                                |
-|:-------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------|
-| Developers are using JavaScript in droves — not many want to             | Techzine Europe      | https://www.techzine.eu/news/devops/124983/developers-are-using-javascript-in-droves-not-many-want-to/              |
-| How to Auto Import Vue Components in JavaScript                          | Built In             | https://builtin.com/articles/vue-component-auto-import-js                                                           |
-| Vite Creator Launches Company To Build JavaScript Toolchain              | The New Stack        | https://thenewstack.io/vite-creator-launches-company-to-build-javascript-toolchain/                                 |
-| Node.js previews network inspection support                              | InfoWorld            | https://www.infoworld.com/article/3547304/node-js-previews-network-inspection-support.html                          |
-| Samaritan’s Purse Responds After Hurricane Helene                        | Samaritan's Purse    | https://www.samaritanspurse.org/disaster/hurricane-helene/                                                          |
-| 20 Best Programming Languages in 2024 [Ultimate List]                    | Simplilearn.com      | https://www.simplilearn.com/best-programming-languages-start-learning-today-article                                 |
-| How to use ChatGPT to write code: What it does well and what it doesn't  | ZDNet                | https://www.zdnet.com/article/how-to-use-chatgpt-to-write-code-what-it-does-well-and-what-it-doesnt/                |
-| Behind the Scenes at the JavaScript Registry                             | The New Stack        | https://thenewstack.io/behind-the-scenes-at-the-javascript-repository/                                              |
-| ROSS DOUTHAT: The most important question Harris hasn't answered         | TribLIVE.com         | https://community.triblive.com/news/413a836dc3df107c3d8428cae4fb4260                                                |
-| [Trends ] JavaScript Monitoring and Debugging Tool Market Growth Drivers | www.nieuwsinassen.nl | https://www.nieuwsinassen.nl/worldwide/trends-javascript-monitoring-and-debugging-tool-market-growth-drivers/89208/ |
+| Title                                                                         | Website              | Link                                                                                                                |
+|:------------------------------------------------------------------------------|:---------------------|:--------------------------------------------------------------------------------------------------------------------|
+| How to Make a Simple JavaScript Quiz: Code Tutorial                           | SitePoint            | https://www.sitepoint.com/simple-javascript-quiz/                                                                   |
+| How to Auto Import Vue Components in JavaScript                               | Built In             | https://builtin.com/articles/vue-component-auto-import-js                                                           |
+| Top JavaScript Frameworks to Consider in 2025                                 | Netguru              | https://www.netguru.com/blog/top-javascript-frameworks                                                              |
+| JavaScript Due for New Time, Date and Set Features Next Year                  | The New Stack        | https://thenewstack.io/javascript-due-for-new-time-date-and-set-features-next-year/                                 |
+| Deno 2.0 looks to backward compatibility to move forward                      | The Register         | https://www.theregister.com/2024/10/09/deno_20_now_plays_nicer/                                                     |
+| 7 Tricky JavaScript Questions to Test Your Knowledge  by Xiuer Old  Oct, 2024 | Medium               | https://medium.com/@xiuerold/7-tricky-javascript-questions-to-test-your-knowledge-fad133c67088                      |
+| Node.js previews network inspection support                                   | InfoWorld            | https://www.infoworld.com/article/3547304/node-js-previews-network-inspection-support.html                          |
+| Vite Creator Launches Company To Build JavaScript Toolchain                   | The New Stack        | https://thenewstack.io/vite-creator-launches-company-to-build-javascript-toolchain/                                 |
+| [Trends ] JavaScript Monitoring and Debugging Tool Market Growth Drivers      | www.nieuwsinassen.nl | https://www.nieuwsinassen.nl/worldwide/trends-javascript-monitoring-and-debugging-tool-market-growth-drivers/89208/ |
+| Deno 2.0 arrives, ready to battle Node.js                                     | InfoWorld            | https://www.infoworld.com/article/3555164/deno-2-0-arrives-ready-to-battle-node-js.html                             |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
