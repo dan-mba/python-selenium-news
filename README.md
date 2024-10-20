@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday October 19 2024
+## Sunday October 20 2024
 
 
 | Title                                                                                                                           | Website         | Link                                                                                                                               |
@@ -14,13 +14,13 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Why is my JavaScript not properly updating the CSS styles of an element on my webpage?                                          | SitePoint       | https://www.sitepoint.com/community/t/why-is-my-javascript-not-properly-updating-the-css-styles-of-an-element-on-my-webpage/460680 |
 | Water Makara Uses Obfuscated JavaScript in Spear Phishing Campaign Targets Brazil With Astaroth Malware                         | Trend Micro     | https://www.trendmicro.com/en_us/research/24/j/water-makara-uses-obfuscated-javascript-in-spear-phishing-campai.html               |
 | Spin + StarlingMonkey Equals JavaScript for WebAssembly                                                                         | The New Stack   | https://thenewstack.io/spin-starlingmonkey-equals-javascript-for-webassembly/                                                      |
-| Top 65+ jQuery Interview Questions and Answers for 2025                                                                         | Simplilearn.com | https://www.simplilearn.com/tutorials/javascript-tutorial/jquery-interview-questions                                               |
 | Exclusive: Webflow acquires JavaScript library GSAP                                                                             | Axios           | https://www.axios.com/pro/media-deals/2024/10/15/webflow-gsap-animation-websites                                                   |
+| Top 65+ jQuery Interview Questions and Answers for 2025                                                                         | Simplilearn.com | https://www.simplilearn.com/tutorials/javascript-tutorial/jquery-interview-questions                                               |
 | Spectra is a customizable, JavaScript ESP32-S3 and nRF52832 smartwatch (Crowdfunding)                                           | CNX Software    | https://www.cnx-software.com/2024/10/18/spectra-customizable-javascript-esp32-s3-nrf52832-smartwatch/                              |
 | Exclusive: Webflow acquires JavaScript library GSAP                                                                             | AllSides        | https://www.allsides.com/news/2024-10-15-1115/technology-exclusive-webflow-acquires-javascript-library-gsap                        |
 | The TechBeat: Enhancing Global Communication: The Power of Multi-Language JavaScript OCR APIs for Document Process (10/18/2024) | HackerNoon      | https://hackernoon.com/10-18-2024-techbeat                                                                                         |
+| Promise Chaining .then() calls                                                                                                  | Medium          | https://medium.com/@biplavmazumdar5/promise-chaining-then-calls-df6e59197911                                                       |
 | Top 50 TypeScript Interview Questions With Answers for 2024                                                                     | Simplilearn.com | https://www.simplilearn.com/tutorials/typescript-tutorial/typescript-interview-questions                                           |
-| Doonesbury Comic Strips by Garry Trudeau - October 18, 2024                                                                     | Washington Post | https://www.washingtonpost.com/doonesbury/                                                                                         |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
