@@ -6,13 +6,12 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday November 16 2024
+## Sunday November 17 2024
 
 
 | Title                                                                                                                          | Website                | Link                                                                                                                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | JavaScript Tutorial: Learn JavaScript from Scratch                                                                             | Simplilearn.com        | https://www.simplilearn.com/tutorials/javascript-tutorial                                                                                                     |
-| How to Format Dates in JavaScript                                                                                              | Built In               | https://builtin.com/articles/js-formatting-date                                                                                                               |
 | China-Nexus TAG-112 Compromises Tibetan Websites to Distribute Cobalt Strike                                                   | Recorded Future        | https://www.recordedfuture.com/research/china-nexus-tag-112-compromises-tibetan-websites                                                                      |
 | TIOBE Programming Index News November 2024: Go Reaches Its Highest-Ever Ranking                                                | TechRepublic           | https://www.techrepublic.com/article/tiobe-index-commentary-november-24/                                                                                      |
 | 89 JavaScript Interview Questions & Answers [2025]                                                                             | Simplilearn.com        | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions                                                                      |
@@ -21,6 +20,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | JavaScript Charts for Business Insights and Customization                                                                      | Talk Business Magazine | https://www.talk-business.co.uk/2024/11/15/javascript-charts-for-business-insights-and-customization/                                                         |
 | “Beetroot Academy” ofron kursin për React JS – Javascript gjuha që është përdorur për Instagram, Netflix, Facebook e Pinterest | Telegrafi              | https://telegrafi.com/en/beetroot-academy-offers-the-course-for-react-js-javascript-language-that-is-used-for-instagram%2C-netflix%2C-facebook-and-pinterest/ |
 | Top iOS Programming Languages for App Development in 2024                                                                      | Netguru                | https://www.netguru.com/blog/top-ios-programming-languages                                                                                                    |
+| Snyk founder Guy Podjarny raises $125m for AI software development platform Tessl                                              | UKTN                   | https://www.uktech.news/tech-hubs/snyk-founder-guy-podjarny-raises-125m-for-ai-software-development-platform-tessl-20241114                                   |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
