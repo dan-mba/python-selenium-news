@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell,The Hacker News,https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html,2024-05-28
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2024-05-28
-Top 5 Cutting-Edge JavaScript Techniques,The New Stack,https://thenewstack.io/top-5-cutting-edge-javascript-techniques/,2024-05-28
-"Why enterprises rely on JavaScript, Python, and Java",InfoWorld,https://www.infoworld.com/article/3715288/why-enterprises-rely-on-javascript-python-and-java.html,2024-05-28
-2024 Developer Trends: JavaScript Leads in Adoption and Interest,KGET.com,https://www.kget.com/business/press-releases/ein-presswire/713989038/2024-developer-trends-javascript-leads-in-adoption-and-interest,2024-05-28
-PoC Released for JavaScript execution Vulnerability in PDF.js,CybersecurityNews,https://cybersecuritynews.com/poc-released-for-javascript/,2024-05-28
-Google Patches Chrome Zero-Day: Type Confusion in V8 JavaScript,GBHackers on Security,https://gbhackers.com/patches-chrome-zero-day/,2024-05-28
-The 20 Generative AI Coding Tools Every Programmer Should Know About,Forbes,https://www.forbes.com/sites/bernardmarr/2024/05/23/the-20-generative-ai-coding-tools-every-programmer-should-know-about/,2024-05-28
-Memory corruption flaw in Fluent Bit could disrupt cloud platforms,SC Media,https://www.scmagazine.com/news/memory-corruption-flaw-in-fluent-bit-could-disrupt-cloud-platforms,2024-05-28
-Drizzle ORM Is SQL in a JavaScript Hat — and Wears It Well,The New Stack,https://thenewstack.io/drizzle-orm-is-sql-in-a-javascript-hat-and-wears-it-well/,2024-05-28
 The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell,The Hacker News,https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html,2024-05-29
 JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2024-05-29
 Top 5 Cutting-Edge JavaScript Techniques,The New Stack,https://thenewstack.io/top-5-cutting-edge-javascript-techniques/,2024-05-29
@@ -1787,3 +1777,13 @@ China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign
 Top 10 Frontend Development Trends in 2024,Netguru,https://www.netguru.com/blog/front-end-trends,2024-11-23
 "Apple Safari Technology Preview 208 Released With JavaScript, Web API and Other Fixes",Gadgets 360,https://www.gadgets360.com/apps/news/safari-technology-preview-208-update-release-features-apple-7080362,2024-11-23
 ChatGPT writes my routine in 12 top programming languages. Here's what the results tell me,ZDNET,https://www.zdnet.com/article/chatgpt-writes-my-routine-in-12-top-programming-languages-heres-what-the-results-tell-me/,2024-11-23
+$Nan? My age old enemy (convert strings back into numbers?),SitePoint,https://www.sitepoint.com/community/t/nan-my-age-old-enemy-convert-strings-back-into-numbers/463800,2024-11-24
+"Azure Container Apps launches Python, JavaScript interpreters",InfoWorld,https://www.infoworld.com/article/3609843/azure-container-apps-launches-python-javascript-interpreters.html,2024-11-24
+"JSNation US 2024 Unites 10,000 Developers to Shape JavaScript’s Future",DesignRush,https://www.designrush.com/news/jsnation-us-2024-unites-10k-developers-to-shape-javascript-future,2024-11-24
+27.4M developers use JavaScript & AI chatbots are used by 45% of developers for problem-solving,SlashData,https://www.slashdata.co/post/27-4m-developers-use-javascript-ai-chatbots-are-used-by-45-of-developers-for-problem-solving,2024-11-24
+"JavaScript JavaScript Overview:  by Javeria Butt  Nov, 2024",Medium,https://medium.com/@javeria.instuctor14/javascript-javascript-overview-3fda083759dd,2024-11-24
+China-Linked TAG-112 Targets Tibetan Media with Cobalt Strike Espionage Campaign,The Hacker News,https://thehackernews.com/2024/11/china-linked-tag-112-targets-tibetan.html,2024-11-24
+Top 10 Frontend Development Trends in 2024,Netguru,https://www.netguru.com/blog/front-end-trends,2024-11-24
+"Apple Safari Technology Preview 208 Released With JavaScript, Web API and Other Fixes",Gadgets 360,https://www.gadgets360.com/apps/news/safari-technology-preview-208-update-release-features-apple-7080362,2024-11-24
+ChatGPT writes my routine in 12 top programming languages. Here's what the results tell me,ZDNet,https://www.zdnet.com/article/chatgpt-writes-my-routine-in-12-top-programming-languages-heres-what-the-results-tell-me/,2024-11-24
+Apple Issues New Warning For Millions Of MacBook Users,Forbes,https://www.forbes.com/sites/ewanspence/2024/11/23/apple-macbook-pro-macbook-air-imac-macos-security-warning-javascript-webkit-safari/,2024-11-24
