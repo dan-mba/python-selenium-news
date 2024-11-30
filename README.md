@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Friday November 29 2024
+## Saturday November 30 2024
 
 
 | Title                                                                                                  | Website             | Link                                                                                                                     |
@@ -14,7 +14,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Kill Oracle's 'JavaScript' trademark, Deno asks USPTO                                                  | The Register        | https://www.theregister.com/2024/11/26/cancel_oracles_javascript_trademark_deno/                                         |
 | 89 JavaScript Interview Questions & Answers [2025]                                                     | Simplilearn.com     | https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions                                 |
 | USPTO petitioned to cancel Oracle’s JavaScript trademark                                               | InfoWorld           | https://www.infoworld.com/article/3612364/uspto-petitioned-to-cancel-oracles-javascript-trademark.html                   |
-| Join us for a livestream: What's New in the ArcGIS Maps SDK for JavaScript, v4.31                      | Esri                | https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/arcgis-maps-sdk-for-javascript-v4-31-livestream/      |
+| Cropperjs Save Issues                                                                                  | SitePoint           | https://www.sitepoint.com/community/t/cropperjs-save-issues/464081                                                       |
 | “Cancel Oracle’s trademark for JavaScript”                                                             | Techzine Europe     | https://www.techzine.eu/news/devops/126624/cancel-oracles-trademark-for-javascript/                                      |
 | Deno Asks USPTO to Strip Oracle’s JavaScript Trademark                                                 | WebProNews          | https://www.webpronews.com/deno-asks-uspto-to-strip-oracles-javascript-trademark/                                        |
 | Trademark office petitioned to cancel Oracle's trademark on 'JavaScript'                               | Boing Boing         | https://boingboing.net/2024/11/26/trademark-office-petitioned-to-cancel-oracles-trademark-on-javascript.html             |
