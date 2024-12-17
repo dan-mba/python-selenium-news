@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday December 16 2024
+## Tuesday December 17 2024
 
 
-| Title                                                                                                  | Website         | Link                                                                                                            |
-|:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------------------------------------------------------------------------|
-| Introducing BuyButton.js – Shopify's New JavaScript Library                                            | Shopify         | https://www.shopify.com/zh/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library               |
-| Tricky JavaScript Interview Questions: Crack the Code Like a Pro! 🧩💻  by Hemanth Raju  Dec, 2024       | Medium          | https://medium.com/@rajuhemanth456/tricky-javascript-interview-questions-crack-the-code-like-a-pro-5068034d16ec |
-| 60+ Angular Interview Questions in 2025: Prepare Like a Pro                                            | Simplilearn.com | https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions                              |
-| Python a shoo-in for Tiobe language of the year                                                        | InfoWorld       | https://www.infoworld.com/article/3619998/python-a-shoo-in-for-tiobe-language-of-the-year.html                  |
-| TIOBE Index for December 2024: Top 10 Most Popular Programming Languages                               | TechRepublic    | https://www.techrepublic.com/article/tiobe-index-language-rankings/                                             |
-| The Inside Track: 2024 Election Briefings                                                              | Ipsos           | https://www.ipsos.com/en-us/inside-track-2024-election-briefings                                                |
-| Using JQuery Zoom and JavaScript Zoom for Product Images on Shopify                                    | Shopify         | https://www.shopify.com/zh/partners/blog/jquery-image-zoom                                                      |
-| The Future of JavaScript Runtimes: Is Bun the Next Big Thing?  by tk.dev  Byte of Knowledge  Dec, 2024 | Medium          | https://medium.com/byte-of-knowledge/the-future-of-javascript-runtimes-is-bun-the-next-big-thing-fbb289304673   |
-| 112 Node.js Interview Questions to Ace Your Interviews                                                 | Simplilearn.com | https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions                                |
-| The Best Free Way to Get Around a Paywall to Read an Article (and a Few More Methods to Try)           | Lifehacker      | https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free                                      |
+| Title                                                                                            | Website                       | Link                                                                                                            |
+|:-------------------------------------------------------------------------------------------------|:------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| In the World of JavaScript, GDPR Consent Forms Merely Scratching the Surface                     | Corporate Compliance Insights | https://www.corporatecomplianceinsights.com/javascript-gdpr-consent-forms-scratching-surface/                   |
+| JavaScript is still number one – JetBrains report                                                | InfoWorld                     | https://www.infoworld.com/article/3625652/javascript-is-still-number-one-jetbrains-report.html                  |
+| Introducing BuyButton.js – Shopify's New JavaScript Library                                      | Shopify                       | https://www.shopify.com/zh/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library               |
+| 12 of the best JavaScript examples                                                               | Creative Bloq                 | https://www.creativebloq.com/web-design/examples-of-javascript-1233964                                          |
+| Tricky JavaScript Interview Questions: Crack the Code Like a Pro! 🧩💻  by Hemanth Raju  Dec, 2024 | Medium                        | https://medium.com/@rajuhemanth456/tricky-javascript-interview-questions-crack-the-code-like-a-pro-5068034d16ec |
+| TIOBE Index for December 2024: Top 10 Most Popular Programming Languages                         | TechRepublic                  | https://www.techrepublic.com/article/tiobe-index-language-rankings/                                             |
+| Using JQuery Zoom and JavaScript Zoom for Product Images on Shopify                              | Shopify                       | https://www.shopify.com/zh/partners/blog/jquery-image-zoom                                                      |
+| Cybersecurity best practices toolkit: Power up your mid-market defenses                          | SC Media                      | https://www.scworld.com/resource/cybersecurity-best-practices-toolkit-power-up-your-mid-market-defenses         |
+| Primitive types in JavaScript                                                                    | Medium                        | https://medium.com/@nodeninja/primitive-types-in-javascript-bcaa5fb56786                                        |
+| The Best Free Way to Get Around a Paywall to Read an Article (and a Few More Methods to Try)     | Lifehacker                    | https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free                                      |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
