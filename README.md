@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday January 04 2025
+## Sunday January 05 2025
 
 
 | Title                                                                                               | Website               | Link                                                                                                         |
@@ -19,8 +19,8 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | The State Of JavaScript 2024                                                                        | I Programmer          | https://www.i-programmer.info/news/167-javascript/17709-the-state-of-javascript-2024.html                    |
 | Top 45+ ReactJS Interview Questions for Developers in 2025                                          | Simplilearn.com       | https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions                           |
 | ✈️ How to Check if an Array is Empty in JavaScript? 🚀 🔐                                             | Medium                | https://theexpertdeveloper.medium.com/%EF%B8%8F-how-to-check-if-an-array-is-empty-in-javascript-b4314cf7bb88 |
-| Neil Young Reverses Himself, Agrees to Headline Glastonbury                                         | Rolling Stone         | https://www.rollingstone.com/music/music-news/neil-young-agrees-headline-glastonbury-1235224227/             |
-| Dance Your Way Into 2025 With the 65 Best NYE Songs                                                 | Parade Magazine       | https://parade.com/1127713/jessicasager/best-new-years-eve-songs/                                            |
+| Google Shows How To Confirm Indexing Issues Due To JavaScript                                       | Search Engine Journal | https://www.searchenginejournal.com/google-shows-how-to-confirm-indexing-issues-due-to-javascript/536671/    |
+| Front End Developer Skills and Responsibilities                                                     | Simplilearn.com       | https://www.simplilearn.com/how-to-become-a-front-end-developer-article                                      |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
