@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Thursday January 23 2025
+## Friday January 24 2025
 
 
 | Title                                                                                                                   | Website               | Link                                                                                                                                  |
@@ -15,11 +15,11 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | How to Check if All Array Values Are Equal in JavaScript                                                                | Built In              | https://builtin.com/articles/check-if-all-array-values-are-equal                                                                      |
 | Google Search Now Requires JavaScript Be Enabled                                                                        | WebProNews            | https://www.webpronews.com/google-search-now-requires-javascript-be-enabled/                                                          |
 | State of JavaScript: Highlights of the JavaScript developer survey                                                      | InfoWorld             | https://www.infoworld.com/article/3804318/state-of-javascript-highlights-from-the-latest-javascript-developer-survey.html             |
+| Google requires use of JavaScript for Google Search                                                                     | Techzine Europe       | https://www.techzine.eu/news/analytics/127935/google-requires-use-of-javascript-for-google-search/                                    |
 | Confirmed: Google Is Requiring JavaScript To Block SEO Tools                                                            | Search Engine Journal | https://www.searchenginejournal.com/confirmed-google-is-requiring-javascript-to-block-seo-tools/537705/                               |
-| Google requires use of JavaScript for Google Search                                                                     | www.techzine.eu       | https://www.techzine.eu/news/analytics/127935/google-requires-use-of-javascript-for-google-search/                                    |
 | JavaScript MMORPG from Scratch - Maiu online #5 - New GUI                                                               | GameDev.net           | https://www.gamedev.net/blogs/entry/2294634-javascript-mmorpg-from-scratch-maiu-online-5-new-gui/                                     |
-| JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025 | Medium                | https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c |
 | Google now requires JavaScript to use search                                                                            | Mezha.Media           | https://mezha.media/en/2025/01/18/google-now-requires-javascript-to-use-search/                                                       |
+| JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025 | Medium                | https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c |
 | Vite’s New Rust-Based JavaScript Bundler Available in Beta                                                              | The New Stack         | https://thenewstack.io/vites-new-rust-based-javascript-bundler-available-in-beta/                                                     |
 ## Top Sites for Past 7 Days
 
