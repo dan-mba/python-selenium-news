@@ -6,13 +6,13 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Friday February 07 2025
+## Saturday February 08 2025
 
 
 | Title                                                                                      | Website             | Link                                                                                                                 |
 |:-------------------------------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------------------------------|
 | Cross-Platform JavaScript Stealer Targets Crypto Wallets in New Lazarus Group Campaign     | The Hacker News     | https://thehackernews.com/2025/02/cross-platform-javascript-stealer.html                                             |
-| JavaScript dates and times will get easier soon                                            | InfoWorld           | https://www.infoworld.com/article/3814766/javascript-dates-and-times-will-get-easier-soon.html                       |
+| Oracle maintains hold on JavaScript trademark                                              | InfoWorld           | https://www.infoworld.com/article/3818005/oracle-maintains-hold-on-javascript-trademark.html                         |
 | The JavaScript virtual machine that could change Web3                                      | Blockworks          | https://blockworks.co/news/javascript-vm-to-attract-web3-developers                                                  |
 | Oracle starts laying mines in JavaScript trademark battle                                  | The Register        | https://www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/                                  |
 | Google’s JavaScript SERPs Impact Trackers, AI                                              | Practical Ecommerce | https://www.practicalecommerce.com/googles-javascript-serps-impact-trackers-ai                                       |
