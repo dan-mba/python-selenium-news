@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Sunday March 02 2025
+## Monday March 03 2025
 
 
 | Title                                                                                                          | Website                 | Link                                                                                                                                 |
@@ -20,7 +20,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Plug-and-play web development with Astro                                                                       | InfoWorld               | https://www.infoworld.com/article/3831686/plug-and-play-web-development-with-astro-js.html                                           |
 | LangGraph 0.3 Launches with Prebuilt AI Agents in Python and JavaScript                                        | Blockchain News         | https://blockchain.news/news/langgraph-0-3-launches-prebuilt-ai-agents-python-javascript                                             |
 | Three JavaScript Proposals Advance to Stage 4                                                                  | StartupNews.fyi         | https://startupnews.fyi/2025/03/01/three-javascript-proposals-advance-to-stage-4/                                                    |
-| Not a Coder? With A.I., Just Having an Idea Can Be Enough.                                                     | The New York Times      | https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html                                   |
+| Community Calendar                                                                                             | 6abc Philadelphia       | https://6abc.com/community/calendar/?trumbaEmbed=view%3Devent%26eventid%3D179963317                                                  |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
