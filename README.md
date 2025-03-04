@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Monday March 03 2025
+## Tuesday March 04 2025
 
 
 | Title                                                                                                          | Website                 | Link                                                                                                                                 |
 |:---------------------------------------------------------------------------------------------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | JavaScript Maps SDK: A full transition to components                                                           | Esri                    | https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/javascript-maps-sdk-a-full-transition-to-components/              |
-| Day-1 🚀Mastering JavaScript Fundamentals: Variables, Data Types, and Key Concepts  by Mr. Anonymous  Feb, 2025 | Medium                  | https://medium.com/@personal.nayak/day-1-mastering-javascript-fundamentals-variables-data-types-and-key-concepts-d723c11008b9        |
 | Three JavaScript Proposals Advance to Stage 4                                                                  | The New Stack           | https://thenewstack.io/three-javascript-proposals-advance-to-stage-4/                                                                |
-| You Can't Compare Massive Data Streams In Javascript. Or Can You? 🤔                                            | HackerNoon              | https://hackernoon.com/you-cant-compare-massive-data-streams-in-javascript-or-can-you                                                |
-| What's new in ArcGIS Maps for JavaScript (4.32)                                                                | Esri                    | https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/whats-new-in-arcgis-maps-for-javascript-4-32/                     |
-| Week 5- Code Combat Quests with Python & JavaScript                                                            | The Florida Times-Union | https://www.jacksonville.com/things-to-do/events/?_evDiscoveryPath=/event/37501025a-week-5-code-combat-quests-with-python-javascript |
+| Day-1 🚀Mastering JavaScript Fundamentals: Variables, Data Types, and Key Concepts  by Mr. Anonymous  Feb, 2025 | Medium                  | https://medium.com/@personal.nayak/day-1-mastering-javascript-fundamentals-variables-data-types-and-key-concepts-d723c11008b9        |
 | Plug-and-play web development with Astro                                                                       | InfoWorld               | https://www.infoworld.com/article/3831686/plug-and-play-web-development-with-astro-js.html                                           |
-| LangGraph 0.3 Launches with Prebuilt AI Agents in Python and JavaScript                                        | Blockchain News         | https://blockchain.news/news/langgraph-0-3-launches-prebuilt-ai-agents-python-javascript                                             |
+| Week 5- Code Combat Quests with Python & JavaScript                                                            | The Florida Times-Union | https://www.jacksonville.com/things-to-do/events/?_evDiscoveryPath=/event/37501025a-week-5-code-combat-quests-with-python-javascript |
+| 🍔🧠 How WorkMade Migrated 160K Lines of Javascript to Typescript in 6 Weeks                                     | Substack                | https://substack.com/home/post/p-158222426?utm_campaign=post&utm_medium=web                                                          |
 | Three JavaScript Proposals Advance to Stage 4                                                                  | StartupNews.fyi         | https://startupnews.fyi/2025/03/01/three-javascript-proposals-advance-to-stage-4/                                                    |
-| Community Calendar                                                                                             | 6abc Philadelphia       | https://6abc.com/community/calendar/?trumbaEmbed=view%3Devent%26eventid%3D179963317                                                  |
+| Things Only Senior JavaScript Engineers Know About Testing with Jest and Mocha                                 | Medium                  | https://medium.com/@kaklotarrahul79/things-only-senior-javascript-engineers-know-about-testing-with-jest-and-mocha-a22fd5df5231      |
+| V236-15.0 MW™                                                                                                  | Vestas                  | https://www.vestas.com/en/energy-solutions/offshore-wind-turbines/V236-15MW                                                          |
+| Every Best Actress Oscars Acceptance Speech – Watch the Past 20 Winners Speeches!                              | Just Jared              | https://www.justjared.com/2025/03/01/every-best-actress-oscars-acceptance-speech-watch-the-past-20-winners-speeches/2/               |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
