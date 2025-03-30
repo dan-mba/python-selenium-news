@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Threat Actors Shift to JavaScript-Based Phishing Attacks,Infosecurity Magazine,https://www.infosecurity-magazine.com/news/threat-actors-shift-javascript/,2024-10-01
-Report: Google Fixing Noindex Bug With Some JavaScript Pages,Search Engine Roundtable,https://www.seroundtable.com/google-noindex-bug-with-javascript-pages-38118.html,2024-10-01
-Client-Side Vs. Server-Side Rendering,Search Engine Journal,https://www.searchenginejournal.com/client-side-vs-server-side/482574/,2024-10-01
-Oliver Fabel Brings MicroPython to the Popular Flipper Zero Multitool,Hackster.io,https://www.hackster.io/news/oliver-fabel-brings-micropython-to-the-popular-flipper-zero-multitool-4fc168e2a181,2024-10-01
-Intro to Node's built-in SQLite module,InfoWorld,https://www.infoworld.com/article/3537050/intro-to-nodes-built-in-sqlite-module.html,2024-10-01
-Critical Arc Browser Vulnerability Let Attackers Execute Remote Code,GBHackers,https://gbhackers.com/arc-browser-vulnerability/,2024-10-01
-Deno 2 Release Candidate Ready,I Programmer,https://www.i-programmer.info/news/167-javascript/17505-deno-2-release-candidate-ready.html,2024-10-01
-"The 10 Best TV Shows to Rewatch, Ranked by Viewers’ Ranker Votes",Just Jared,https://www.justjared.com/2024/09/29/the-10-best-tv-shows-to-rewatch-ranked-by-viewers-ranker-votes/6/,2024-10-01
-JavaScript Security Vulnerabilities: What Developers Should Know,Analytics Insight,https://www.analyticsinsight.net/ampstories/java-2/javascript-security-vulnerabilities-what-developers-should-know,2024-10-01
-Pursue a career in web development with this front-end developer course bundle,Financial Post,https://financialpost.com/personal-finance/business-essentials/front-end-developer-course-bundle,2024-10-01
 Google Warning On JavaScript-Generated Product Markup,Search Engine Roundtable,https://www.seroundtable.com/google-javascript-generated-product-markup-warning-38172.html,2024-10-02
 Client-Side Vs. Server-Side Rendering,Search Engine Journal,https://www.searchenginejournal.com/client-side-vs-server-side/482574/,2024-10-02
 These are apparently the most popular coding languages around - with an old favourite taking top spot,TechRadar,https://www.techradar.com/pro/these-are-apparently-the-most-popular-coding-languages-around-with-an-old-favourite-taking-top-spot,2024-10-02
@@ -1789,3 +1779,13 @@ What Makes JavaScript Websites Feel Faster Than Traditional Ones,Tomorrow's Worl
 How to Implement the State Design Pattern in JavaScript and Integrate It With React Hooks,HackerNoon,https://hackernoon.com/how-to-implement-the-state-design-pattern-in-javascript-and-integrate-it-with-react-hooks,2025-03-29
 Critical security flaw in Next.js could spell big trouble for JavaScript users,TechRadar,https://www.techradar.com/pro/security/critical-security-flaw-in-next-js-could-spell-big-trouble-for-javascript-users,2025-03-29
 "If You Can Learn JavaScript, You Can Learn German",ExtremeTech,https://www.extremetech.com/deals/if-you-can-learn-javascript-you-can-learn-german,2025-03-29
+"150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms",The Hacker News,https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html,2025-03-30
+"Cybersecurity News: JavaScript injection campaign, solar power vulnerabilities, SIM swap lawsuit",CISO Series,https://cisoseries.com/cybersecurity-news-javascript-injection-campaign-solar-power-vulnerabilities-sim-swap-lawsuit/,2025-03-30
+ECMAScript 2025 JavaScript standard takes shape,InfoWorld,https://www.infoworld.com/article/3856449/ecmascript-2025-javascript-standard-takes-shape.html,2025-03-30
+JavaScript’s Missing Link: Wasp Offers Full Stack Solution,The New Stack,https://thenewstack.io/javascripts-missing-link-wasp-offers-full-stack-solution/,2025-03-30
+JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-03-30
+Critical security flaw in Next.js could spell big trouble for JavaScript users,TechRadar,https://www.techradar.com/pro/security/critical-security-flaw-in-next-js-could-spell-big-trouble-for-javascript-users,2025-03-30
+Google: JavaScript Now Required To Search 01/20/2025,MediaPost,https://www.mediapost.com/publications/article/402666/,2025-03-30
+"If You Can Learn JavaScript, You Can Learn German",ExtremeTech,https://www.extremetech.com/deals/if-you-can-learn-javascript-you-can-learn-german,2025-03-30
+New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers,The Cloudflare Blog,https://blog.cloudflare.com/improving-web-standards-urlpattern/,2025-03-30
+Announcing Babylon.js 8.0,Windows Blog,https://blogs.windows.com/windowsdeveloper/2025/03/27/announcing-babylon-js-8-0/,2025-03-30
