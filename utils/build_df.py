@@ -12,17 +12,18 @@ def build_df(containers):
     for container in containers:
         base = container.find_element(By.TAG_NAME, 'a')
         link = base.get_attribute('href')
+
         # articles without an img are displayed differently
         try:
             title = base.find_element(
                 By.XPATH, './div/div[2]/div[2]').text.replace('|', '').replace('"', '\'')
             site = base.find_element(
-                By.XPATH, './div/div[2]/div[1]/span').text.replace('|', '')
+                By.XPATH, './div/div[2]/div[1]/div[2]/span').text.replace('|', '')
         except:
             title = base.find_element(
                 By.XPATH, './div/div/div[2]').text.replace('|', '').replace('"', '\'')
             site = base.find_element(
-                By.XPATH, './div/div/div[1]/span').text.replace('|', '')
+                By.XPATH, './div/div/div[1]/div[2]/span').text.replace('|', '')
         titles.append(title)
         sites.append(site)
         links.append(link)

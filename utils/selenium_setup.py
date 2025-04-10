@@ -5,7 +5,7 @@ import os
 
 def selenium_setup():
     cwd_path = os.getcwd()
-    test_driver_path = os.path.join(cwd_path, 'bin', 'chromedriver')
+    test_driver_path = os.path.join(cwd_path, 'bin', 'chromedriver', 'chromedriver')
     driver_path = os.environ.get('CHROMEDRIVER_PATH', test_driver_path)
 
     options = webdriver.ChromeOptions()
