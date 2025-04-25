@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Thursday April 24 2025
+## Friday April 25 2025
 
 
 | Title                                                                                                          | Website                | Link                                                                                                                                           |
@@ -15,12 +15,12 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | JavaScript Framework Reality Check: What’s Actually Working                                                    | The New Stack          | https://thenewstack.io/javascript-framework-reality-check-whats-actually-working/                                                              |
 | Magecart Launches New Attack Using Malicious JavaScript to Steal Credit Card Data                              | GBHackers News         | https://gbhackers.com/magecart-launches-new-attack-using-malicious-javascript/                                                                 |
 | Comparing Angular, React, Vue, and Svelte: What you need to know                                               | InfoWorld              | https://www.infoworld.com/article/3962039/what-you-need-to-know-about-angular-react-vue-and-svelte-popular-javascript-frameworks-compared.html |
-| New Magecart Attack With Malicious JavaScript Steals Credit Card Data                                          | CybersecurityNews      | https://cybersecuritynews.com/new-magecart-attack-with-malicious-javascript/                                                                   |
-| 10 cloud programming languages developers need to know                                                         | TechTarget             | https://www.techtarget.com/searchcloudcomputing/tip/11-cloud-programming-languages-developers-need-to-know                                     |
-| XRP Ledger Foundation discloses 'serious vulnerability' in recently updated version of XRPL JavaScript library | The Block              | https://www.theblock.co/post/351578/xrp-ledger-foundation-discloses-serious-vulnerability-xrpl-javascript-library                              |
-| XRP Price Climbs Despite Major Breach in XRP Ledger’s Official JavaScript Library                              | The Crypto Basic       | https://thecryptobasic.com/2025/04/23/xrp-price-climbs-despite-major-breach-in-xrp-ledgers-official-javascript-library/                        |
 | Ripple's xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack                     | The Hacker News        | https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html                                                                   |
-| XRP Devs Alerted to Major Backdoor Threat in Key JavaScript Library                                            | Crypto News Australia  | https://cryptonews.com.au/news/xrp-devs-alerted-to-major-backdoor-threat-in-key-javascript-library-128733/                                     |
+| XRP Ledger Foundation discloses 'serious vulnerability' in recently updated version of XRPL JavaScript library | The Block              | https://www.theblock.co/post/351578/xrp-ledger-foundation-discloses-serious-vulnerability-xrpl-javascript-library                              |
+| XRP Ledger Exploit: Backdoor Found in Key JavaScript Library                                                   | 99Bitcoins             | https://99bitcoins.com/news/crypto-stealing-code-found-in-xrp-toolkit-devs-urged-to-update/                                                    |
+| XRP Price Climbs Despite Major Breach in XRP Ledger’s Official JavaScript Library                              | The Crypto Basic       | https://thecryptobasic.com/2025/04/23/xrp-price-climbs-despite-major-breach-in-xrp-ledgers-official-javascript-library/                        |
+| XRPL JavaScript SDK Breach Triggers Urgent Security Update                                                     | CoinCentral            | https://coincentral.com/xrpl-javascript-sdk-breach-triggers-urgent-security-update/                                                            |
+| AI-Driven Coding Revolution: JavaScript Development Simplified by AI Tools                                     | Blockchain News        | https://blockchain.news/flashnews/ai-driven-coding-revolution-javascript-development-simplified-by-ai-tools                                    |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
