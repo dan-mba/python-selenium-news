@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Just say no to JavaScript,InfoWorld,https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html,2024-12-06
-Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads,The Hacker News,https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html,2024-12-06
-Javascript files loaded with RATs hits thousands of victims,TechRadar,https://www.techradar.com/pro/security/javascript-files-loaded-with-rats-hits-thousands-of-victims,2024-12-06
-Deno Petitions to Cancel Oracle’s JavaScript Trademark,The New Stack,https://thenewstack.io/deno-petitions-to-cancel-oracles-javascript-trademark/,2024-12-06
-"Solana blockchain's popular web3.js npm package backdoored to steal keys, funds",The Register,https://www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/,2024-12-06
-Submit button not working in J S radio button quiz,SitePoint,https://www.sitepoint.com/community/t/submit-button-not-working-in-j-s-radio-button-quiz/464527,2024-12-06
-"Widespread RAT compromise via bogus emails, JavaScript payloads detailed",SC Media,https://www.scworld.com/brief/widespread-rat-compromise-via-bogus-emails-javascript-payloads-detailed,2024-12-06
-How to visualise Earth’s daylight hours in D3 JavaScript,Substack,https://substack.com/home/post/p-152609246?utm_campaign=post&utm_medium=web,2024-12-06
-"Break and continue Statements in JavaScript  by Chandan Kumar  Nov, 2024",Medium,https://medium.com/@developerchandan/break-and-continue-statements-in-javascript-f46233d171fa,2024-12-06
-Javascript files loaded with RATs hits thousands of victims,MSN,https://www.msn.com/en-us/news/technology/javascript-files-loaded-with-rats-hits-thousands-of-victims/ar-AA1vctYw,2024-12-06
 Just say no to JavaScript,InfoWorld,https://www.infoworld.com/article/3616471/just-say-no-to-javascript.html,2024-12-07
 Horns&Hooves Campaign Delivers RATs via Fake Emails and JavaScript Payloads,The Hacker News,https://thehackernews.com/2024/12/horns-campaign-delivers-rats-via-fake.html,2024-12-07
 Javascript files loaded with RATs hits thousands of victims,TechRadar,https://www.techradar.com/pro/security/javascript-files-loaded-with-rats-hits-thousands-of-victims,2024-12-07
@@ -1779,3 +1769,13 @@ Splunk Enterprise XSS Flaw Enables Attackers to Execute Unauthorized JavaScript,
 Malicious NPM Packages Attacking Ethereum Wallets Using Obfuscated JavaScript,CybersecurityNews,https://cybersecuritynews.com/malicious-npm-packages-attacking-ethereum-wallets/,2025-06-03
 Microsoft rolls out TypeScript Native Previews,InfoWorld,https://www.infoworld.com/article/3996134/microsoft-rolls-out-typescript-native-previews.html,2025-06-03
 Front-end Engineer Interview Preparation Course With AI 2025 Reviews - Interview Kickstart Trains AI-enabled Frontend Developers For FAANG Jobs,USA Today,https://usatoday.com/press-release/story/6615/front-end-engineer-interview-preparation-course-with-ai-2025-reviews-interview-kickstart-trains-ai-enabled-frontend-developers-for-faang-jobs/,2025-06-03
+JavaScript promises: 4 gotchas and how to avoid them,InfoWorld,https://www.infoworld.com/article/3999603/javascript-promises-4-gotchas-and-how-to-avoid-them.html,2025-06-04
+DOM Partners with Prerender.io to Solve JavaScript SEO Indexing Problems for Modern Websites,WJBF,https://www.wjbf.com/business/press-releases/ein-presswire/817589669/dom-partners-with-prerender-io-to-solve-javascript-seo-indexing-problems-for-modern-websites,2025-06-04
+How I Run JavaScript in VS Code,It's FOSS,https://itsfoss.com/vs-code-run-javascript/,2025-06-04
+New Safari XSS Vulnerability Exploits JavaScript Error Handling to Run Arbitrary Code,GBHackers News,https://gbhackers.com/new-safari-xss-vulnerability/,2025-06-04
+I Shaved 1MB Off My Next.js App – The Fix Was Hiding in Plain Sight,HackerNoon,https://hackernoon.com/i-shaved-1mb-off-my-nextjs-app-the-fix-was-hiding-in-plain-sight,2025-06-04
+10 Best JavaScript Frameworks for Building AI Systems (June 2025),Unite.AI,https://www.unite.ai/best-javascript-frameworks-for-building-ai-systems/,2025-06-04
+Malicious NPM Packages Exploit Ethereum Wallets with Obfuscated JavaScript,GBHackers News,https://gbhackers.com/malicious-npm-packages-exploit-ethereum-wallets/,2025-06-04
+Splunk Enterprise XSS Flaw Enables Attackers to Execute Unauthorized JavaScript,GBHackers News,https://gbhackers.com/splunk-enterprise-xss-flaw/,2025-06-04
+New Safari XSS Flaw Leverages JavaScript Error Handling to Execute Arbitrary Code,CybersecurityNews,https://cybersecuritynews.com/safari-xss-flaw-leverages-javascript-error-handling/,2025-06-04
+Malicious NPM Packages Attacking Ethereum Wallets Using Obfuscated JavaScript,CybersecurityNews,https://cybersecuritynews.com/malicious-npm-packages-attacking-ethereum-wallets/,2025-06-04
