@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Introducing BuyButton.js – Shopify's New JavaScript Library,Shopify,https://www.shopify.com/zh/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library,2024-12-15
-"Understanding call(), apply(), and bind() in JavaScript  by Chandan Kumar  Dec, 2024",Medium,https://medium.com/@developerchandan/understanding-call-apply-and-bind-in-javascript-acb708d8f7aa,2024-12-15
-60+ Angular Interview Questions in 2025: Prepare Like a Pro,Simplilearn.com,https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions,2024-12-15
-Python a shoo-in for Tiobe language of the year,InfoWorld,https://www.infoworld.com/article/3619998/python-a-shoo-in-for-tiobe-language-of-the-year.html,2024-12-15
-TIOBE Index for December 2024: Top 10 Most Popular Programming Languages,TechRepublic,https://www.techrepublic.com/article/tiobe-index-language-rankings/,2024-12-15
-The Inside Track: 2024 Election Briefings,Ipsos,https://www.ipsos.com/en-us/inside-track-2024-election-briefings,2024-12-15
-Using JQuery Zoom and JavaScript Zoom for Product Images on Shopify,Shopify,https://www.shopify.com/zh/partners/blog/jquery-image-zoom,2024-12-15
-My Journey to Winning Scholarships Sponsored by ClassroomIO for DevandDesign UI/UX and JavaScript…,Medium,https://medium.com/@Json.lens/my-journey-to-winning-scholarships-sponsored-by-classroomio-for-devanddesign-ui-ux-and-javascript-c13ed768691d,2024-12-15
-112 Node.js Interview Questions to Ace Your Interviews,Simplilearn.com,https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions,2024-12-15
-"Intro to Express.js: Advanced programming with templates, data persistence, and forms",InfoWorld,https://www.infoworld.com/article/3619939/intro-to-express-js-advanced-programming-with-templates-data-persistence-and-forms.html,2024-12-15
 Introducing BuyButton.js – Shopify's New JavaScript Library,Shopify,https://www.shopify.com/zh/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library,2024-12-16
 "Tricky JavaScript Interview Questions: Crack the Code Like a Pro! 🧩💻  by Hemanth Raju  Dec, 2024",Medium,https://medium.com/@rajuhemanth456/tricky-javascript-interview-questions-crack-the-code-like-a-pro-5068034d16ec,2024-12-16
 60+ Angular Interview Questions in 2025: Prepare Like a Pro,Simplilearn.com,https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions,2024-12-16
@@ -1779,3 +1769,13 @@ JavaScript Explained in 100 Seconds,MSN,https://www.msn.com/en-us/news/technolog
 Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public,GBHackers News,https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/,2025-06-12
 Google Vulnerability Let Attackers Access Any Google User's Phone Number,CybersecurityNews,https://cybersecuritynews.com/google-vulnerability-leaks-user-phone-number/,2025-06-12
 The ways government is stressing out your child’s public school,The Washington Post,https://www.washingtonpost.com/education/interactive/2025/public-schools-political-pressure/,2025-06-12
+Developers with 6 to 10 years of experience drive AI adoption,SlashData,https://www.slashdata.co/post/javascript-has-28-million-users-what-this-reveals-about-the-future-of-global-tech-teams,2025-06-13
+JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique,Unit 42,https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/,2025-06-13
+We shipped FinalizationRegistry in Workers: why you should never use it,The Cloudflare Blog,https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/,2025-06-13
+JavaScript Kung Fu: Elegant Techniques To Master the Language,The New Stack,https://thenewstack.io/javascript-kung-fu-elegant-techniques-to-master-the-language/,2025-06-13
+Node.js for Beginners: How to Get Started,Simplilearn.com,https://www.simplilearn.com/nodejs-for-beginners-article,2025-06-13
+JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript,GBHackers News,https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/,2025-06-13
+Week 2- Code Combat Quests with Python & JavaScript,Florida Today,https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/37500565a-week-2-code-combat-quests-with-python-javascript,2025-06-13
+JavaScript Explained in 100 Seconds,MSN,https://www.msn.com/en-us/news/technology/javascript-in-100-seconds/vi-AA1BxYUK?ocid=hpmsn,2025-06-13
+Threat Actors Compromise 270+ Legitimate Websites With Malicious JavaScript Using JSFireTruck Obfuscation,CybersecurityNews,https://cybersecuritynews.com/threat-actors-compromise-270-legitimate-websites-with-malicious-javascript/,2025-06-13
+270K websites injected with ‘JSF-ck’ obfuscated code,SC Media,https://www.scworld.com/news/270k-websites-injected-with-jsf-ck-obfuscated-code,2025-06-13
