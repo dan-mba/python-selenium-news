@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday June 17 2025
+## Wednesday June 18 2025
 
 
-| Title                                                                                       | Website             | Link                                                                                                |
-|:--------------------------------------------------------------------------------------------|:--------------------|:----------------------------------------------------------------------------------------------------|
-| JavaScript                                                                                  | Britannica          | https://www.britannica.com/technology/JavaScript                                                    |
-| Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month             | The Hacker News     | https://thehackernews.com/2025/06/over-269000-websites-infected-with.html                           |
-| JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique        | Unit 42             | https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/          |
-| Elixir: An Alternative to JavaScript-Based Web Development                                  | The New Stack       | https://thenewstack.io/elixir-an-alternative-to-javascript-based-web-development/                   |
-| We shipped FinalizationRegistry in Workers: why you should never use it                     | The Cloudflare Blog | https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/ |
-| 6 JavaScript Snippets to Polish Your Site                                                   | How-To Geek         | https://www.howtogeek.com/javascript-snippets-to-polish-your-site/                                  |
-| JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript | GBHackers News      | https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/                          |
-| 270K websites injected with ‘JSF-ck’ obfuscated code                                        | SC Media            | https://www.scworld.com/news/270k-websites-injected-with-jsf-ck-obfuscated-code                     |
-| From Hydration to Resumability: Rethinking React Rendering                                  | devmio              | https://devm.io/javascript/react-interactivity-hydration-resumability                               |
-| Dems demand audit of CVE program as Federal funding remains uncertain                       | The Register        | https://www.theregister.com/2025/06/15/cybersecurity_news_in_brief/                                 |
+| Title                                                                                                     | Website             | Link                                                                                                                                             |
+|:----------------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month                           | The Hacker News     | https://thehackernews.com/2025/06/over-269000-websites-infected-with.html                                                                        |
+| JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique                      | Unit 42             | https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/                                                       |
+| Elixir: An Alternative to JavaScript-Based Web Development                                                | The New Stack       | https://thenewstack.io/elixir-an-alternative-to-javascript-based-web-development/                                                                |
+| Global Interest Grows in EdChart’s JavaScript Certification Backed by Credly                              | WATE 6 On Your Side | https://www.wate.com/business/press-releases/ein-presswire/822897909/global-interest-grows-in-edcharts-javascript-certification-backed-by-credly |
+| We shipped FinalizationRegistry in Workers: why you should never use it                                   | The Cloudflare Blog | https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/                                              |
+| Demoscene effects recreated in Javascript                                                                 | Boing Boing         | https://boingboing.net/2025/06/17/demoscene-effects-recreated-in-javascript.html                                                                 |
+| 6 JavaScript Snippets to Polish Your Site                                                                 | How-To Geek         | https://www.howtogeek.com/javascript-snippets-to-polish-your-site/                                                                               |
+| JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript               | GBHackers News      | https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/                                                                       |
+| Threat Actors Compromise 270+ Legitimate Websites With Malicious JavaScript Using JSFireTruck Obfuscation | CyberSecurityNews   | https://cybersecuritynews.com/threat-actors-compromise-270-legitimate-websites-with-malicious-javascript/                                        |
+| 270K websites injected with ‘JSF-ck’ obfuscated code                                                      | SC Media            | https://www.scworld.com/news/270k-websites-injected-with-jsf-ck-obfuscated-code                                                                  |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
