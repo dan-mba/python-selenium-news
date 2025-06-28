@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-The Year in JavaScript: Top JS News Stories of 2024,The New Stack,https://thenewstack.io/the-year-in-javascript-top-js-news-stories-of-2024/,2024-12-30
-"AI Could Generate 10,000 Malware Variants, Evading Detection in 88% of Case",The Hacker News,https://thehackernews.com/2024/12/ai-could-generate-10000-malware.html,2024-12-30
-✈️ 10 Tips for Optimizing Code for JavaScript Beginners 🏃 :lef,Medium,https://medium.com/@theexpertdeveloper/%EF%B8%8F-10-tips-for-optimizing-code-for-javascript-beginners-lef-a603bdfcda87,2024-12-30
-60+ Angular Interview Questions in 2025: Prepare Like a Pro,Simplilearn.com,https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions,2024-12-30
-"App Launch: Master HTML, CSS, and JavaScript Basics to Advanced Game Dev Tutorials with AI Tools",openPR.com,https://www.openpr.com/news/3798684/app-launch-master-html-css-and-javascript-basics-to-advanced,2024-12-30
-Council Post: 15 Reasons To Choose Node.js For Product Development In 2025,Forbes,https://www.forbes.com/councils/forbestechcouncil/2024/12/27/15-reasons-to-choose-nodejs-for-product-development-in-2025/,2024-12-30
-European Space Agency's official store hacked to steal payment cards,BleepingComputer,https://www.bleepingcomputer.com/news/security/european-space-agencys-official-store-hacked-to-steal-payment-cards/,2024-12-30
-"Alpha version of FixBrowser, an ultra-lightweight browser made from scratch, released, significantly reduces resource consumption by not supporting JavaScript",GIGAZINE,https://gigazine.net/gsc_news/en/20241226-fixbrowser/,2024-12-30
-Sobbin’ Around the Christmas Tree: The 100 Greatest Sad Holiday Songs,Variety,https://variety.com/lists/greatest-sad-christmas-songs-all-time-holiday-music/,2024-12-30
-112 Node.js Interview Questions to Ace Your Interviews,Simplilearn.com,https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions,2024-12-30
 "Deno 2 Released, Focuses on Interoperability with Legacy JavaScript Infrastructure and Use at Scale",infoq.com,https://www.infoq.com/news/2024/12/deno-2-released/,2024-12-31
 The Year in JavaScript: Top JS News Stories of 2024,The New Stack,https://thenewstack.io/the-year-in-javascript-top-js-news-stories-of-2024/,2024-12-31
 "Top programming languages to learn in 2025: Python, JavaScript, Rust, and more",GeekSided,https://geeksided.com/top-programming-languages-to-learn-in-2025-python-javascript-rust-and-more,2024-12-31
@@ -1788,3 +1778,13 @@ Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution,GB
 Zimbra Classic Web Client Vulnerability Let Attackers Execute Arbitrary JavaScript,CyberSecurityNews,https://cybersecuritynews.com/zimbra-classic-web-client-vulnerability/,2025-06-27
 Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers,The Hacker News,https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html,2025-06-27
 "In Australia, Apps Built with ArcGIS SDK for JavaScript Unlock Urban Insight  Summer 2025  ArcNews",Esri,https://www.esri.com/about/newsroom/arcnews/in-australia-apps-built-with-arcgis-sdk-for-javascript-unlock-urban-insight,2025-06-27
+"TC39 Advances Nine JavaScript Proposals, Including Array.fromAsync, Error.isError, and Using",infoq.com,https://www.infoq.com/news/2025/06/tc39-stage-4-2025/,2025-06-28
+What's new in ArcGIS Maps SDK for JavaScript (4.33),Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/whats-new-in-arcgis-maps-sdk-for-javascript-4-33,2025-06-28
+The Future Of JavaScript - Stage 3 Propsals,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18130-the-future-of-javascript.html,2025-06-28
+Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments,HackerNoon,https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments,2025-06-28
+Week 5- Code Combat Quests with Python & JavaScript,Florida Today,https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/37501025a-week-5-code-combat-quests-with-python-javascript,2025-06-28
+Litecoin Computer Launches JavaScript Smart Contracts,Altcoin Buzz,https://www.altcoinbuzz.io/cryptocurrency-news/litecoin-computer-launches-javascript-smart-contracts/,2025-06-28
+Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution,GBHackers News,https://gbhackers.com/zimbra-classic-web-client-vulnerability/,2025-06-28
+Zimbra Classic Web Client Vulnerability Let Attackers Execute Arbitrary JavaScript,CyberSecurityNews,https://cybersecuritynews.com/zimbra-classic-web-client-vulnerability/,2025-06-28
+Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers,The Hacker News,https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html,2025-06-28
+"In Australia, Apps Built with ArcGIS SDK for JavaScript Unlock Urban Insight  Summer 2025  ArcNews",Esri,https://www.esri.com/about/newsroom/arcnews/in-australia-apps-built-with-arcgis-sdk-for-javascript-unlock-urban-insight,2025-06-28
