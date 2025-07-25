@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-How to Check if All Array Values Are Equal in JavaScript,Built In,https://builtin.com/articles/check-if-all-array-values-are-equal,2025-01-26
-State of JavaScript: Highlights of the JavaScript developer survey,InfoWorld,https://www.infoworld.com/article/3804318/state-of-javascript-highlights-from-the-latest-javascript-developer-survey.html,2025-01-26
-Google requires use of JavaScript for Google Search,Techzine Europe,https://www.techzine.eu/news/analytics/127935/google-requires-use-of-javascript-for-google-search/,2025-01-26
-Confirmed: Google Is Requiring JavaScript To Block SEO Tools,Search Engine Journal,https://www.searchenginejournal.com/confirmed-google-is-requiring-javascript-to-block-seo-tools/537705/,2025-01-26
-"JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025",Medium,https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c,2025-01-26
-New JavaScript Attack Hijacking Government And University Websites,CybersecurityNews,https://cybersecuritynews.com/javascript-attacks-targeting/,2025-01-26
-"JavaScript now mandatory for Google Search, Google confirms",TechSpot,https://www.techspot.com/news/106421-javascript-now-mandatory-google-search-google-confirms.html,2025-01-26
-My if statement doesn't work,SitePoint,https://www.sitepoint.com/community/t/my-if-statement-doesnt-work/469861,2025-01-26
-Google will mandate JavaScript for users to access search engine,The Tech Portal,https://thetechportal.com/2025/01/21/google-will-mandate-javascript-for-users-to-access-search-engine/,2025-01-26
-Google begins requiring JavaScript for Google Search,MSN,https://www.msn.com/en-us/news/technology/google-begins-requiring-javascript-for-google-search/ar-AA1xoaRL?ocid=MicrosoftNewsApp-Win10,2025-01-26
 How to Check if All Array Values Are Equal in JavaScript,Built In,https://builtin.com/articles/check-if-all-array-values-are-equal,2025-01-27
 State of JavaScript: Highlights of the JavaScript developer survey,InfoWorld,https://www.infoworld.com/article/3804318/state-of-javascript-highlights-from-the-latest-javascript-developer-survey.html,2025-01-27
 "JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025",Medium,https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c,2025-01-27
@@ -1788,3 +1778,13 @@ Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks,GBHacke
 Browser Detection: Ensure Cookies and JavaScript are Enabled,AInvest,https://www.ainvest.com/news/browser-detection-ensure-cookies-javascript-enabled-2507-44/,2025-07-24
 Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,PR Newswire,https://www.prnewswire.com/news-releases/dynamsoft-barcode-reader-javascript-sdk-v11-0-improves-accuracy-and-performance-with-advanced-deep-learning-and-algorithm-enhancements-302511445.html,2025-07-24
 "Nuxt 4.0 improves project organization, data fetching, TypeScript support",InfoWorld,https://www.infoworld.com/article/4025936/nuxt-4-0-improves-project-organization-data-fetching-typescript-support.html,2025-07-24
+"3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",The Hacker News,https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html,2025-07-25
+Testing Your Knowledge Of JavaScript’s Date Class,Hackaday,https://hackaday.com/2025/07/21/testing-your-knowledge-of-javascripts-date-class/,2025-07-25
+JavaScript MMORPG [Solo dev]- Maiu online #6 - Upcomming public alpha tests v1,GameDev.net,https://www.gamedev.net/blogs/entry/2296011-javascript-mmorpg-solo-dev-maiu-online-6-upcomming-public-alpha-tests-v1/,2025-07-25
+Widely used JavaScript libraries hit by supply chain intrusion,SC Media,https://www.scworld.com/brief/widely-used-javascript-libraries-hit-by-supply-chain-intrusion,2025-07-25
+Critical Vulnerability in JavaScript Library Exposes Millions of Apps to Code Execution Attacks,CyberSecurityNews,https://cybersecuritynews.com/javascript-library-vulnerability/,2025-07-25
+SonicWall SMA 100 Vulnerabilities Allow Arbitrary JavaScript Code Execution,Cyber Press,https://cyberpress.org/sonicwall-sma-100-vulnerabilities-allow-arbitrary-javascript-code-execution/,2025-07-25
+Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks,GBHackers News,https://gbhackers.com/critical-javascript-library-vulnerability/,2025-07-25
+Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,Yahoo Finance,https://finance.yahoo.com/news/dynamsoft-barcode-reader-javascript-sdk-140000664.html,2025-07-25
+Browser Detection: Ensure Cookies and JavaScript are Enabled,AInvest,https://www.ainvest.com/news/browser-detection-ensure-cookies-javascript-enabled-2507-44/,2025-07-25
+"Nuxt 4.0 improves project organization, data fetching, TypeScript support",InfoWorld,https://www.infoworld.com/article/4025936/nuxt-4-0-improves-project-organization-data-fetching-typescript-support.html,2025-07-25
