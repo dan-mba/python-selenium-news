@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"JavaScript  History, Applications, & Facts",Britannica,https://www.britannica.com/technology/JavaScript,2025-01-28
-How to Check if All Array Values Are Equal in JavaScript,Built In,https://builtin.com/articles/check-if-all-array-values-are-equal,2025-01-28
-State of JavaScript: Highlights of the JavaScript developer survey,InfoWorld,https://www.infoworld.com/article/3804318/state-of-javascript-highlights-from-the-latest-javascript-developer-survey.html,2025-01-28
-"JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025",Medium,https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c,2025-01-28
-"JavaScript now mandatory for Google Search, Google confirms",TechSpot,https://www.techspot.com/news/106421-javascript-now-mandatory-google-search-google-confirms.html,2025-01-28
-How to Use Node Js for Backend Web Development in 2024,Simplilearn.com,https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-backend,2025-01-28
-Google Sets JavaScript Requirement for Search,MSN,http://www.msn.com/en-us/technology/software/google-sets-javascript-requirement-for-search/ar-AA1xz0Q9?ocid=BingNewsVerp&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1,2025-01-28
-Google now requires active JavaScript on PC to search,hi-Tech.ua,https://hi-tech.ua/en/google-now-requires-active-javascript-on-pc-to-search/,2025-01-28
-Thanks to Javascript: Subaru cars could be taken over remotely,heise online,https://www.heise.de/en/news/Thanks-to-Javascript-Subaru-cars-could-be-taken-over-remotely-10254698.html,2025-01-28
-"JavaScript Functions and Scope Explained: Master Reusable Code and Closures  by Rahul Kaklotar  Jan, 2025",Medium,https://medium.com/@kaklotarrahul79/javascript-functions-and-scope-explained-master-reusable-code-and-closures-81589c7e378b,2025-01-28
 How to Check if All Array Values Are Equal in JavaScript,BuiltIn,https://builtin.com/articles/check-if-all-array-values-are-equal,2025-01-29
 Node Javascript: A Complete Guide to Node Js,Simplilearn.com,https://www.simplilearn.com/tutorials/nodejs-tutorial/complete-guide-to-node-js,2025-01-29
 "JavaScript Control Flow (Javascript Series): Practical Uses of If/Else, Switch, and Loops  by Rahul Kaklotar  Jan, 2025",Medium,https://medium.com/@kaklotarrahul79/javascript-control-flow-javascript-series-practical-uses-of-if-else-switch-and-loops-b0f8e4826e8c,2025-01-29
@@ -1788,3 +1778,13 @@ Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks,GBHacke
 Browser Detection: Ensure Cookies and JavaScript are Enabled,AInvest,https://www.ainvest.com/news/browser-detection-ensure-cookies-javascript-enabled-2507-44/,2025-07-26
 Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,PR Newswire,https://www.prnewswire.com/news-releases/dynamsoft-barcode-reader-javascript-sdk-v11-0-improves-accuracy-and-performance-with-advanced-deep-learning-and-algorithm-enhancements-302511445.html,2025-07-26
 XMLUI builds React-based UIs with simple markup,InfoWorld,https://www.infoworld.com/article/4026889/xmlui-builds-react-based-uis-with-simple-markup.html,2025-07-26
+"3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",The Hacker News,https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html,2025-07-27
+JavaScript MMORPG [Solo dev]- Maiu online #6 - Upcomming public alpha tests v1,GameDev.net,https://www.gamedev.net/blogs/entry/2296011-javascript-mmorpg-solo-dev-maiu-online-6-upcomming-public-alpha-tests-v1/,2025-07-27
+Testing Your Knowledge Of JavaScript’s Date Class,Hackaday,https://hackaday.com/2025/07/21/testing-your-knowledge-of-javascripts-date-class/,2025-07-27
+SonicWall SMA 100 Vulnerabilities Allow Arbitrary JavaScript Code Execution,Cyber Press,https://cyberpress.org/sonicwall-sma-100-vulnerabilities-allow-arbitrary-javascript-code-execution/,2025-07-27
+Critical Vulnerability in JavaScript Library Exposes Millions of Apps to Code Execution Attacks,CyberSecurityNews,https://cybersecuritynews.com/javascript-library-vulnerability/,2025-07-27
+Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks,GBHackers News,https://gbhackers.com/critical-javascript-library-vulnerability/,2025-07-27
+Browser Detection: Ensure Cookies and JavaScript are Enabled,AInvest,https://www.ainvest.com/news/browser-detection-ensure-cookies-javascript-enabled-2507-44/,2025-07-27
+Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,PR Newswire,https://www.prnewswire.com/news-releases/dynamsoft-barcode-reader-javascript-sdk-v11-0-improves-accuracy-and-performance-with-advanced-deep-learning-and-algorithm-enhancements-302511445.html,2025-07-27
+XMLUI builds React-based UIs with simple markup,InfoWorld,https://www.infoworld.com/article/4026889/xmlui-builds-react-based-uis-with-simple-markup.html,2025-07-27
+Supply chain attack compromises npm packages to spread backdoor malware,CSO Online,https://www.csoonline.com/article/4028412/supply-chain-attack-compromises-npm-packages-to-spread-backdoor-malware.html,2025-07-27
