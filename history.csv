@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-TypeScript 5.8 Released with Improved Inference and Better JavaScript Ecosystem Interoperability,infoq.com,https://www.infoq.com/news/2025/03/typescript-58-released/,2025-03-14
-10 things developers love about JavaScript – and 10 things they don’t,InfoWorld,https://www.infoworld.com/article/3836901/10-things-developers-love-about-javascript-and-10-things-they-dont.html,2025-03-14
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-03-14
-Malicious backdoor-deploying JavaScript facilitates widespread WordPress site compromise,SC Media,https://www.scworld.com/brief/malicious-backdoor-deploying-javascript-facilitates-widespread-wordpress-site-compromise,2025-03-14
-Google: JavaScript Now Required To Search 01/20/2025,MediaPost,https://www.mediapost.com/publications/article/402666/google-javascript-now-required-to-search.html,2025-03-14
-Lazarus Infects New Batch of JavaScript Packages With Crypto Stealing Malware: Researchers,Decrypt,https://decrypt.co/309669/lazarus-javascript-crypto-stealing-malware,2025-03-14
-Laravel Framework Flaw Allows Attackers to Execute Malicious JavaScript,GBHackers News,https://gbhackers.com/laravel-framework-flaw/,2025-03-14
-TIOBE Index for March 2025: Top 10 Most Popular Programming Languages and Legacy Resurgence,TechRepublic,https://www.techrepublic.com/article/tiobe-index-language-rankings/,2025-03-14
-Laravel Framework Vulnerability Let Attackers Execute Malicious Java Script,CybersecurityNews,https://cybersecuritynews.com/laravel-framework-vulnerability/,2025-03-14
-60+ Angular Interview Questions in 2025: Prepare Like a Pro,Simplilearn.com,https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions,2025-03-14
 10 things developers love about JavaScript – and 10 things they don’t,InfoWorld,https://www.infoworld.com/article/3836901/10-things-developers-love-about-javascript-and-10-things-they-dont.html,2025-03-15
 JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-03-15
 Lazarus Infects New Batch of JavaScript Packages With Crypto Stealing Malware: Researchers,Decrypt,https://decrypt.co/309669/lazarus-javascript-crypto-stealing-malware,2025-03-15
@@ -1788,3 +1778,13 @@ Hackers Exploit JavaScript Accounts in Massive Crypto Attack Reportedly Affectin
 “Avoid On-Chain Transactions”: Ledger CTO Issues Urgent Warning After JavaScript Attack,Cryptonews,https://cryptonews.com/news/avoid-on-chain-transactions-ledger-cto-issues-urgent-warning-after-javascript-attack/,2025-09-09
 Hackers Target JavaScript Ecosystem to Hijack Crypto Wallets,ForkLog,https://forklog.com/en/hackers-target-javascript-ecosystem-to-hijack-crypto-wallets/,2025-09-09
 NPM Supply Chain Attack: JavaScript Crypto Malware and Hardware Wallet Safety Explained,CCN.com,https://www.ccn.com/education/crypto/npm-supply-chain-attack-largest-javascript-breach-drain-crypto-wallet/,2025-09-09
+What makes JavaScript great,InfoWorld,https://www.infoworld.com/article/4051691/what-makes-javascript-great.html,2025-09-10
+NPM Attack: Javascript Library Compromise Goes After Bitcoin Wallets,Bitcoin Magazine,https://bitcoinmagazine.com/news/npm-attack-javascript-library-compromise-goes-after-bitcoin-wallets,2025-09-10
+Crypto users urged to take extreme care as NPM attack hits core JavaScript libraries,Cointelegraph,https://cointelegraph.com/news/npm-attack-crypto-stealing-malware-into-core-javascript-libraries,2025-09-10
+"18 Popular Code Packages Hacked, Rigged to Steal Crypto",Krebs on Security,https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/,2025-09-10
+Hackers Exploit JavaScript Accounts in Massive Crypto Attack Reportedly Affecting 1B+ Downloads,Finance Magnates,https://www.financemagnates.com/cryptocurrency/hackers-exploit-javascript-developer-accounts-in-massive-crypto-malware-attack/,2025-09-10
+"JavaScript packages with billions of downloads were injected with malicious code in world's largest supply chain hack, geared to steal crypto — a phishing email is all it took to undermine npm packages",Tom's Hardware,https://www.tomshardware.com/tech-industry/cyber-security/javascript-packages-with-billions-of-downloads-were-injected-with-malicious-code-in-worlds-largest-supply-chain-hack-geared-to-steal-crypto-a-phishing-email-is-all-it-took-to-undermine-npm-packages,2025-09-10
+Largest supply chain attack in history targets crypto users through compromised JavaScript packages,CryptoSlate,https://cryptoslate.com/largest-supply-chain-attack-in-history-targets-crypto-users-through-compromised-javascript-packages/,2025-09-10
+“Avoid On-Chain Transactions”: Ledger CTO Issues Urgent Warning After JavaScript Attack,Cryptonews,https://cryptonews.com/news/avoid-on-chain-transactions-ledger-cto-issues-urgent-warning-after-javascript-attack/,2025-09-10
+Hackers Target JavaScript Ecosystem to Hijack Crypto Wallets,ForkLog,https://forklog.com/en/hackers-target-javascript-ecosystem-to-hijack-crypto-wallets/,2025-09-10
+NPM Supply Chain Attack: JavaScript Crypto Malware and Hardware Wallet Safety Explained,CCN.com,https://www.ccn.com/education/crypto/npm-supply-chain-attack-largest-javascript-breach-drain-crypto-wallet/,2025-09-10
