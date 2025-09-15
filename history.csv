@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Amazon DynamoDB Accelerator (DAX) SDK for JavaScript version 3 is now available,Amazon Web Services (AWS),https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available,2025-03-19
-Lazarus Infects New Batch of JavaScript Packages With Crypto Stealing Malware: Researchers,Decrypt,https://decrypt.co/309669/lazarus-javascript-crypto-stealing-malware,2025-03-19
-JavaScript Jems - The Revealing Constructor Pattern,i-programmer.info,https://www.i-programmer.info/programming/113-javascript/17900-javascript-jems-the-revealing-constructor-pattern.html,2025-03-19
-Astro with HTMX: Server-side rendering made easy,InfoWorld,https://www.infoworld.com/article/3847131/astro-with-htmx-server-side-rendering-made-easy.html,2025-03-19
-V236-15.0 MW™,Vestas,https://www.vestas.com/en/energy-solutions/offshore-wind-turbines/V236-15MW,2025-03-19
-"Doonesbury Comic Strips by Garry Trudeau - March 16, 2025",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2025/3/16,2025-03-19
-Microsoft is making TypeScript 10x faster with native implementation in Go,TechSpot,https://www.techspot.com/news/107139-microsoft-making-typescript-10x-faster-native-implementation-go.html,2025-03-19
-49ers reportedly fought until the end to try to reacquire Dre Greenlaw and prevent him from playing for the...,Bolavip US English,https://bolavip.com/en/amp/nfl/49ers-reportedly-fought-until-the-end-to-try-to-reacquire-dre-greenlaw-and-prevent-him-from-playing-for-the-broncos,2025-03-19
-Welcome to BBC Writers,BBC,https://www.bbc.co.uk/writers,2025-03-19
-Astro 5.5 works on the interaction with diagram tools,heise online,https://www.heise.de/en/news/Astro-5-5-works-on-the-interaction-with-diagram-tools-10319944.html,2025-03-19
 Amazon DynamoDB Accelerator (DAX) SDK for JavaScript version 3 is now available,Amazon Web Services,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available,2025-03-20
 How we train AI to uncover malicious JavaScript intent and make web surfing safer,The Cloudflare Blog,https://blog.cloudflare.com/how-we-train-ai-to-uncover-malicious-javascript-intent-and-make-web-surfing-safer/,2025-03-20
 JavaScript Jems - The Revealing Constructor Pattern,i-programmer.info,https://www.i-programmer.info/programming/113-javascript/17900-javascript-jems-the-revealing-constructor-pattern.html,2025-03-20
@@ -1788,3 +1778,13 @@ Hackers Target JavaScript Ecosystem to Hijack Crypto Wallets,ForkLog,https://for
 NPM Supply Chain Attack: JavaScript Crypto Malware and Hardware Wallet Safety Explained,CCN.com,https://www.ccn.com/education/crypto/npm-supply-chain-attack-largest-javascript-breach-drain-crypto-wallet/,2025-09-14
 “Avoid On-Chain Transactions”: Ledger CTO Issues Urgent Warning After JavaScript Attack,Yahoo Finance,https://finance.yahoo.com/news/avoid-chain-transactions-ledger-cto-200920430.html,2025-09-14
 JavaScript Packages Hijacked in Attack; Ledger Urges Caution with Crypto,CoinCentral,https://coincentral.com/javascript-packages-hijacked-in-attack-ledger-urges-caution-with-crypto/,2025-09-14
+NPM Attack: Javascript Library Compromise Goes After Bitcoin Wallets,Bitcoin Magazine,https://bitcoinmagazine.com/news/npm-attack-javascript-library-compromise-goes-after-bitcoin-wallets,2025-09-15
+"18 Popular Code Packages Hacked, Rigged to Steal Crypto",Krebs on Security,https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/,2025-09-15
+Crypto users urged to take extreme care as NPM attack hits core JavaScript libraries,Cointelegraph,https://cointelegraph.com/news/npm-attack-crypto-stealing-malware-into-core-javascript-libraries,2025-09-15
+Hackers Exploit JavaScript Accounts in Massive Crypto Attack Reportedly Affecting 1B+ Downloads,Finance Magnates,https://www.financemagnates.com/cryptocurrency/hackers-exploit-javascript-developer-accounts-in-massive-crypto-malware-attack/,2025-09-15
+"JavaScript packages with billions of downloads were injected with malicious code in world's largest supply chain hack, geared to steal crypto — a phishing email is all it took to undermine npm packages",Tom's Hardware,https://www.tomshardware.com/tech-industry/cyber-security/javascript-packages-with-billions-of-downloads-were-injected-with-malicious-code-in-worlds-largest-supply-chain-hack-geared-to-steal-crypto-a-phishing-email-is-all-it-took-to-undermine-npm-packages,2025-09-15
+Largest supply chain attack in history targets crypto users through compromised JavaScript packages,CryptoSlate,https://cryptoslate.com/largest-supply-chain-attack-in-history-targets-crypto-users-through-compromised-javascript-packages/,2025-09-15
+Hackers Target JavaScript Ecosystem to Hijack Crypto Wallets,ForkLog,https://forklog.com/en/hackers-target-javascript-ecosystem-to-hijack-crypto-wallets/,2025-09-15
+“Avoid On-Chain Transactions”: Ledger CTO Issues Urgent Warning After JavaScript Attack,Cryptonews,https://cryptonews.com/news/avoid-on-chain-transactions-ledger-cto-issues-urgent-warning-after-javascript-attack/,2025-09-15
+18 popular JavaScript code packages hacked to spread malware,Cyber Daily,https://www.cyberdaily.au/security/12611-18-popular-javascript-code-packages-hacked-to-spread-malware,2025-09-15
+Crypto-Stealing Malware Infiltrates Core JavaScript Libraries Used by Millions,CryptoPotato,https://cryptopotato.com/crypto-stealing-malware-infiltrates-core-javascript-libraries-used-by-millions/,2025-09-15
