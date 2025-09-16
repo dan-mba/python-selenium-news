@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Amazon DynamoDB Accelerator (DAX) SDK for JavaScript version 3 is now available,Amazon Web Services,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available,2025-03-20
-How we train AI to uncover malicious JavaScript intent and make web surfing safer,The Cloudflare Blog,https://blog.cloudflare.com/how-we-train-ai-to-uncover-malicious-javascript-intent-and-make-web-surfing-safer/,2025-03-20
-JavaScript Jems - The Revealing Constructor Pattern,i-programmer.info,https://www.i-programmer.info/programming/113-javascript/17900-javascript-jems-the-revealing-constructor-pattern.html,2025-03-20
-City of Phoenix Announces David Mathews as Deputy City Manager,City of Phoenix (.gov),https://www.phoenix.gov/newsroom/city-manager/3384,2025-03-20
-Astro with HTMX: Server-side rendering made easy,InfoWorld,https://www.infoworld.com/article/3847131/astro-with-htmx-server-side-rendering-made-easy.html,2025-03-20
-V236-15.0 MW™,Vestas,https://www.vestas.com/en/energy-solutions/offshore-wind-turbines/V236-15MW,2025-03-20
-"Doonesbury Comic Strips by Garry Trudeau - March 16, 2025",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2025/3/16,2025-03-20
-Top 9 Programming Languages for Hacking in 2025,Simplilearn.com,https://www.simplilearn.com/tutorials/cyber-security-tutorial/programming-languages-for-hacking,2025-03-20
-What Is Cryptojacking? How It Works & Tips to Prevent It,wiz.io,https://www.wiz.io/academy/what-is-cryptojacking,2025-03-20
-Microsoft is making TypeScript 10x faster with native implementation in Go,TechSpot,https://www.techspot.com/news/107139-microsoft-making-typescript-10x-faster-native-implementation-go.html,2025-03-20
 How we train AI to uncover malicious JavaScript intent and make web surfing safer,The Cloudflare Blog,https://blog.cloudflare.com/how-we-train-ai-to-uncover-malicious-javascript-intent-and-make-web-surfing-safer/,2025-03-21
 Amazon DynamoDB Accelerator (DAX) SDK for JavaScript version 3 is now available,Amazon Web Services,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available,2025-03-21
 JavaScript Jems - The Revealing Constructor Pattern,i-programmer.info,https://www.i-programmer.info/programming/113-javascript/17900-javascript-jems-the-revealing-constructor-pattern.html,2025-03-21
@@ -1788,3 +1778,13 @@ Hackers Target JavaScript Ecosystem to Hijack Crypto Wallets,ForkLog,https://for
 “Avoid On-Chain Transactions”: Ledger CTO Issues Urgent Warning After JavaScript Attack,Cryptonews,https://cryptonews.com/news/avoid-on-chain-transactions-ledger-cto-issues-urgent-warning-after-javascript-attack/,2025-09-15
 18 popular JavaScript code packages hacked to spread malware,Cyber Daily,https://www.cyberdaily.au/security/12611-18-popular-javascript-code-packages-hacked-to-spread-malware,2025-09-15
 Crypto-Stealing Malware Infiltrates Core JavaScript Libraries Used by Millions,CryptoPotato,https://cryptopotato.com/crypto-stealing-malware-infiltrates-core-javascript-libraries-used-by-millions/,2025-09-15
+"JavaScript packages with billions of downloads were injected with malicious code in world's largest supply chain hack, geared to steal crypto — a phishing email is all it took to undermine npm packages",Tom's Hardware,https://www.tomshardware.com/tech-industry/cyber-security/javascript-packages-with-billions-of-downloads-were-injected-with-malicious-code-in-worlds-largest-supply-chain-hack-geared-to-steal-crypto-a-phishing-email-is-all-it-took-to-undermine-npm-packages,2025-09-16
+JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-09-16
+The Impact of Google’s JavaScript SERPs and AI Search on eCommerce Businesses,Security Boulevard,https://securityboulevard.com/2025/09/the-impact-of-googles-javascript-serps-and-ai-search-on-ecommerce-businesses/,2025-09-16
+Crypto-Stealing Malware Infiltrates Core JavaScript Libraries Used by Millions,CryptoPotato,https://cryptopotato.com/crypto-stealing-malware-infiltrates-core-javascript-libraries-used-by-millions/,2025-09-16
+News - Hackers sneak Crypto-Stealing code into popular JavaScript packages,teiss,https://www.teiss.co.uk/news/hackers-sneak-crypto-stealing-code-into-popular-javascript-packages-16393,2025-09-16
+js1024 Revisited in 2025,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18312-js1024-revisited-in-2025.html,2025-09-16
+Testing for prototype pollution with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/prototype-pollution,2025-09-16
+Testing for DOM XSS with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/xss/dom-xss,2025-09-16
+Breach of npm threatens billions of weekly downloads in JavaScript ecosystem,TechSpot,https://www.techspot.com/news/109399-massive-supply-chain-attack-compromised-open-source-js.html,2025-09-16
+Crypto Ecosystem Avoids Disaster After JavaScript NPN Attack,The Crypto Times,https://www.cryptotimes.io/2025/09/09/crypto-ecosystem-avoids-disaster-after-javascript-npn-attack/,2025-09-16
