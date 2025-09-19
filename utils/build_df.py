@@ -18,12 +18,12 @@ def build_df(containers):
             title = base.find_element(
                 By.XPATH, './div/div[2]/div[2]').text.replace('|', '').replace('"', '\'')
             site = base.find_element(
-                By.XPATH, './div/div[2]/div[1]/div[2]/span').text.replace('|', '')
+                By.XPATH, './div/div[2]/div[1]/div/span').text.replace('|', '')
         except:
             title = base.find_element(
                 By.XPATH, './div/div/div[2]').text.replace('|', '').replace('"', '\'')
             site = base.find_element(
-                By.XPATH, './div/div/div[1]/div[2]/span').text.replace('|', '')
+                By.XPATH, './div/div/div[1]/div/span').text.replace('|', '')
         titles.append(title)
         sites.append(site)
         links.append(link)
