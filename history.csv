@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms",The Hacker News,https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html,2025-03-28
-"Cybersecurity News: JavaScript injection campaign, solar power vulnerabilities, SIM swap lawsuit",CISO Series,https://cisoseries.com/cybersecurity-news-javascript-injection-campaign-solar-power-vulnerabilities-sim-swap-lawsuit/,2025-03-28
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-03-28
-JavaScript’s Missing Link: Wasp Offers Full Stack Solution,The New Stack,https://thenewstack.io/javascripts-missing-link-wasp-offers-full-stack-solution/,2025-03-28
-How to Implement the State Design Pattern in JavaScript and Integrate It With React Hooks,HackerNoon,https://hackernoon.com/how-to-implement-the-state-design-pattern-in-javascript-and-integrate-it-with-react-hooks,2025-03-28
-Critical security flaw in Next.js could spell big trouble for JavaScript users,TechRadar,https://www.techradar.com/pro/security/critical-security-flaw-in-next-js-could-spell-big-trouble-for-javascript-users,2025-03-28
-Google: JavaScript Now Required To Search 01/20/2025,MediaPost,https://www.mediapost.com/publications/article/402666/,2025-03-28
-"If You Can Learn JavaScript, You Can Learn German",ExtremeTech,https://www.extremetech.com/deals/if-you-can-learn-javascript-you-can-learn-german,2025-03-28
-New URLPattern API brings improved pattern matching to Node.js and Cloudflare Workers,The Cloudflare Blog,https://blog.cloudflare.com/improving-web-standards-urlpattern/,2025-03-28
-Enriching U: Javascript Programming,La Prensa Sonoma,https://www.laprensasonoma.com/evvnt/?_evDiscoveryPath=/event/37879703a-enriching-u-javascript-programming,2025-03-28
 "150,000 Sites Compromised by JavaScript Injection Promoting Chinese Gambling Platforms",The Hacker News,https://thehackernews.com/2025/03/150000-sites-compromised-by-javascript.html,2025-03-29
 "Cybersecurity News: JavaScript injection campaign, solar power vulnerabilities, SIM swap lawsuit",CISO Series,https://cisoseries.com/cybersecurity-news-javascript-injection-campaign-solar-power-vulnerabilities-sim-swap-lawsuit/,2025-03-29
 ECMAScript 2025 JavaScript standard takes shape,InfoWorld,https://www.infoworld.com/article/3856449/ecmascript-2025-javascript-standard-takes-shape.html,2025-03-29
@@ -1778,3 +1768,13 @@ How to Implement Lazy Loading Images and Videos in JavaScript,Hackernoon,https:/
 Self-Replicating Worm Hits 180+ Software Packages,Krebs on Security,https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/,2025-09-23
 Lectora Desktop and Online XSS Vulnerability Enables JavaScript Injection,GBHackers News,https://gbhackers.com/lectora-desktop-and-online-xss-vulnerability/,2025-09-23
 "A self-propagating JavaScript worm, spying on Gucci customers, and other cybersecurity news",ForkLog,https://forklog.com/en/a-self-propagating-javascript-worm-spying-on-gucci-customers-and-other-cybersecurity-news/amp/,2025-09-23
+Cap'n Web: A new RPC system for browsers and web servers,The Cloudflare Blog,https://blog.cloudflare.com/capnweb-javascript-rpc-library/,2025-09-24
+Wasm 3.0 Offers New Way to Handle JavaScript Strings,The New Stack,https://thenewstack.io/wasm-3-0-offers-new-way-to-handle-javascript-strings/,2025-09-24
+Malicious JavaScript Injection Powers New Magecart Payment Skimming Attack,Cyber Press,https://cyberpress.org/magecart-payment-skimming-attack/,2025-09-24
+Deno Crowdfunds $200K to Challenge Oracle’s JavaScript Trademark,WebProNews,https://www.webpronews.com/deno-crowdfunds-200k-to-challenge-oracles-javascript-trademark/,2025-09-24
+From Python to JavaScript: A Playbook for Data Analytics in n8n with Code Node Examples,Towards Data Science,https://towardsdatascience.com/from-python-to-javascript-a-playbook-for-data-analytics-in-n8n-with-code-node-examples/,2025-09-24
+'TypeScript for JavaScript Developers' - Tulsa Web Devs/Tulsa Tech Week Edition,fox23.com,https://www.fox23.com/local-events?_evDiscoveryPath=/event%2F310731844p--typescript-for-javascript-developers-tulsa-web-devs-tulsa-tech-week-edition,2025-09-24
+Beware of Fake Online Speedtest Apps with Hidden JavaScript Code,GBHackers News,https://gbhackers.com/online-speedtest-apps/,2025-09-24
+How to Implement Lazy Loading Images and Videos in JavaScript,Hackernoon,https://hackernoon.com/how-to-implement-lazy-loading-images-and-videos-in-javascript,2025-09-24
+CVE-2025-10585 Vulnerability: A New Zero-Day Exploit in Chrome’s V8 JavaScript and WebAssembly Engine Weaponized in Real-World Attacks,SOC Prime,https://socprime.com/blog/cve-2025-10585-zero-day-vulnerability/,2025-09-24
+"A self-propagating JavaScript worm, spying on Gucci customers, and other cybersecurity news",ForkLog,https://forklog.com/en/a-self-propagating-javascript-worm-spying-on-gucci-customers-and-other-cybersecurity-news/,2025-09-24
