@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Thursday October 02 2025
+## Friday October 03 2025
 
 
-| Title                                                                                                      | Website             | Link                                                                                                                                                              |
-|:-----------------------------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chainguard Adds Curated Repository to Secure JavaScript Libraries                                          | DevOps.com          | https://devops.com/chainguard-adds-curated-repository-to-secure-javascript-libraries/                                                                             |
-| Introducing Chainguard Libraries for JavaScript: Malware-Resistant Dependencies Built Entirely from Source | PR Newswire         | https://www.prnewswire.com/news-releases/introducing-chainguard-libraries-for-javascript-malware-resistant-dependencies-built-entirely-from-source-302566682.html |
-| JavaScript Gets Supply Chain Security With Chainguard Libraries                                            | The New Stack       | https://thenewstack.io/javascript-gets-supply-chain-security-with-chainguard-libraries/                                                                           |
-| Splunk Enterprise Vulnerabilities Allow Remote JavaScript Injection Attacks                                | Cyber Press         | https://cyberpress.org/splunk-vulnerabilities/                                                                                                                    |
-| JavaScript Survey Opens Ahead of JavaScript Day                                                            | i-programmer.info   | https://www.i-programmer.info/news/167-javascript/18347-javascript-survey-opens-ahead-of-javascript-day.html                                                      |
-| Chainguard launches trusted collection of verified JavaScript libraries                                    | SD Times            | https://sdtimes.com/security/chainguard-launches-trusted-collection-of-verified-javascript-libraries/                                                             |
-| Multiple Splunk Enterprise Vulnerabilities Let Attackers Execute Unauthorized JavaScript code              | Cyber Security News | https://cybersecuritynews.com/splunk-enterprise-vulnerabilities/                                                                                                  |
-| Splunk Enterprise Flaws Allow Attackers to Run Unauthorized JavaScript Code                                | GBHackers News      | https://gbhackers.com/splunk-enterprise-flaws/                                                                                                                    |
-| Oracle's GraalVM To Shift Focus To Non-Java Languages Like Python & JavaScript                             | Phoronix            | https://www.phoronix.com/news/GraalVM-Non-Java-Future                                                                                                             |
-| Building Snake Game In JavaScript: Classic Gameplay Revived                                                | Geek Vibes Nation   | https://geekvibesnation.com/building-snake-game-in-javascript-classic-gameplay-revived/                                                                           |
+| Title                                                                                         | Website             | Link                                                                                                        |
+|:----------------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
+| Chainguard offers malware-resistant JavaScript libraries                                      | InfoWorld           | https://www.infoworld.com/article/4067437/chainguard-offers-malware-resistant-javascript-libraries.html     |
+| Splunk Enterprise Vulnerabilities Allow Remote JavaScript Injection Attacks                   | Cyber Press         | https://cyberpress.org/splunk-vulnerabilities/                                                              |
+| How WebMCP Lets Developers Control AI Agents With JavaScript                                  | The New Stack       | https://thenewstack.io/how-webmcp-lets-developers-control-ai-agents-with-javascript/                        |
+| Deno Starts Crowdfund For JavaScript Trademark                                                | i-programmer.info   | https://www.i-programmer.info/news/167-javascript/18343-deno-starts-crowdfund-for-javascript-trademark.html |
+| Multiple Splunk Enterprise Vulnerabilities Let Attackers Execute Unauthorized JavaScript code | Cyber Security News | https://cybersecuritynews.com/splunk-enterprise-vulnerabilities/                                            |
+| Splunk Enterprise Flaws Allow Attackers to Run Unauthorized JavaScript Code                   | GBHackers News      | https://gbhackers.com/splunk-enterprise-flaws/                                                              |
+| Oracle's GraalVM To Shift Focus To Non-Java Languages Like Python & JavaScript                | Phoronix            | https://www.phoronix.com/news/GraalVM-Non-Java-Future                                                       |
+| The JavaScript code won’t write itself                                                        | InfoWorld           | https://www.infoworld.com/article/4066594/the-javascript-code-wont-write-itself.html                        |
+| Top 7 TypeScript Features: A Developer’s Handbook                                             | vocal.media         | https://vocal.media/journal/top-7-type-script-features-a-developer-s-handbook                               |
+| Why CERT-In Is Warning Startups and IT Companies About Dune-Inspired Malware ‘Shai-Hulud’     | MediaNama           | https://www.medianama.com/2025/09/223-cert-in-shai-hulud-malware-javascript-npm/                            |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
