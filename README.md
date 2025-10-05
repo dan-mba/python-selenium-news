@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday October 04 2025
+## Sunday October 05 2025
 
 
 | Title                                                                                                                                  | Website             | Link                                                                                                                                                                          |
@@ -16,11 +16,11 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | How WebMCP Lets Developers Control AI Agents With JavaScript                                                                           | The New Stack       | https://thenewstack.io/how-webmcp-lets-developers-control-ai-agents-with-javascript/                                                                                          |
 | JavaScript Survey Opens Ahead of JavaScript Day                                                                                        | i-programmer.info   | https://www.i-programmer.info/news/167-javascript/18347-javascript-survey-opens-ahead-of-javascript-day.html                                                                  |
 | Splunk Enterprise Flaws Allow Attackers to Run Unauthorized JavaScript Code                                                            | GBHackers News      | https://gbhackers.com/splunk-enterprise-flaws/                                                                                                                                |
-| Multiple Splunk Enterprise Vulnerabilities Let Attackers Execute Unauthorized JavaScript code                                          | Cyber Security News | https://cybersecuritynews.com/splunk-enterprise-vulnerabilities/                                                                                                              |
 | Classic Snake game now playable in your browser URL address bar — JavaScript remake uses Unicode Braille characters to render the game | Tom's Hardware      | https://www.tomshardware.com/video-games/classic-snake-game-now-playable-in-your-browser-url-address-bar-javascript-remake-uses-unicode-braille-characters-to-render-the-game |
+| Multiple Splunk Enterprise Vulnerabilities Let Attackers Execute Unauthorized JavaScript code                                          | Cyber Security News | https://cybersecuritynews.com/splunk-enterprise-vulnerabilities/                                                                                                              |
 | Oracle's GraalVM To Shift Focus To Non-Java Languages Like Python & JavaScript                                                         | Phoronix            | https://www.phoronix.com/news/GraalVM-Non-Java-Future                                                                                                                         |
-| Top 7 TypeScript Features: A Developer’s Handbook                                                                                      | vocal.media         | https://vocal.media/journal/top-7-type-script-features-a-developer-s-handbook                                                                                                 |
 | Chainguard offers malware-resistant JavaScript libraries                                                                               | InfoWorld           | https://www.infoworld.com/article/4067437/chainguard-offers-malware-resistant-javascript-libraries.html                                                                       |
+| Top 7 TypeScript Features: A Developer’s Handbook                                                                                      | vocal.media         | https://vocal.media/journal/top-7-type-script-features-a-developer-s-handbook                                                                                                 |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
