@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-NT Analyzer adds JavaScript file analysis feature,Data Protection Report,https://www.dataprotectionreport.com/2025/04/nt-analyzer-adds-javascript-file-analysis-feature/,2025-04-26
-JavaScript Framework Reality Check: What’s Actually Working,The New Stack,https://thenewstack.io/javascript-framework-reality-check-whats-actually-working/,2025-04-26
-Magecart Launches New Attack Using Malicious JavaScript to Steal Credit Card Data,GBHackers News,https://gbhackers.com/magecart-launches-new-attack-using-malicious-javascript/,2025-04-26
-"Comparing Angular, React, Vue, and Svelte: What you need to know",InfoWorld,https://www.infoworld.com/article/3962039/what-you-need-to-know-about-angular-react-vue-and-svelte-popular-javascript-frameworks-compared.html,2025-04-26
-XRP Ledger Foundation discloses 'serious vulnerability' in recently updated version of XRPL JavaScript library,The Block,https://www.theblock.co/post/351578/xrp-ledger-foundation-discloses-serious-vulnerability-xrpl-javascript-library,2025-04-26
-Ripple's xrpl.js npm Package Backdoored to Steal Private Keys in Major Supply Chain Attack,The Hacker News,https://thehackernews.com/2025/04/ripples-xrpljs-npm-package-backdoored.html,2025-04-26
-XRP Price Climbs Despite Major Breach in XRP Ledger’s Official JavaScript Library,The Crypto Basic,https://thecryptobasic.com/2025/04/23/xrp-price-climbs-despite-major-breach-in-xrp-ledgers-official-javascript-library/,2025-04-26
-XRP Ledger Exploit: Backdoor Found in Key JavaScript Library,99Bitcoins,https://99bitcoins.com/news/crypto-stealing-code-found-in-xrp-toolkit-devs-urged-to-update/,2025-04-26
-XRPL JavaScript SDK Breach Triggers Urgent Security Update,CoinCentral,https://coincentral.com/xrpl-javascript-sdk-breach-triggers-urgent-security-update/,2025-04-26
-AI-Driven Coding Revolution: JavaScript Development Simplified by AI Tools,Blockchain News,https://blockchain.news/flashnews/ai-driven-coding-revolution-javascript-development-simplified-by-ai-tools,2025-04-26
 NT Analyzer adds JavaScript file analysis feature,Data Protection Report,https://www.dataprotectionreport.com/2025/04/nt-analyzer-adds-javascript-file-analysis-feature/,2025-04-27
 JavaScript Framework Reality Check: What’s Actually Working,The New Stack,https://thenewstack.io/javascript-framework-reality-check-whats-actually-working/,2025-04-27
 Magecart Launches New Attack Using Malicious JavaScript to Steal Credit Card Data,GBHackers News,https://gbhackers.com/magecart-launches-new-attack-using-malicious-javascript/,2025-04-27
@@ -1782,3 +1772,13 @@ Chrome V8 JavaScript Engine Vulnerability Let Attackers Execute Remote Code,Cybe
 Cloudflare Unveils Binary Transparency for JavaScript Security Auditing,WebProNews,https://www.webpronews.com/cloudflare-unveils-binary-transparency-for-javascript-security-auditing/,2025-10-22
 "I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys",It's FOSS,https://itsfoss.com/puter-js-ai-without-api/,2025-10-22
 Global Javascript Web Frameworks Software Market Set to Reach,openPR.com,https://www.openpr.com/news/4229792/global-javascript-web-frameworks-software-market-set-to-reach,2025-10-22
+What’s the best language to focus on in 2025 — TypeScript or JavaScript?,SitePoint,https://www.sitepoint.com/community/t/what-s-the-best-language-to-focus-on-in-2025-typescript-or-javascript/484323,2025-10-23
+Improving the trustworthiness of Javascript on the Web,The Cloudflare Blog,https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/,2025-10-23
+Version 4.34 of JavaScript Maps SDK released!,Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/version-4-34-of-javascript-maps-sdk-released,2025-10-23
+Chrome V8 JavaScript Engine Vulnerability Allows Attackers to Execute Remote Code,Cyber Press,https://cyberpress.org/chrome-v8-javascript-engine-vulnerability/,2025-10-23
+Vite+ Aims To End JavaScript’s Fragmented Tooling Nightmare,The New Stack,https://thenewstack.io/vite-aims-to-end-javascripts-fragmented-tooling-nightmare/,2025-10-23
+Enhancing JavaScript Security: Cloudflare’s Cryptographic Signing Proposal,WebProNews,https://www.webpronews.com/enhancing-javascript-security-cloudflares-cryptographic-signing-proposal/,2025-10-23
+Google’s AI discovers yet another Chrome JavaScript vulnerability,PCWorld,https://www.pcworld.com/article/2949525/googles-ai-discovers-yet-another-chrome-javascript-vulnerability.html,2025-10-23
+Chrome V8 JavaScript Engine Vulnerability Let Attackers Execute Remote Code,CyberSecurityNews,https://cybersecuritynews.com/chrome-v8-javascript-engine-vulnerability/,2025-10-23
+"I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys",It's FOSS,https://itsfoss.com/puter-js-ai-without-api/,2025-10-23
+Video: How to Disable JavaScript in Tor Browser,Techloy,https://www.techloy.com/video-how-to-disable-javascript-in-tor-browser/,2025-10-23
