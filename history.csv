@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-JavaScript Framework Reality Check: What’s Actually Working,The New Stack,https://thenewstack.io/javascript-framework-reality-check-whats-actually-working/,2025-04-30
-You Can Apparently Make JavaScript Art Now,HackerNoon,https://hackernoon.com/you-can-apparently-make-javascript-art-now,2025-04-30
-XRP Price Climbs Despite Major Breach in XRP Ledger’s Official JavaScript Library,The Crypto Basic,https://thecryptobasic.com/2025/04/23/xrp-price-climbs-despite-major-breach-in-xrp-ledgers-official-javascript-library/,2025-04-30
-XRP Ledger Exploit: Backdoor Found in Key JavaScript Library,99Bitcoins,https://99bitcoins.com/news/crypto-stealing-code-found-in-xrp-toolkit-devs-urged-to-update/,2025-04-30
-AI-Driven Coding Revolution: JavaScript Development Simplified by AI Tools,Blockchain News,https://blockchain.news/flashnews/ai-driven-coding-revolution-javascript-development-simplified-by-ai-tools,2025-04-30
-XRP Ledger Foundation alerts users to serious vulnerability in JavaScript library,Dimsum Daily,https://www.dimsumdaily.hk/xrp-ledger-foundation-alerts-users-to-serious-vulnerability-in-javascript-library/,2025-04-30
-"CSS Line That Fixed My Layout in Seconds  by Sanjeevani Bhandari  Apr, 2025",Medium,https://medium.com/@sanjeevanibhandari3/css-line-that-fixed-my-layout-in-seconds-1a737aa86322,2025-04-30
-Catching up with Angular 19,InfoWorld,https://www.infoworld.com/article/3964105/catching-up-with-angular-19.html,2025-04-30
-Abusing DuckDB-WASM To Create Doom In SQL,Hackaday,https://hackaday.com/2025/04/23/abusing-duckdb-wasm-to-create-doom-in-sql/,2025-04-30
-Amazon’s SWE-PolyBench just exposed the dirty secret about your AI coding assistant,VentureBeat,https://venturebeat.com/ai/amazon-swe-polybench-just-exposed-the-dirty-secret-about-your-ai-coding-assistant/,2025-04-30
 You Can Apparently Make JavaScript Art Now,HackerNoon,https://hackernoon.com/you-can-apparently-make-javascript-art-now,2025-05-01
 Catching up with Angular 19,InfoWorld,https://www.infoworld.com/article/3964105/catching-up-with-angular-19.html,2025-05-01
 AI-Driven Coding Revolution: JavaScript Development Simplified by AI Tools,Blockchain News,https://blockchain.news/flashnews/ai-driven-coding-revolution-javascript-development-simplified-by-ai-tools,2025-05-01
@@ -1782,3 +1772,13 @@ Chrome V8 JavaScript Engine Vulnerability Let Attackers Execute Remote Code,Cybe
 Video: How to Disable JavaScript in Tor Browser,Techloy,https://www.techloy.com/video-how-to-disable-javascript-in-tor-browser/,2025-10-26
 How Cloudflare’s client-side security made the npm supply chain attack a non-event,The Cloudflare Blog,https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/,2025-10-26
 "I Used This Open Source Library to Integrate OpenAI, Claude, Gemini to Websites Without API Keys",It's FOSS,https://itsfoss.com/puter-js-ai-without-api/,2025-10-26
+The Rise of JavaScript in Machine Learning,The New Stack,https://thenewstack.io/the-rise-of-javascript-in-machine-learning/,2025-10-27
+Version 4.34 of JavaScript Maps SDK released!,Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/version-4-34-of-javascript-maps-sdk-released,2025-10-27
+CVE-2025-12036 Vulnerability: A New Critical Chrome V8 JavaScript Engine Flaw Enables Attackers to Execute Remote Code on Vulnerable Systems,SOC Prime,https://socprime.com/blog/cve-2025-12036-vulnerability/,2025-10-27
+Chrome V8 JavaScript Engine Vulnerability Allows Attackers to Execute Remote Code,Cyber Press,https://cyberpress.org/chrome-v8-javascript-engine-vulnerability/,2025-10-27
+Google’s AI discovers yet another Chrome JavaScript vulnerability,PCWorld,https://www.pcworld.com/article/2949525/googles-ai-discovers-yet-another-chrome-javascript-vulnerability.html,2025-10-27
+Optimize JavaScript Loops: Async Alternatives to Await for Concurrency,WebProNews,https://www.webpronews.com/optimize-javascript-loops-async-alternatives-to-await-for-concurrency/,2025-10-27
+Chrome V8 JavaScript Engine Vulnerability Let Attackers Execute Remote Code,CyberSecurityNews,https://cybersecuritynews.com/chrome-v8-javascript-engine-vulnerability/,2025-10-27
+Video: How to Disable JavaScript in Tor Browser,Techloy,https://www.techloy.com/video-how-to-disable-javascript-in-tor-browser/,2025-10-27
+How Cloudflare’s client-side security made the npm supply chain attack a non-event,The Cloudflare Blog,https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/,2025-10-27
+The 99 Best Programming Languages to Learn in 2026,Simplilearn.com,https://www.simplilearn.com/best-programming-languages-start-learning-today-article,2025-10-27
