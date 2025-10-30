@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Experiments in JavaScript: What’s new in reactive design,InfoWorld,https://www.infoworld.com/article/3975270/experiments-in-javascript-whats-new-in-reactive-design.html,2025-05-03
-"V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?",devclass,https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/,2025-05-03
-You Can Apparently Make JavaScript Art Now,HackerNoon,https://hackernoon.com/you-can-apparently-make-javascript-art-now,2025-05-03
-"MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks",The Hacker News,https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html,2025-05-03
-"Doonesbury Comic Strips by Garry Trudeau - May 01, 2025",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2025/5/1,2025-05-03
-"Build Your Own Polyfills for Call, Apply, and Bind in JavaScript",HackerNoon,https://hackernoon.com/build-your-own-polyfills-for-call-apply-and-bind-in-javascript,2025-05-03
-Catching up with Angular 19,InfoWorld,https://www.infoworld.com/article/3964105/catching-up-with-angular-19.html,2025-05-03
-ChatGPT Shopping Is Coming,Practical Ecommerce,https://www.practicalecommerce.com/chatgpt-shopping-is-coming,2025-05-03
-5 Must-Know JavaScript Test Automation Frameworks in 2025,Analytics Insight,https://www.analyticsinsight.net/ampstories/tech-news/5-must-know-javascript-test-automation-frameworks-in-2025,2025-05-03
-10 Hilarious Half-Hour Comedies to Stream for a Quick Laugh,How-To Geek,https://www.howtogeek.com/best-half-hour-comedies/,2025-05-03
 Experiments in JavaScript: What’s new in reactive design,InfoWorld,https://www.infoworld.com/article/3975270/experiments-in-javascript-whats-new-in-reactive-design.html,2025-05-04
 "V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?",devclass,https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/,2025-05-04
 You Can Apparently Make JavaScript Art Now,HackerNoon,https://hackernoon.com/you-can-apparently-make-javascript-art-now,2025-05-04
@@ -1782,3 +1772,13 @@ Video: How to Disable JavaScript in Tor Browser,Techloy,https://www.techloy.com/
 Ditch Python: 5 JavaScript Libraries for Machine Learning,The New Stack,https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/,2025-10-29
 Brendan Eich: Creator of JavaScript & Web3 Pioneer,INDODAX,https://indodax.com/academy/en/meet-brendan-eich-web3-pioneer/,2025-10-29
 Web Development In… Pascal?,Hackaday,https://hackaday.com/2025/10/28/web-development-in-pascal/,2025-10-29
+The Rise of JavaScript in Machine Learning,The New Stack,https://thenewstack.io/the-rise-of-javascript-in-machine-learning/,2025-10-30
+Permission issue when accessing page content in a Firefox extension,SitePoint,https://www.sitepoint.com/community/t/permission-issue-when-accessing-page-content-in-a-firefox-extension/484518,2025-10-30
+The Myth of Single-Threaded JavaScript: Inside the Language’s Hidden Concurrency Engine,Hackernoon,https://hackernoon.com/the-myth-of-single-threaded-javascript-inside-the-languages-hidden-concurrency-engine,2025-10-30
+TypeScript rises to the top on GitHub,InfoWorld,https://www.infoworld.com/article/4080454/typescript-rises-to-the-top-on-github.html,2025-10-30
+"How to Build a Fully Interactive, Real-Time Visualization Dashboard Using Bokeh and Custom JavaScript?",MarkTechPost,https://www.marktechpost.com/2025/10/27/how-to-build-a-fully-interactive-real-time-visualization-dashboard-using-bokeh-and-custom-javascript/,2025-10-30
+Ditch Python: 5 JavaScript Libraries for Machine Learning,The New Stack,https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/,2025-10-30
+Max 9.1 Update,Sonicstate,https://sonicstate.com/news/2025/10/29/max-91-update/,2025-10-30
+Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1,The GitHub Blog,https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/,2025-10-30
+Brendan Eich: Creator of JavaScript & Web3 Pioneer,INDODAX,https://indodax.com/academy/en/meet-brendan-eich-web3-pioneer/,2025-10-30
+Brahma-Firelight: Rust-Enhanced Node.js Framework for Scalable Web Servers,WebProNews,https://www.webpronews.com/brahma-firelight-rust-enhanced-node-js-framework-for-scalable-web-servers/,2025-10-30
