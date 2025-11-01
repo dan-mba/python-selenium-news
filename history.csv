@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Gradient strokes in the ArcGIS Maps SDK for JavaScript: A look under the hood,Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/gradient-strokes-in-the-arcgis-maps-sdk-for-javascript,2025-05-05
-Experiments in JavaScript: What’s new in reactive design,InfoWorld,https://www.infoworld.com/article/3975270/experiments-in-javascript-whats-new-in-reactive-design.html,2025-05-05
-"V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?",devclass,https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/,2025-05-05
-JavaScript Just Became 10X faster Thanks to a New Game-changing Feature From Chrome,HackerNoon,https://hackernoon.com/javascript-just-became-10x-faster-thanks-to-a-new-game-changing-feature-from-chrome,2025-05-05
-24 Top Frontend Technologies to Use in 2025,Netguru,https://www.netguru.com/blog/front-end-technologies,2025-05-05
-10 Best JavaScript Frameworks for Building AI Systems (May 2025),Unite.AI,https://www.unite.ai/best-javascript-frameworks-for-building-ai-systems/,2025-05-05
-"Google's AI Crawler For Gemini, Google-Extended, Does Render JavaScript",Search Engine Roundtable,https://www.seroundtable.com/googles-ai-crawler-renders-javascript-39353.html,2025-05-05
-"MintsLoader Drops GhostWeaver via Phishing, ClickFix — Uses DGA, TLS for Stealth Attacks",The Hacker News,https://thehackernews.com/2025/05/mintsloader-drops-ghostweaver-via.html,2025-05-05
-"Blurry Image Placeholders, Generated With Minimal CSS",Hackaday,https://hackaday.com/2025/05/01/blurry-image-placeholders-generated-with-minimal-css/,2025-05-05
-What are JavaScript Operators?,Shiksha,https://www.shiksha.com/online-courses/articles/what-are-javascript-operators/,2025-05-05
 Gradient strokes in the ArcGIS Maps SDK for JavaScript: A look under the hood,Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/gradient-strokes-in-the-arcgis-maps-sdk-for-javascript,2025-05-06
 Experiments in JavaScript: What’s new in reactive design,InfoWorld,https://www.infoworld.com/article/3975270/experiments-in-javascript-whats-new-in-reactive-design.html,2025-05-06
 "V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?",devclass,https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/,2025-05-06
@@ -1782,3 +1772,13 @@ How Cloudflare’s client-side security made the npm supply chain attack a non-e
 Max 9.1 Update,Sonicstate,https://sonicstate.com/news/2025/10/29/max-91-update,2025-10-31
 VoidZero secures US$12.5 million Series A to launch unified JavaScript toolchain Vite+,Tech Edition,https://www.techedt.com/voidzero-secures-us12-5-million-series-a-to-launch-unified-javascript-toolchain-vite,2025-10-31
 Brendan Eich: Creator of JavaScript & Web3 Pioneer,INDODAX,https://indodax.com/academy/en/meet-brendan-eich-web3-pioneer/,2025-10-31
+Ditch Python: 5 JavaScript Libraries for Machine Learning,The New Stack,https://thenewstack.io/ditch-python-5-javascript-libraries-for-machine-learning/,2025-11-01
+Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1,The GitHub Blog,https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/,2025-11-01
+The Myth of Single-Threaded JavaScript: Inside the Language’s Hidden Concurrency Engine,Hackernoon,https://hackernoon.com/the-myth-of-single-threaded-javascript-inside-the-languages-hidden-concurrency-engine,2025-11-01
+TypeScript rises to the top on GitHub,InfoWorld,https://www.infoworld.com/article/4080454/typescript-rises-to-the-top-on-github.html,2025-11-01
+"How to Build a Fully Interactive, Real-Time Visualization Dashboard Using Bokeh and Custom JavaScript?",MarkTechPost,https://www.marktechpost.com/2025/10/27/how-to-build-a-fully-interactive-real-time-visualization-dashboard-using-bokeh-and-custom-javascript/,2025-11-01
+VoidZero secures US$12.5 million Series A to launch unified JavaScript toolchain Vite+,Tech Edition,https://www.techedt.com/voidzero-secures-us12-5-million-series-a-to-launch-unified-javascript-toolchain-vite,2025-11-01
+Max 9.1 Update,Sonicstate,https://sonicstate.com/news/2025/10/29/max-91-update,2025-11-01
+Brendan Eich: Creator of JavaScript & Web3 Pioneer,INDODAX,https://indodax.com/academy/en/meet-brendan-eich-web3-pioneer/,2025-11-01
+Google AI Studio Does Angular,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18414-google-ai-studio-does-angular.html,2025-11-01
+Web Development In… Pascal?,Hackaday,https://hackaday.com/2025/10/28/web-development-in-pascal/,2025-11-01
