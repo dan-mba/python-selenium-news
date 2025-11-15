@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-JavaScript Maps SDK Transitions to Web Components  Spring 2025  ArcUser,Esri,https://www.esri.com/about/newsroom/arcuser/javascript-maps-sdk-transitions-to-web-components,2025-05-19
-Amazon's LLRT: A Revolutionary 2MB JavaScript Runtime Combining JavaScript Flexibility with Rust Performance,WebProNews,https://www.webpronews.com/amazons-llrt-a-revolutionary-2mb-javascript-runtime-combining-javascript-flexibility-with-rust-performance/,2025-05-19
-1. Getting Started: Presenting the Context,O'Reilly Media,https://www.oreilly.com/library/view/crafting-clean-code/9798868810046/html/607182_1_En_1_Chapter.xhtml,2025-05-19
-Warning: React has detected a change in the order of Hooks,SitePoint,https://www.sitepoint.com/community/t/warning-react-has-detected-a-change-in-the-order-of-hooks/478485/,2025-05-19
-Hedera to Update JavaScript SDK on June 2nd,TradingView,https://www.tradingview.com/news/coindar:64d75cd40094b:0-hedera-to-update-javascript-sdk-on-june-2nd/,2025-05-19
-Firefox Patches 2 Zero-Days Exploited at Pwn2Own Berlin with $100K in Rewards,The Hacker News,https://thehackernews.com/2025/05/firefox-patches-2-zero-days-exploited.html,2025-05-19
-Why AI chatbots are taking over customer support and how JavaScript helps,iTWire,https://itwire.com/guest-articles/guest-opinion/why-ai-chatbots-are-taking-over-customer-support-and-how-javascript-helps.html,2025-05-19
-How to convert Figma designs to code with Cursor AI,TheServerSide,https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/AI-Convert-Figma-Designs-to-Code-React-HTML-JavaScript-CSS-Cursor-Free-Plugin,2025-05-19
-TIOBE Index for May 2025: Top 10 Most Popular Programming Languages,TechRepublic,https://www.techrepublic.com/article/tiobe-index-language-rankings/,2025-05-19
-Operation RoundPress targeting high-value webmail servers,WeLiveSecurity,https://www.welivesecurity.com/en/eset-research/operation-roundpress/,2025-05-19
 San Diego International JavaScript Conference,KPBS,https://www.kpbs.org/events/2025/05/19/san-diego-international-javascript-conference,2025-05-20
 JavaScript Maps SDK Transitions to Web Components  Spring 2025  ArcUser,Esri,https://www.esri.com/about/newsroom/arcuser/javascript-maps-sdk-transitions-to-web-components,2025-05-20
 Amazon's LLRT: A Revolutionary 2MB JavaScript Runtime Combining JavaScript Flexibility with Rust Performance,WebProNews,https://www.webpronews.com/amazons-llrt-a-revolutionary-2mb-javascript-runtime-combining-javascript-flexibility-with-rust-performance/,2025-05-20
@@ -1780,3 +1770,13 @@ An incredibly popular JavaScript library might have some worrying malware issues
 Chrome Security Update Fixes Improper Implementation in V8 JavaScript Engine,GBHackers News,https://gbhackers.com/chrome-security-update-fixes-improper-implementation/,2025-11-14
 Recordnet Events - Reviving a Decade-old JavaScript Project,The Stockton Record,https://www.recordnet.com/things-to-do/events/?_evDiscoveryPath=/event%2F311774820p-reviving-a-decade-old-javascript-project,2025-11-14
 Chrome Patches High-severity Implementation Vulnerability in V8 JavaScript engine,CyberSecurityNews,https://cybersecuritynews.com/chrome-security-update-patch-v8-engine/,2025-11-14
+Critical vulnerability exposed in JavaScript library expr-eval,Techzine Global,https://www.techzine.eu/news/security/136255/critical-vulnerability-exposed-in-javascript-library-expr-eval/,2025-11-15
+Popular JavaScript library expr-eval vulnerable to RCE flaw,BleepingComputer,https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/,2025-11-15
+Couchbase enhances mobile platform with JavaScript support and peer-to-peer synchronization,SiliconANGLE,https://siliconangle.com/2025/11/12/couchbase-enhances-mobile-platform-javascript-support-peer-peer-synchronization/,2025-11-15
+"TuxCare Endless Lifecycle Support Offering Expands Support Across Java, JavaScript and Python Ecosystems",CBS 42,https://www.cbs42.com/business/press-releases/ein-presswire/866290406/tuxcare-endless-lifecycle-support-offering-expands-support-across-java-javascript-and-python-ecosystems,2025-11-15
+An incredibly popular JavaScript library might have some worrying malware issues,MSN,https://www.msn.com/en-us/news/technology/an-incredibly-popular-javascript-library-might-have-some-worrying-malware-issues/ar-AA1QeFN4,2025-11-15
+"X iOS update disables JavaScript during link prefetch, generating artificial traffic",PPC Land,https://ppc.land/x-ios-update-disables-javascript-during-link-prefetch-generating-artificial-traffic/,2025-11-15
+Chrome Security Update Fixes Improper Implementation in V8 JavaScript Engine,GBHackers News,https://gbhackers.com/chrome-security-update-fixes-improper-implementation/,2025-11-15
+Recordnet Events - Reviving a Decade-old JavaScript Project,The Stockton Record,https://www.recordnet.com/things-to-do/events/?_evDiscoveryPath=/event%2F311774820p-reviving-a-decade-old-javascript-project,2025-11-15
+Chrome Patches High-severity Implementation Vulnerability in V8 JavaScript engine,CyberSecurityNews,https://cybersecuritynews.com/chrome-security-update-patch-v8-engine/,2025-11-15
+Google Releases Patch for V8 Engine Implementation Flaw in Chrome,Cyber Press,https://cyberpress.org/v8-engine-implementation-flaw/,2025-11-15
