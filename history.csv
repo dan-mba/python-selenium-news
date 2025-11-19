@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps,The Hacker News,https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html,2025-05-23
-San Diego International JavaScript Conference,KPBS,https://www.kpbs.org/events/2025/05/19/san-diego-international-javascript-conference,2025-05-23
-The State of JavaScript Debugging in WebAssembly,The New Stack,https://thenewstack.io/the-state-of-javascript-debugging-in-webassembly/,2025-05-23
-Amazon's LLRT: A Revolutionary 2MB JavaScript Runtime Combining JavaScript Flexibility with Rust Performance,WebProNews,https://www.webpronews.com/amazons-llrt-a-revolutionary-2mb-javascript-runtime-combining-javascript-flexibility-with-rust-performance/,2025-05-23
-Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks,GBHackers News,https://gbhackers.com/hackers-deploy-weaponized-npm-packages/,2025-05-23
-OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React,HackerNoon,https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react,2025-05-23
-"Hackers Using Weaponized npm Packages to Attack React, Node.js JavaScript Frameworks",CybersecurityNews,https://cybersecuritynews.com/hackers-using-weaponized-npm-packages/,2025-05-23
-Inserting Comments,O'Reilly Media,https://www.oreilly.com/library/view/learning-the-ios/9781449399078/ch07s12.html,2025-05-23
-Warning: React has detected a change in the order of Hooks,SitePoint,https://www.sitepoint.com/community/t/warning-react-has-detected-a-change-in-the-order-of-hooks/478485,2025-05-23
-OpenPGP Vulnerability CVE-2025-47934 Exposes Users,The Cyber Express,https://thecyberexpress.com/cve-2025-47934-openpgp-vulnerability/,2025-05-23
 Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps,The Hacker News,https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html,2025-05-24
 San Diego International JavaScript Conference,KPBS,https://www.kpbs.org/events/2025/05/19/san-diego-international-javascript-conference,2025-05-24
 OpenAI Unveils Codex—An AI Dev Assistant Built for JavaScript and React,HackerNoon,https://hackernoon.com/openai-unveils-codexan-ai-dev-assistant-built-for-javascript-and-react,2025-05-24
@@ -1779,3 +1769,13 @@ Chrome Security Update Fixes Improper Implementation in V8 JavaScript Engine,GBH
 Couchbase unveils AI edge upgrades with offline sync & JavaScript,IT Brief Asia,https://itbrief.asia/story/couchbase-unveils-ai-edge-upgrades-with-offline-sync-javascript,2025-11-18
 Chrome Patches High-severity Implementation Vulnerability in V8 JavaScript engine,CyberSecurityNews,https://cybersecuritynews.com/chrome-security-update-patch-v8-engine/,2025-11-18
 "Aspire 13 bolsters Python, JavaScript support",InfoWorld,https://www.infoworld.com/article/4091418/aspire-13-bolsters-python-javascript-support.html,2025-11-18
+"Aspire 13 bolsters Python, JavaScript support",InfoWorld,https://www.infoworld.com/article/4091418/aspire-13-bolsters-python-javascript-support.html,2025-11-19
+Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 1,Towards Data Science,https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt/,2025-11-19
+Bun 1.3 Ignites AI in JavaScript: Zero-Setup Local LLMs Redefine Edge Computing,WebProNews,https://www.webpronews.com/bun-1-3-ignites-ai-in-javascript-zero-setup-local-llms-redefine-edge-computing/,2025-11-19
+An incredibly popular JavaScript library might have some worrying malware issues,MSN,https://www.msn.com/en-us/news/technology/an-incredibly-popular-javascript-library-might-have-some-worrying-malware-issues/ar-AA1QeWSx,2025-11-19
+Couchbase unveils AI edge upgrades with offline sync & JavaScript,IT Brief Australia,https://itbrief.com.au/story/couchbase-unveils-ai-edge-upgrades-with-offline-sync-javascript,2025-11-19
+10 JavaScript-based tools and frameworks for AI and machine learning,InfoWorld,https://www.infoworld.com/article/4086893/10-javascript-based-tools-and-frameworks-for-ai-and-machine-learning.html,2025-11-19
+Top 10 Front End Languages: A Beginner's Guide,Simplilearn.com,https://www.simplilearn.com/tutorials/programming-tutorial/best-front-end-programming-languages,2025-11-19
+Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability,The Hacker News,https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html,2025-11-19
+Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 2,Towards Data Science,https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt-part-2/,2025-11-19
+"How to Fix Javascript Void(0) in Chrome, Firefox & Edge",Windows Report,https://windowsreport.com/fix-javascript-void-0/,2025-11-19
