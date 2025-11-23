@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps,The Hacker News,https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html,2025-05-27
-Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks,GBHackers News,https://gbhackers.com/hackers-deploy-weaponized-npm-packages/,2025-05-27
-How to Build Scalable Front-End Apps With React JS,Built In,https://builtin.com/articles/build-scalable-front-end-apps-react-js,2025-05-27
-"Hackers Using Weaponized npm Packages to Attack React, Node.js JavaScript Frameworks",CybersecurityNews,https://cybersecuritynews.com/hackers-using-weaponized-npm-packages/,2025-05-27
-"Zoho’s Sridhar Vembu asks the question every techie fears: Will JavaScript, C, HTML/CSS survive AI?",The Economic Times,https://m.economictimes.com/magazines/panache/zohos-sridhar-vembu-asks-the-question-every-techie-fears-will-javascript-c-html/css-survive-ai/articleshow/121432463.cms,2025-05-27
-OpenPGP Vulnerability CVE-2025-47934 Exposes Users,The Cyber Express,https://thecyberexpress.com/cve-2025-47934-openpgp-vulnerability/,2025-05-27
-Putting agentic AI to work in Firebase Studio,InfoWorld,https://www.infoworld.com/article/3981588/putting-agentic-ai-to-work-in-firebase-studio.html,2025-05-27
-Hackers Target Mobile Users Using PWA JavaScript to Bypass Browser Security,GBHackers News,https://gbhackers.com/hackers-target-mobile-users-using-pwa-javascript/,2025-05-27
-Home Lumma Stealer: Breaking down the delivery techniques and capabilities of a prolific infostealer,Microsoft,https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/,2025-05-27
-"Woman, 20, says 'I don't like cheese' after winning Double Gloucester rolling race",BBC,https://www.bbc.com/news/live/cd0l2j51gygt?page=2,2025-05-27
 Making the drag and drop work in modified version,SitePoint,https://www.sitepoint.com/community/t/making-the-drag-and-drop-work-in-modified-version/479077,2025-05-28
 Hackers Deploy Weaponized npm Packages to Target React and Node.js JavaScript Frameworks,GBHackers News,https://gbhackers.com/hackers-deploy-weaponized-npm-packages/,2025-05-28
 How to Build Scalable Front-End Apps With React JS,Built In,https://builtin.com/articles/build-scalable-front-end-apps-react-js,2025-05-28
@@ -1779,3 +1769,13 @@ Top 10 Front End Languages: A Beginner's Guide,Simplilearn.com,https://www.simpl
 "Aspire 13 bolsters Python, JavaScript support",InfoWorld,https://www.infoworld.com/article/4091418/aspire-13-bolsters-python-javascript-support.html,2025-11-22
 Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 2,Towards Data Science,https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt-part-2/,2025-11-22
 Cooking up trouble: How TamperedChef uses signed apps to deliver stealthy payloads,Acronis,https://www.acronis.com/en/tru/posts/cooking-up-trouble-how-tamperedchef-uses-signed-apps-to-deliver-stealthy-payloads/,2025-11-22
+10 JavaScript-based tools and frameworks for AI and machine learning,InfoWorld,https://www.infoworld.com/article/4086893/10-javascript-based-tools-and-frameworks-for-ai-and-machine-learning.html,2025-11-23
+Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 1,Towards Data Science,https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt/,2025-11-23
+Bun 1.3 Ignites AI in JavaScript: Zero-Setup Local LLMs Redefine Edge Computing,WebProNews,https://www.webpronews.com/bun-1-3-ignites-ai-in-javascript-zero-setup-local-llms-redefine-edge-computing/,2025-11-23
+Building Future-Proof Custom Widgets for Experience Builder,Esri,https://www.esri.com/arcgis-blog/products/experience-builder/developers/building-future-proof-custom-widgets-for-experience-builder,2025-11-23
+Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability,The Hacker News,https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html,2025-11-23
+Top 10 Front End Languages: A Beginner's Guide,Simplilearn.com,https://www.simplilearn.com/tutorials/programming-tutorial/best-front-end-programming-languages,2025-11-23
+"Aspire 13 bolsters Python, JavaScript support",InfoWorld,https://www.infoworld.com/article/4091418/aspire-13-bolsters-python-javascript-support.html,2025-11-23
+Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 2,Towards Data Science,https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt-part-2/,2025-11-23
+Cooking up trouble: How TamperedChef uses signed apps to deliver stealthy payloads,Acronis,https://www.acronis.com/en/tru/posts/cooking-up-trouble-how-tamperedchef-uses-signed-apps-to-deliver-stealthy-payloads/,2025-11-23
+An In-Depth Comparison of Node.js vs. PHP in 2025,Netguru,https://www.netguru.com/blog/node-js-vs-php,2025-11-23
