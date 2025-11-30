@@ -6,13 +6,13 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Saturday November 29 2025
+## Sunday November 30 2025
 
 
 | Title                                                                                     | Website                   | Link                                                                                                                         |
 |:------------------------------------------------------------------------------------------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| Intro to Nest.js: Server-side JavaScript development on Node                              | InfoWorld                 | https://www.infoworld.com/article/4091407/intro-to-nest-js-server-side-javascript-development-on-node.html                   |
 | Second Coming of Shai-Hulud Cyberattack Ravages JavaScript Repositories                   | DevOps.com                | https://devops.com/second-coming-of-shai-hulud-cyberattack-ravages-javascript-repositories/                                  |
+| Intro to Nest.js: Server-side JavaScript development on Node                              | InfoWorld                 | https://www.infoworld.com/article/4091407/intro-to-nest-js-server-side-javascript-development-on-node.html                   |
 | How To Perform Basic NLP in JavaScript With the Natural Library                           | The New Stack             | https://thenewstack.io/how-to-perform-basic-nlp-in-javascript-with-the-natural-library/                                      |
 | Daily Deal: The JavaScript DOM Game Developer Bundle                                      | Techdirt.                 | https://www.techdirt.com/2025/11/25/daily-deal-the-javascript-dom-game-developer-bundle-6/                                   |
 | Popular JavaScript library can be hacked to allow attackers into user accounts            | TechRadar                 | https://www.techradar.com/pro/security/popular-javascript-library-can-be-hacked-to-allow-attackers-into-user-accounts        |

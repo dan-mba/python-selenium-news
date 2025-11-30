@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Making the drag and drop work in modified version,SitePoint,https://www.sitepoint.com/community/t/making-the-drag-and-drop-work-in-modified-version/479077,2025-06-03
-Comcast still uses MITM javascript injection to serve unwanted ads and messages,Private Internet Access,https://www.privateinternetaccess.com/blog/comcast-still-uses-mitm-javascript-injection-serve-unwanted-ads-messages/,2025-06-03
-DOM Partners with Prerender.io to Solve JavaScript SEO Indexing Problems for Modern Websites,WJHL,https://www.wjhl.com/business/press-releases/ein-presswire/817589669/dom-partners-with-prerender-io-to-solve-javascript-seo-indexing-problems-for-modern-websites,2025-06-03
-How I Run JavaScript in VS Code,It's FOSS,https://itsfoss.com/vs-code-run-javascript/,2025-06-03
-I Shaved 1MB Off My Next.js App – The Fix Was Hiding in Plain Sight,HackerNoon,https://hackernoon.com/i-shaved-1mb-off-my-nextjs-app-the-fix-was-hiding-in-plain-sight,2025-06-03
-Splunk Enterprise XSS Flaw Enables Attackers to Execute Unauthorized JavaScript,GBHackers News,https://gbhackers.com/splunk-enterprise-xss-flaw/,2025-06-03
-10 Best JavaScript Frameworks for Building AI Systems (June 2025),Unite.AI,https://www.unite.ai/best-javascript-frameworks-for-building-ai-systems/,2025-06-03
-Malicious NPM Packages Attacking Ethereum Wallets Using Obfuscated JavaScript,CybersecurityNews,https://cybersecuritynews.com/malicious-npm-packages-attacking-ethereum-wallets/,2025-06-03
-Microsoft rolls out TypeScript Native Previews,InfoWorld,https://www.infoworld.com/article/3996134/microsoft-rolls-out-typescript-native-previews.html,2025-06-03
-Front-end Engineer Interview Preparation Course With AI 2025 Reviews - Interview Kickstart Trains AI-enabled Frontend Developers For FAANG Jobs,USA Today,https://usatoday.com/press-release/story/6615/front-end-engineer-interview-preparation-course-with-ai-2025-reviews-interview-kickstart-trains-ai-enabled-frontend-developers-for-faang-jobs/,2025-06-03
 JavaScript promises: 4 gotchas and how to avoid them,InfoWorld,https://www.infoworld.com/article/3999603/javascript-promises-4-gotchas-and-how-to-avoid-them.html,2025-06-04
 DOM Partners with Prerender.io to Solve JavaScript SEO Indexing Problems for Modern Websites,WJBF,https://www.wjbf.com/business/press-releases/ein-presswire/817589669/dom-partners-with-prerender-io-to-solve-javascript-seo-indexing-problems-for-modern-websites,2025-06-04
 How I Run JavaScript in VS Code,It's FOSS,https://itsfoss.com/vs-code-run-javascript/,2025-06-04
@@ -1779,3 +1769,13 @@ Node.js 24 runtime now available in AWS Lambda,Amazon Web Services (AWS),https:/
 RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware,The Hacker News,https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html,2025-11-29
 "Underwater drones deployed, Javascript library vulnerable to hacking",Tech Digest,https://www.techdigest.tv/2025/11/underwater-drones-deployed-javascript-library-vulnerable-to-hacking.html,2025-11-29
 "Disney & Pixar’s Most Popular Movies Revealed, All 29 Animated Films Ranked By Audiences!",Just Jared,https://www.justjared.com/2025/11/27/disney-pixars-most-popular-movies-revealed-all-29-animated-films-ranked-by-audiences/2/,2025-11-29
+Second Coming of Shai-Hulud Cyberattack Ravages JavaScript Repositories,DevOps.com,https://devops.com/second-coming-of-shai-hulud-cyberattack-ravages-javascript-repositories/,2025-11-30
+Intro to Nest.js: Server-side JavaScript development on Node,InfoWorld,https://www.infoworld.com/article/4091407/intro-to-nest-js-server-side-javascript-development-on-node.html,2025-11-30
+How To Perform Basic NLP in JavaScript With the Natural Library,The New Stack,https://thenewstack.io/how-to-perform-basic-nlp-in-javascript-with-the-natural-library/,2025-11-30
+Daily Deal: The JavaScript DOM Game Developer Bundle,Techdirt.,https://www.techdirt.com/2025/11/25/daily-deal-the-javascript-dom-game-developer-bundle-6/,2025-11-30
+Popular JavaScript library can be hacked to allow attackers into user accounts,TechRadar,https://www.techradar.com/pro/security/popular-javascript-library-can-be-hacked-to-allow-attackers-into-user-accounts,2025-11-30
+5 Best Custom JavaScript Development Companies in 2025,Technology Org,https://www.technology.org/2025/11/28/5-best-custom-javascript-development-companies-in-2025/,2025-11-30
+Node.js 24 runtime now available in AWS Lambda,Amazon Web Services (AWS),https://aws.amazon.com/blogs/compute/node-js-24-runtime-now-available-in-aws-lambda/,2025-11-30
+RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware,The Hacker News,https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html,2025-11-30
+"Underwater drones deployed, Javascript library vulnerable to hacking",Tech Digest,https://www.techdigest.tv/2025/11/underwater-drones-deployed-javascript-library-vulnerable-to-hacking.html,2025-11-30
+"Disney & Pixar’s Most Popular Movies Revealed, All 29 Animated Films Ranked By Audiences!",Just Jared,https://www.justjared.com/2025/11/27/disney-pixars-most-popular-movies-revealed-all-29-animated-films-ranked-by-audiences/2/,2025-11-30
