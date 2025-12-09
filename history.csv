@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-JavaScript innovation and the culture of programming,InfoWorld,https://www.infoworld.com/article/4001113/javascript-innovation-and-the-culture-of-programming.html,2025-06-12
-Developers with 6 to 10 years of experience drive AI adoption,SlashData,https://www.slashdata.co/post/javascript-has-28-million-users-what-this-reveals-about-the-future-of-global-tech-teams,2025-06-12
-JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique,Unit 42,https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/,2025-06-12
-Node.js for Beginners: How to Get Started,Simplilearn.com,https://www.simplilearn.com/nodejs-for-beginners-article,2025-06-12
-Week 2- Code Combat Quests with Python & JavaScript,Florida Today,https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/37500565a-week-2-code-combat-quests-with-python-javascript,2025-06-12
-JavaScript Explained in 100 Seconds,MSN,https://www.msn.com/en-us/news/technology/javascript-in-100-seconds/vi-AA1BxYUK?ocid=hpmsn,2025-06-12
-10 JavaScript concepts you need to succeed with Node,InfoWorld,https://www.infoworld.com/article/2252306/10-javascript-concepts-every-nodejs-developer-must-master.html,2025-06-12
-Critical RCE Vulnerability in AWS Amplify Studio – PoC Now Public,GBHackers News,https://gbhackers.com/rce-vulnerability-in-aws-amplify-studio/,2025-06-12
-Google Vulnerability Let Attackers Access Any Google User's Phone Number,CybersecurityNews,https://cybersecuritynews.com/google-vulnerability-leaks-user-phone-number/,2025-06-12
-The ways government is stressing out your child’s public school,The Washington Post,https://www.washingtonpost.com/education/interactive/2025/public-schools-political-pressure/,2025-06-12
 Developers with 6 to 10 years of experience drive AI adoption,SlashData,https://www.slashdata.co/post/javascript-has-28-million-users-what-this-reveals-about-the-future-of-global-tech-teams,2025-06-13
 JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique,Unit 42,https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/,2025-06-13
 We shipped FinalizationRegistry in Workers: why you should never use it,The Cloudflare Blog,https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/,2025-06-13
@@ -1779,3 +1769,13 @@ JavaScript Marks 30 Years—a Language Created in Haste That Outlived All Its Cr
 Popular JavaScript library can be hacked allowing access to user accounts,MSN,https://www.msn.com/en-us/news/technology/popular-javascript-library-can-be-hacked-allowing-access-to-user-accounts/ar-AA1RhNXy?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1,2025-12-08
 Anthropic buys JavaScript engine firm to strengthen Claude Code,Tech in Asia,https://www.techinasia.com/news/anthropic-buys-javascript-engine-firm-to-strengthen-claude-code,2025-12-08
 The 99 Best Programming Languages to Learn in 2026,Simplilearn.com,https://www.simplilearn.com/best-programming-languages-start-learning-today-article,2025-12-08
+AWS SDK for JavaScript aligns with Node.js release schedule,Amazon Web Services (AWS),https://aws.amazon.com/blogs/developer/aws-sdk-for-javascript-aligns-with-node-js-release-schedule/,2025-12-09
+"Bun JavaScript runtime acquired by Anthropic, tying its future to AI coding",devclass,https://devclass.com/2025/12/03/bun-javascript-runtime-acquired-by-anthropic-tying-its-future-to-ai-coding/,2025-12-09
+All I want for Christmas is a server-side JavaScript framework,InfoWorld,https://www.infoworld.com/article/4100620/all-i-want-for-christmas-is-server-side-javascript.html,2025-12-09
+Anthropic acquires Bun as Claude Code reaches $1B milestone,Anthropic,https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone,2025-12-09
+"In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet",Ars Technica,https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/,2025-12-09
+JavaScript Marks 30 Years—a Language Created in Haste That Outlived All Its Creators,SFG Media,https://sfg.media/en/a/javascript-marks-30-years/,2025-12-09
+Vike Releases Photon with Next-Gen JavaScript Deployment Infrastructure and Cloudflare Integration,infoq.com,https://www.infoq.com/news/2025/12/photon-deployment-javascript/,2025-12-09
+Anthropic buys JavaScript engine firm to strengthen Claude Code,Tech in Asia,https://www.techinasia.com/news/anthropic-buys-javascript-engine-firm-to-strengthen-claude-code,2025-12-09
+Popular JavaScript library can be hacked allowing access to user accounts,MSN,https://www.msn.com/en-us/news/technology/popular-javascript-library-can-be-hacked-allowing-access-to-user-accounts/ar-AA1RhNXy?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1,2025-12-09
+How I use thousands of generated tests to catch hidden bugs in my code,How-To Geek,https://www.howtogeek.com/how-i-rapidly-generate-thousands-of-tests-to-catch-stealthy-bugs/,2025-12-09
