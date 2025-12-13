@@ -6,7 +6,7 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Friday December 12 2025
+## Saturday December 13 2025
 
 
 | Title                                                                                                    | Website                  | Link                                                                                                                                         |
@@ -19,7 +19,7 @@ A GitHub action schedules the scraping to run every day and update the README.md
 | Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT                              | The Hacker News          | https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html                                                                       |
 | The antidote to the JavaScript industrial complex: How XMLUI puts the business developer back in control | SD Times                 | https://sdtimes.com/softwaredev/the-antidote-to-the-javascript-industrial-complex-how-xmlui-puts-the-business-developer-back-in-control/     |
 | Google Shopping Crawlers Are Too Fast For JavaScript Generated Structured Data                           | Search Engine Roundtable | https://www.seroundtable.com/google-shopping-crawlers-fast-schema-40577.html                                                                 |
-| JavaScript turns 30: From 10-day prototype to the backbone of the modern web                             | TechSpot                 | https://www.techspot.com/news/110510-javascript-turns-30-10-day-prototype-backbone-modern.html                                               |
+| CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and In-the-Wild Exploitation               | www.trendmicro.com       | https://www.trendmicro.com/en_us/research/25/l/CVE-2025-55182-analysis-poc-itw.html                                                          |
 | Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code                       | Visual Studio Magazine   | https://visualstudiomagazine.com/articles/2025/12/10/microsoft-tests-copilot-powered-tool-to-modernize-javascript-typescript-in-vs-code.aspx |
 ## Top Sites for Past 7 Days
 

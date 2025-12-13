@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month",The Hacker News,https://thehackernews.com/2025/06/over-269000-websites-infected-with.html,2025-06-16
-JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique,Unit 42,https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/,2025-06-16
-Elixir: An Alternative to JavaScript-Based Web Development,The New Stack,https://thenewstack.io/elixir-an-alternative-to-javascript-based-web-development/,2025-06-16
-6 JavaScript Snippets to Polish Your Site,How-To Geek,https://www.howtogeek.com/javascript-snippets-to-polish-your-site/,2025-06-16
-We shipped FinalizationRegistry in Workers: why you should never use it,The Cloudflare Blog,https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/,2025-06-16
-JSFireTruck Obfuscation Helps Cybercriminals Hijack Trusted Sites with Malicious JavaScript,GBHackers News,https://gbhackers.com/jsfiretruck-obfuscation-helps-cybercriminals-hijack/,2025-06-16
-270K websites injected with ‘JSF-ck’ obfuscated code,SC Media,https://www.scworld.com/news/270k-websites-injected-with-jsf-ck-obfuscated-code,2025-06-16
-Dems demand audit of CVE program as Federal funding remains uncertain,The Register,https://www.theregister.com/2025/06/15/cybersecurity_news_in_brief/,2025-06-16
-Google Vulnerability Let Attackers Access Any Google User's Phone Number,CybersecurityNews,https://cybersecuritynews.com/google-vulnerability-leaks-user-phone-number/,2025-06-16
-TIOBE Index for June 2025: Top 10 Most Popular Programming Languages,TechRepublic,https://www.techrepublic.com/article/tiobe-index-language-rankings/,2025-06-16
 JavaScript,Britannica,https://www.britannica.com/technology/JavaScript,2025-06-17
 "Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month",The Hacker News,https://thehackernews.com/2025/06/over-269000-websites-infected-with.html,2025-06-17
 JSFireTruck: Exploring Malicious JavaScript Using JSF*ck as an Obfuscation Technique,Unit 42,https://unit42.paloaltonetworks.com/malicious-javascript-using-jsfiretruck-as-obfuscation/,2025-06-17
@@ -1779,3 +1769,13 @@ The antidote to the JavaScript industrial complex: How XMLUI puts the business d
 Google Shopping Crawlers Are Too Fast For JavaScript Generated Structured Data,Search Engine Roundtable,https://www.seroundtable.com/google-shopping-crawlers-fast-schema-40577.html,2025-12-12
 JavaScript turns 30: From 10-day prototype to the backbone of the modern web,TechSpot,https://www.techspot.com/news/110510-javascript-turns-30-10-day-prototype-backbone-modern.html,2025-12-12
 Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code,Visual Studio Magazine,https://visualstudiomagazine.com/articles/2025/12/10/microsoft-tests-copilot-powered-tool-to-modernize-javascript-typescript-in-vs-code.aspx,2025-12-12
+AWS SDK for JavaScript aligns with Node.js release schedule,Amazon Web Services,https://aws.amazon.com/blogs/developer/aws-sdk-for-javascript-aligns-with-node-js-release-schedule/,2025-12-13
+Malicious JavaScript and PowerShell Used to Compromise Enterprise Systems,The National CIO Review,https://nationalcioreview.com/articles-insights/extra-bytes/malicious-javascript-and-powershell-used-to-compromise-enterprise-systems/,2025-12-13
+Vike Releases Photon with Next-Gen JavaScript Deployment Infrastructure and Cloudflare Integration,infoq.com,https://www.infoq.com/news/2025/12/photon-deployment-javascript/,2025-12-13
+Aspire 13 Makes Python a First-Class Workload with .NET and JavaScript,Visual Studio Magazine,https://visualstudiomagazine.com/articles/2025/12/08/aspire-13-makes-python-a-first-class-workload-with-net-and-javascript.aspx,2025-12-13
+"ES2026 Solves JavaScript Headaches With Dates, Math and Modules",The New Stack,https://thenewstack.io/es2026-solves-javascript-headaches-with-dates-math-and-modules/,2025-12-13
+Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT,The Hacker News,https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html,2025-12-13
+The antidote to the JavaScript industrial complex: How XMLUI puts the business developer back in control,SD Times,https://sdtimes.com/softwaredev/the-antidote-to-the-javascript-industrial-complex-how-xmlui-puts-the-business-developer-back-in-control/,2025-12-13
+Google Shopping Crawlers Are Too Fast For JavaScript Generated Structured Data,Search Engine Roundtable,https://www.seroundtable.com/google-shopping-crawlers-fast-schema-40577.html,2025-12-13
+"CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and In-the-Wild Exploitation",www.trendmicro.com,https://www.trendmicro.com/en_us/research/25/l/CVE-2025-55182-analysis-poc-itw.html,2025-12-13
+Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code,Visual Studio Magazine,https://visualstudiomagazine.com/articles/2025/12/10/microsoft-tests-copilot-powered-tool-to-modernize-javascript-typescript-in-vs-code.aspx,2025-12-13
