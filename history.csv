@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"Over 269,000 Websites Infected with JSFireTruck JavaScript Malware in One Month",The Hacker News,https://thehackernews.com/2025/06/over-269000-websites-infected-with.html,2025-06-20
-INKY warns of new QR code phishing tactic using embedded JavaScript,SiliconANGLE,https://siliconangle.com/2025/06/18/inky-warns-new-qr-code-phishing-tactic-using-embedded-javascript/,2025-06-20
-Elixir: An Alternative to JavaScript-Based Web Development,The New Stack,https://thenewstack.io/elixir-an-alternative-to-javascript-based-web-development/,2025-06-20
-JavaScript packages hide ‘protestware’ against Russian users,Developer Tech News,https://www.developer-tech.com/news/javascript-packages-hide-protestware-russian-users/,2025-06-20
-Global Interest Grows in EdChart’s JavaScript Certification Backed by Credly,WJHL,https://www.wjhl.com/business/press-releases/ein-presswire/822897909/global-interest-grows-in-edcharts-javascript-certification-backed-by-credly,2025-06-20
-Demoscene effects recreated in Javascript,Boing Boing,https://boingboing.net/2025/06/17/demoscene-effects-recreated-in-javascript.html,2025-06-20
-6 JavaScript Snippets to Polish Your Site,How-To Geek,https://www.howtogeek.com/javascript-snippets-to-polish-your-site/,2025-06-20
-5 essential programming languages for cybersecurity pros,TechTarget,https://www.techtarget.com/searchsecurity/tip/5-essential-programming-languages-for-cybersecurity-pros,2025-06-20
-From Hydration to Resumability: Rethinking React Rendering,devmio,https://devm.io/javascript/react-interactivity-hydration-resumability,2025-06-20
-Best JavaScript Learning Channels on YouTube for 2025,Analytics Insight,https://www.analyticsinsight.net/tech-news/best-javascript-learning-channels-on-youtube-for-2025,2025-06-20
 INKY warns of new QR code phishing tactic using embedded JavaScript,SiliconANGLE,https://siliconangle.com/2025/06/18/inky-warns-new-qr-code-phishing-tactic-using-embedded-javascript/,2025-06-21
 JavaScript packages hide ‘protestware’ against Russian users,Developer Tech News,https://www.developer-tech.com/news/javascript-packages-hide-protestware-russian-users/,2025-06-21
 Global Interest Grows in EdChart’s JavaScript Certification Backed by Credly,WJHL,https://www.wjhl.com/business/press-releases/ein-presswire/822897909/global-interest-grows-in-edcharts-javascript-certification-backed-by-credly,2025-06-21
@@ -1769,3 +1759,13 @@ Google says don’t use JavaScript to generate a noindex tag in the original pag
 Google Warns Not To Use NoIndex Tags In Pages That Use JavaScript,Search Engine Roundtable,https://www.seroundtable.com/google-warns-noindex-tags-javascript-40605.html,2025-12-16
 Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads,The Hacker News,https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html,2025-12-16
 Major JavaScript Library Breach Puts All Crypto Websites at Risk,Cryptonews,https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk/,2025-12-16
+Malicious JavaScript and PowerShell Used to Compromise Enterprise Systems,The National CIO Review,https://nationalcioreview.com/articles-insights/extra-bytes/malicious-javascript-and-powershell-used-to-compromise-enterprise-systems/,2025-12-17
+Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code,Visual Studio Magazine,https://visualstudiomagazine.com/articles/2025/12/10/microsoft-tests-copilot-powered-tool-to-modernize-javascript-typescript-in-vs-code.aspx,2025-12-17
+Google Warns Noindex Can Block JavaScript From Running,Search Engine Journal,https://www.searchenginejournal.com/google-warns-noindex-can-block-javascript-from-running/563333/,2025-12-17
+GhostPoster attacks hide malicious JavaScript in Firefox addon logos,BleepingComputer,https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/,2025-12-17
+Second JavaScript Exploit in Four Months Exposes Crypto Sites to Wallet Drainers,Finance Magnates,https://www.financemagnates.com/cryptocurrency/second-javascript-exploit-in-four-months-exposes-crypto-sites-to-wallet-drainers/,2025-12-17
+The antidote to the JavaScript industrial complex: How XMLUI puts the business developer back in control,SD Times,https://sdtimes.com/softwaredev/the-antidote-to-the-javascript-industrial-complex-how-xmlui-puts-the-business-developer-back-in-control/,2025-12-17
+Google Warns: Don't Use NoIndex Tags In Pages That Use JavaScript,Search Engine Roundtable,https://www.seroundtable.com/google-warns-noindex-tags-javascript-40605.html,2025-12-17
+Google says don’t use JavaScript to generate a noindex tag in the original page code,Search Engine Land,https://searchengineland.com/google-says-dont-use-a-noindex-tag-in-the-original-page-code-466250,2025-12-17
+Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads,The Hacker News,https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html,2025-12-17
+Major JavaScript Library Breach Puts All Crypto Websites at Risk,Cryptonews,https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk/,2025-12-17
