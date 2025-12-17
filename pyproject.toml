@@ -4,7 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "autopep8==2.3.2",
-    "matplotlib==3.10.7",
+    "matplotlib==3.10.8",
     "pandas==2.3.3",
     "pylint==4.0.4",
     "selenium==4.39.0",
