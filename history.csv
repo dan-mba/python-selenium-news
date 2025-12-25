@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"TC39 Advances Nine JavaScript Proposals, Including Array.fromAsync, Error.isError, and Using",infoq.com,https://www.infoq.com/news/2025/06/tc39-stage-4-2025/,2025-06-28
-What's new in ArcGIS Maps SDK for JavaScript (4.33),Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/whats-new-in-arcgis-maps-sdk-for-javascript-4-33,2025-06-28
-The Future Of JavaScript - Stage 3 Propsals,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18130-the-future-of-javascript.html,2025-06-28
-Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments,HackerNoon,https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments,2025-06-28
-Week 5- Code Combat Quests with Python & JavaScript,Florida Today,https://www.floridatoday.com/things-to-do/events/?_evDiscoveryPath=/event/37501025a-week-5-code-combat-quests-with-python-javascript,2025-06-28
-Litecoin Computer Launches JavaScript Smart Contracts,Altcoin Buzz,https://www.altcoinbuzz.io/cryptocurrency-news/litecoin-computer-launches-javascript-smart-contracts/,2025-06-28
-Zimbra Classic Web Client Vulnerability Allows Arbitrary JavaScript Execution,GBHackers News,https://gbhackers.com/zimbra-classic-web-client-vulnerability/,2025-06-28
-Zimbra Classic Web Client Vulnerability Let Attackers Execute Arbitrary JavaScript,CyberSecurityNews,https://cybersecuritynews.com/zimbra-classic-web-client-vulnerability/,2025-06-28
-Hackers Target Over 70 Microsoft Exchange Servers to Steal Credentials via Keyloggers,The Hacker News,https://thehackernews.com/2025/06/hackers-target-65-microsoft-exchange.html,2025-06-28
-"In Australia, Apps Built with ArcGIS SDK for JavaScript Unlock Urban Insight  Summer 2025  ArcNews",Esri,https://www.esri.com/about/newsroom/arcnews/in-australia-apps-built-with-arcgis-sdk-for-javascript-unlock-urban-insight,2025-06-28
 What's new in ArcGIS Maps SDK for JavaScript (4.33),Esri,https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/whats-new-in-arcgis-maps-sdk-for-javascript-4-33,2025-06-29
 The Future Of JavaScript - Stage 3 Propsals,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18130-the-future-of-javascript.html,2025-06-29
 Offline-First JavaScript for Space Missions: How JS Thrives in Low-Connectivity Environments,HackerNoon,https://hackernoon.com/offline-first-javascript-for-space-missions-how-js-thrives-in-low-connectivity-environments,2025-06-29
@@ -1770,3 +1760,13 @@ Google Clarifies Canonical URLs for JavaScript Sites and SEO,WebProNews,https://
 Deno adds tool to run NPM and JSR binaries,InfoWorld,https://www.infoworld.com/article/4111366/deno-adds-tool-to-run-npm-and-jsr-binaries.html,2025-12-24
 The 99 Best Programming Languages to Learn in 2026,Simplilearn.com,https://www.simplilearn.com/best-programming-languages-start-learning-today-article,2025-12-24
 Google JavaScript Doc Now Says Non-200 HTTP Status Code Might Not Be Rendered,Search Engine Roundtable,https://www.seroundtable.com/google-render-non-200-code-40627.html,2025-12-24
+When Should JavaScript Devs Use the Power of WebAssembly?,The New Stack,https://thenewstack.io/when-should-javascript-devs-use-the-power-of-webassembly/,2025-12-25
+Google JavaScript Doc Now Says Non-200 HTTP Status Code Might Not Be Rendered,Search Engine Roundtable,https://www.seroundtable.com/google-render-non-200-code-40627.html,2025-12-25
+Google explains JavaScript execution on non-200 HTTP status codes,Search Engine Land,https://searchengineland.com/google-explains-javascript-execution-on-non-200-http-status-codes-466428,2025-12-25
+Google Clarifies Canonical URLs for JavaScript Sites and SEO,WebProNews,https://www.webpronews.com/google-clarifies-canonical-urls-for-javascript-sites-and-seo/,2025-12-25
+"Inside a Developer Poll on AI, JavaScript, and the Future of Coding",Hackernoon,https://hackernoon.com/inside-a-developer-poll-on-ai-javascript-and-the-future-of-coding,2025-12-25
+Deno adds tool to run NPM and JSR binaries,InfoWorld,https://www.infoworld.com/article/4111366/deno-adds-tool-to-run-npm-and-jsr-binaries.html,2025-12-25
+14 Professional Free and Paid CSS and HTML Editors,Designmodo,https://designmodo.com/css-editors/,2025-12-25
+The 99 Best Programming Languages to Learn in 2026,Simplilearn.com,https://www.simplilearn.com/best-programming-languages-start-learning-today-article,2025-12-25
+Is Frontend Development Dying? Exploring the Future,Netguru,https://www.netguru.com/blog/is-frontend-development-dying,2025-12-25
+"'Patterns.dev' - Learn design, rendering, and performance patterns for building web apps with JavaScript for free",GIGAZINE,https://gigazine.net/gsc_news/en/20251220-patterns-dev/,2025-12-25
