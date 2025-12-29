@@ -6,13 +6,13 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Sunday December 28 2025
+## Monday December 29 2025
 
 
 | Title                                                                                                            | Website              | Link                                                                                                                                                     |
 |:-----------------------------------------------------------------------------------------------------------------|:---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Trends That Defined JavaScript in 2025                                                                           | The New Stack        | https://thenewstack.io/trends-that-defined-javascript-in-2025/                                                                                           |
 | Running Modern ES2023 JavaScript Inside Go Using QJS and WebAssembly                                             | infoq.com            | https://www.infoq.com/news/2025/12/javascript-golang-wasm/                                                                                               |
+| Trends That Defined JavaScript in 2025                                                                           | The New Stack        | https://thenewstack.io/trends-that-defined-javascript-in-2025/                                                                                           |
 | 44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust                                         | Phoronix             | https://www.phoronix.com/news/GNOME-2025-Code-Stats                                                                                                      |
 | This new JavaScript engine only needs 10 kB RAM                                                                  | How-To Geek          | https://www.howtogeek.com/this-new-javascript-engine-only-needs-10-kb-ram/                                                                               |
 | JavaScript creator warns against “rushed web UX over native” as Windows 11 leans harder on WebView2 and Electron | Windows Latest       | https://www.windowslatest.com/2025/12/27/javascript-creator-warns-against-rushed-web-ux-over-native-as-windows-11-leans-harder-on-webview2-and-electron/ |
