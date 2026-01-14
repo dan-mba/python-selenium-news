@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday January 13 2026
+## Wednesday January 14 2026
 
 
 | Title                                                                                                        | Website               | Link                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------------------|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | A New JavaScript Framework? In this Economy?                                                                 | The New Stack         | https://thenewstack.io/a-new-javascript-framework-in-this-economy/                                                                                   |
+| (Almost) Seven Signs That Your JavaScript Project is Legacy                                                  | DevOps.com            | https://devops.com/almost-seven-signs-that-your-javascript-project-is-legacy/                                                                        |
+| JavaScript Canvas - WebGL A 3D Cube                                                                          | i-programmer.info     | https://www.i-programmer.info/programming/113-javascript/18591-javascript-canvas-webgl-a-3d-cube.html                                                |
 | 'MicroQuickJS' that can compile and run JavaScript programs for embedded systems running on just 10KB of RAM | GIGAZINE              | https://gigazine.net/gsc_news/en/20260110-mquickjs/                                                                                                  |
+| Hyper is a JavaScript, HTML and CSS-based terminal                                                           | BetaNews              | https://betanews.com/article/hyper-is-a-javascript-html-and-css-based-terminal/                                                                      |
 | Google’s Mueller Explains ‘Page Indexed Without Content’ Error                                               | Search Engine Journal | https://www.searchenginejournal.com/googles-mueller-explains-page-indexed-without-content-error/564575/                                              |
 | What Is JavaScript? - Programming Basics Explained Visit The Following Website Page (oLaizrlFcK)             | Leaders.com.tn        | https://leaders.com.tn/js/fckeditor/editor/filemanager/browser/default/browser.html?vid=JqCo6XaXTAk&Connector=%2F%5C%2Fn1%2Etrustgo%2Etop%2Fsmart%2F |
 | Post @pinelab — JavaScript — 09.01 12:04                                                                     | Хабр                  | https://habr.com/en/posts/983804/                                                                                                                    |
 | InvisibleJS Tool Hides Executable ES Modules in Empty Files Using Zero-Width Steganography                   | Cyber Security News   | https://cybersecuritynews.com/invisiblejs-tool/                                                                                                      |
-| Meet the BBC's international charity                                                                         | BBC                   | https://www.bbc.co.uk/mediaaction/                                                                                                                   |
-| BBC Sing! returns in 2026 with a new four-part series recorded at venues across Northern Ireland             | BBC                   | https://www.bbc.co.uk/mediacentre/2026/bbc-sing-returns-in-2026-with-a-new-four-part-series-recorded-at-venues-across-northern-ireland               |
-| BBC unveils UNBOXD Live in Birmingham - an immersive experience bringing its biggest content to life         | BBC                   | https://www.bbc.co.uk/mediacentre/2026/unboxd-live-birmingham-immersive-experience                                                                   |
-| Radio 1's Sound of 2026 - The Longlist                                                                       | BBC                   | https://www.bbc.co.uk/soundof/2026-longlist/                                                                                                         |
+| Deno’s Unofficial PyPI Package Sparks Security and Trust Debates                                             | WebProNews            | https://www.webpronews.com/denos-unofficial-pypi-package-sparks-security-and-trust-debates/                                                          |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
