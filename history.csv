@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Baptize Technology: Sometimes Grace Speaks JavaScript,Word on Fire,https://www.wordonfire.org/articles/baptize-technology-sometimes-grace-speaks-javascript/,2025-07-21
-ECMAScript 2025: The best new features in JavaScript,InfoWorld,https://www.infoworld.com/article/4021944/ecmascript-2025-the-best-new-features-in-javascript.html,2025-07-21
-"3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",The Hacker News,https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html,2025-07-21
-Threat Actors Exploit SVG Files in Stealthy JavaScript Redirects,Infosecurity Magazine,https://www.infosecurity-magazine.com/news/hackers-svg-files-javascript/,2025-07-21
-Exploiting SVG Files: Threat Actors Embedding Malicious JavaScript,Cyber Press,https://cyberpress.org/threat-actors-embedding-malicious-javascript/,2025-07-21
-Attackers Hide JavaScript in SVG Images to Lure Users to Malicious Sites,Hackread,https://hackread.com/attackers-hide-javascript-svg-images-malicious-sites/,2025-07-21
-Weaponizing SVG: How Threat Actors Embed Malicious JavaScript in Vector Files,GBHackers News,https://gbhackers.com/how-threat-actors-embed-malicious-javascript-in-vector-files/,2025-07-21
-Threat Actors Weaponizing SVG Files to Embed Malicious JavaScript,CyberSecurityNews,https://cybersecuritynews.com/threat-actors-weaponizing-svg-files/,2025-07-21
-24 Top Frontend Technologies to Use in 2025,Netguru,https://www.netguru.com/blog/front-end-technologies,2025-07-21
-The Press Democrat Events - Enriching U: Javascript Programming,La Prensa Sonoma,https://www.laprensasonoma.com/events/?_evDiscoveryPath=/event/37879703a-enriching-u-javascript-programming,2025-07-21
 Baptize Technology: Sometimes Grace Speaks JavaScript,Word on Fire,https://www.wordonfire.org/articles/baptize-technology-sometimes-grace-speaks-javascript/,2025-07-22
 ECMAScript 2025: The best new features in JavaScript,InfoWorld,https://www.infoworld.com/article/4021944/ecmascript-2025-the-best-new-features-in-javascript.html,2025-07-22
 Testing Your Knowledge Of JavaScript’s Date Class,Hackaday,https://hackaday.com/2025/07/21/testing-your-knowledge-of-javascripts-date-class/,2025-07-22
@@ -1768,3 +1758,13 @@ Microsoft-owned GitHub is acquiring JavaScript developer platform npm,BetaNews,h
 'MicroQuickJS' that can compile and run JavaScript programs for embedded systems running on just 10KB of RAM,GIGAZINE,https://gigazine.net/gsc_news/en/20260110-mquickjs/,2026-01-16
 Chrome 144 Released with Fixes for 10 Vulnerabilities in the V8 Engine,Cyber Press,https://cyberpress.org/chrome-144-released-with-fixes-for-10-vulnerabilities-in-the-v8-engine/,2026-01-16
 "Doonesbury Comic Strips by Garry Trudeau - January 12, 2026",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2026/1/12,2026-01-16
+JavaScript Canvas - WebGL A 3D Cube,i-programmer.info,https://www.i-programmer.info/programming/113-javascript/18591-javascript-canvas-webgl-a-3d-cube.html,2026-01-17
+CodeBreach: Supply Chain Vuln & AWS CodeBuild Misconfig,wiz.io,https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild,2026-01-17
+Gleam update shines on external types,InfoWorld,https://www.infoworld.com/article/4117616/gleam-update-shines-on-external-types.html,2026-01-17
+AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks,The Hacker News,https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html,2026-01-17
+Become a Modern Web Developer with These Advanced JavaScript Courses,openPR.com,https://www.openpr.com/news/4351807/become-a-modern-web-developer-with-these-advanced-javascript,2026-01-17
+Microsoft-owned GitHub is acquiring JavaScript developer platform npm,BetaNews,https://betanews.com/article/microsoft-github-acquires-npm/,2026-01-17
+'MicroQuickJS' that can compile and run JavaScript programs for embedded systems running on just 10KB of RAM,GIGAZINE,https://gigazine.net/gsc_news/en/20260110-mquickjs/,2026-01-17
+"Doonesbury Comic Strips by Garry Trudeau - January 12, 2026",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2026/1/12,2026-01-17
+InvisibleJS Tool Hides Executable ES Modules in Empty Files Using Zero-Width Steganography,Cyber Security News,https://cybersecuritynews.com/invisiblejs-tool/,2026-01-17
+Testing for prototype pollution with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/prototype-pollution,2026-01-17
