@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-"3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",The Hacker News,https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html,2025-07-26
-Testing Your Knowledge Of JavaScript’s Date Class,Hackaday,https://hackaday.com/2025/07/21/testing-your-knowledge-of-javascripts-date-class/,2025-07-26
-JavaScript MMORPG [Solo dev]- Maiu online #6 - Upcomming public alpha tests v1,GameDev.net,https://www.gamedev.net/blogs/entry/2296011-javascript-mmorpg-solo-dev-maiu-online-6-upcomming-public-alpha-tests-v1/,2025-07-26
-Widely used JavaScript libraries hit by supply chain intrusion,SC Media,https://www.scworld.com/brief/widely-used-javascript-libraries-hit-by-supply-chain-intrusion,2025-07-26
-SonicWall SMA 100 Vulnerabilities Allow Arbitrary JavaScript Code Execution,Cyber Press,https://cyberpress.org/sonicwall-sma-100-vulnerabilities-allow-arbitrary-javascript-code-execution/,2025-07-26
-Critical Vulnerability in JavaScript Library Exposes Millions of Apps to Code Execution Attacks,CyberSecurityNews,https://cybersecuritynews.com/javascript-library-vulnerability/,2025-07-26
-Critical JavaScript Library Vulnerability Exposes Apps to Remote Attacks,GBHackers News,https://gbhackers.com/critical-javascript-library-vulnerability/,2025-07-26
-Browser Detection: Ensure Cookies and JavaScript are Enabled,AInvest,https://www.ainvest.com/news/browser-detection-ensure-cookies-javascript-enabled-2507-44/,2025-07-26
-Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,PR Newswire,https://www.prnewswire.com/news-releases/dynamsoft-barcode-reader-javascript-sdk-v11-0-improves-accuracy-and-performance-with-advanced-deep-learning-and-algorithm-enhancements-302511445.html,2025-07-26
-XMLUI builds React-based UIs with simple markup,InfoWorld,https://www.infoworld.com/article/4026889/xmlui-builds-react-based-uis-with-simple-markup.html,2025-07-26
 "3,500 Websites Hijacked to Secretly Mine Crypto Using Stealth JavaScript and WebSocket Tactics",The Hacker News,https://thehackernews.com/2025/07/3500-websites-hijacked-to-secretly-mine.html,2025-07-27
 JavaScript MMORPG [Solo dev]- Maiu online #6 - Upcomming public alpha tests v1,GameDev.net,https://www.gamedev.net/blogs/entry/2296011-javascript-mmorpg-solo-dev-maiu-online-6-upcomming-public-alpha-tests-v1/,2025-07-27
 Testing Your Knowledge Of JavaScript’s Date Class,Hackaday,https://hackaday.com/2025/07/21/testing-your-knowledge-of-javascripts-date-class/,2025-07-27
@@ -1768,3 +1758,13 @@ JavaScript Testing With Jest – Crash Course [2150a4],Universidad Anáhuac,"htt
 "Developer patches Wine to make Photoshop 2021 & 2025 run on Linux — Adobe Creative Cloud installers finally work thanks to HTML, JavaScript and XML fixes",Tom's Hardware,https://www.tomshardware.com/software/linux/developer-patches-wine-to-make-photoshop-2021-and-2025-run-on-linux-adobe-creative-cloud-installers-finally-work-thanks-to-html-javascript-and-xml-fixes,2026-01-21
 CodeBreach: Supply Chain Vuln & AWS CodeBuild Misconfig,wiz.io,https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild,2026-01-21
 Chrome 144 Released to Fix High-Severity V8 JavaScript Engine Flaw,GBHackers News,https://gbhackers.com/chrome-144-released/,2026-01-21
+Why Secrets in JavaScript Bundles are Still Being Missed,The Hacker News,https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html,2026-01-22
+WebAssembly vs. JavaScript: Testing Side-by-Side Performance,The New Stack,https://thenewstack.io/webassembly-vs-javascript-testing-side-by-side-performance/,2026-01-22
+jQuery 4.0.0 JavaScript library features trusted types,InfoWorld,https://www.infoworld.com/article/4120307/jquery-4-0-0-javascript-library-features-trusted-types.html,2026-01-22
+The Next Frontier of Runtime Assembly Attacks: Leveraging LLMs to Generate Phishing JavaScript in Real Time,Unit 42,https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/,2026-01-22
+Why Developers Aren’t Really Ditching Frameworks for Vanilla JavaScript,Hackernoon,https://hackernoon.com/why-developers-arent-really-ditching-frameworks-for-vanilla-javascript,2026-01-22
+"JavaScript Video is your density, I mean, Destiny",BetaNews,https://betanews.com/series/javascript-video-is-your-density-i-mean-destiny/,2026-01-22
+"Metricool integration with Wordpress, Shopify, Joomla or Wix",Metricool,https://metricool.com/metricool-integrations/,2026-01-22
+jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-22
+"Developer patches Wine to make Photoshop 2021 & 2025 run on Linux — Adobe Creative Cloud installers finally work thanks to HTML, JavaScript and XML fixes",Tom's Hardware,https://www.tomshardware.com/software/linux/developer-patches-wine-to-make-photoshop-2021-and-2025-run-on-linux-adobe-creative-cloud-installers-finally-work-thanks-to-html-javascript-and-xml-fixes,2026-01-22
+Google Chrome 144 Update Patches High-Severity Vulnerability in V8 Engine,Cyber Press,https://cyberpress.org/google-chrome-144-update/,2026-01-22
