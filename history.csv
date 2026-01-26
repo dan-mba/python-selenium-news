@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-07-30
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-07-30
-Critical Vulnerability in JavaScript Library Exposes Millions of Apps to Code Execution Attacks,CyberSecurityNews,https://cybersecuritynews.com/javascript-library-vulnerability/,2025-07-30
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-07-30
-SonicWall SMA 100 Vulnerabilities Allow Arbitrary JavaScript Code Execution,Cyber Press,https://cyberpress.org/sonicwall-sma-100-vulnerabilities-allow-arbitrary-javascript-code-execution/,2025-07-30
-Dynamsoft Barcode Reader JavaScript SDK v11.0 Improves Accuracy and Performance with Advanced Deep Learning and Algorithm Enhancements,Yahoo Finance,https://finance.yahoo.com/news/dynamsoft-barcode-reader-javascript-sdk-140000664.html,2025-07-30
-SonicWall SMA 100 Vulnerabilities Allow Remote Execution of Arbitrary JavaScript,GBHackers News,https://gbhackers.com/sonicwall-sma-100-vulnerabilities/,2025-07-30
-Supply Chain Attack: Millions of Projects at Risk Due to JavaScript Library Hack,Red Hot Cyber,https://www.redhotcyber.com/en/post/supply-chain-attack-millions-of-projects-at-risk-due-to-javascript-library-hack/,2025-07-30
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",StartupNews.fyi,https://startupnews.fyi/2025/07/29/html-first-framework-second-is-javascript-finally-growing-up/,2025-07-30
-Supply chain attack compromises npm packages to spread backdoor malware,CSO Online,https://www.csoonline.com/article/4028412/supply-chain-attack-compromises-npm-packages-to-spread-backdoor-malware.html,2025-07-30
 Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-07-31
 "HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-07-31
 JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-07-31
@@ -1768,3 +1758,13 @@ How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,htt
 "Metricool integration with Wordpress, Shopify, Joomla or Wix",Metricool,https://metricool.com/metricool-integrations/,2026-01-25
 jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-25
 New Magecart Attack Inject Malicious JavaScript to Skim Payment Data,Cyber Security News,https://cybersecuritynews.com/new-magecart-attack-inject-malicious-javascript/,2026-01-25
+The Next Frontier of Runtime Assembly Attacks: Leveraging LLMs to Generate Phishing JavaScript in Real Time,Unit 42,https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/,2026-01-26
+Why Secrets in JavaScript Bundles are Still Being Missed,The Hacker News,https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html,2026-01-26
+WebAssembly vs. JavaScript: Testing Side-by-Side Performance,The New Stack,https://thenewstack.io/webassembly-vs-javascript-testing-side-by-side-performance/,2026-01-26
+jQuery 4.0.0 JavaScript library features trusted types,InfoWorld,https://www.infoworld.com/article/4120307/jquery-4-0-0-javascript-library-features-trusted-types.html,2026-01-26
+How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,https://hackernoon.com/how-to-build-an-ai-generated-calculator-without-custom-javascript,2026-01-26
+"JavaScript Video is your density, I mean, Destiny",BetaNews,https://betanews.com/series/javascript-video-is-your-density-i-mean-destiny/,2026-01-26
+"Distributed apps platform Aspire supports JavaScript, Python",The New Stack,https://thenewstack.io/distributed-apps-platform-aspire-supports-javascript-python/,2026-01-26
+"Metricool integration with Wordpress, Shopify, Joomla or Wix",Metricool,https://metricool.com/metricool-integrations/,2026-01-26
+jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-26
+New Magecart Attack Inject Malicious JavaScript to Skim Payment Data,CybersecurityNews,https://cybersecuritynews.com/new-magecart-attack-inject-malicious-javascript/,2026-01-26
