@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-07-31
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-07-31
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-07-31
-Supply Chain Attack: Millions of Projects at Risk Due to JavaScript Library Hack,Red Hot Cyber,https://www.redhotcyber.com/en/post/supply-chain-attack-millions-of-projects-at-risk-due-to-javascript-library-hack/,2025-07-31
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",StartupNews.fyi,https://startupnews.fyi/2025/07/29/html-first-framework-second-is-javascript-finally-growing-up/,2025-07-31
-Popular JavaScript package is: Malware through supply chain attack,heise online,https://www.heise.de/en/news/Popular-JavaScript-package-is-Malware-through-supply-chain-attack-10499964.html,2025-07-31
-Supply chain attack compromises npm packages to spread backdoor malware,CSO Online,https://www.csoonline.com/article/4028412/supply-chain-attack-compromises-npm-packages-to-spread-backdoor-malware.html,2025-07-31
-TypeScript 5.9 Adds Expandable Hovers,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18218-typescript-59-adds-expandable-hovers.html,2025-07-31
-Tired of JavaScript Framework Complexity? Meet Still.js,The New Stack,https://thenewstack.io/tired-of-javascript-framework-complexity-meet-still-js/,2025-07-31
-Yarn vs NPM: Which Package Manager Wins in 2025 for Node.js?,Vocal,https://vocal.media/education/yarn-vs-npm-which-package-manager-wins-in-2025-for-node-js-9a2kn0dhm,2025-07-31
 Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-08-01
 "HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-08-01
 Fun and profit with ECMAScript 2025: What’s new in JavaScript,InfoWorld,https://www.infoworld.com/article/4031581/fun-and-profit-with-ecmascript-2025-whats-new-in-javascript.html,2025-08-01
@@ -1768,3 +1758,13 @@ How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,htt
 "Metricool integration with Wordpress, Shopify, Joomla or Wix",Metricool,https://metricool.com/metricool-integrations/,2026-01-26
 jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-26
 New Magecart Attack Inject Malicious JavaScript to Skim Payment Data,CybersecurityNews,https://cybersecuritynews.com/new-magecart-attack-inject-malicious-javascript/,2026-01-26
+The Next Frontier of Runtime Assembly Attacks: Leveraging LLMs to Generate Phishing JavaScript in Real Time,Unit 42,https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/,2026-01-27
+WebAssembly vs. JavaScript: Testing Side-by-Side Performance,The New Stack,https://thenewstack.io/webassembly-vs-javascript-testing-side-by-side-performance/,2026-01-27
+China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023,The Hacker News,https://thehackernews.com/2026/01/china-linked-hackers-have-used.html,2026-01-27
+jQuery 4.0.0 JavaScript library features trusted types,InfoWorld,https://www.infoworld.com/article/4120307/jquery-4-0-0-javascript-library-features-trusted-types.html,2026-01-27
+JavaScript and Core Web Vitals: How to Optimize Performance for Search Engines,ElectroIQ,https://electroiq.com/news/javascript-and-core-web-vitals-to-optimize-performance/,2026-01-27
+How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,https://hackernoon.com/how-to-build-an-ai-generated-calculator-without-custom-javascript,2026-01-27
+"JavaScript Video is your density, I mean, Destiny",BetaNews,https://betanews.com/series/javascript-video-is-your-density-i-mean-destiny/,2026-01-27
+"Distributed apps platform Aspire supports JavaScript, Python",The New Stack,https://thenewstack.io/distributed-apps-platform-aspire-supports-javascript-python/,2026-01-27
+jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-27
+New Magecart Attack Inject Malicious JavaScript to Skim Payment Data,CybersecurityNews,https://cybersecuritynews.com/new-magecart-attack-inject-malicious-javascript/,2026-01-27
