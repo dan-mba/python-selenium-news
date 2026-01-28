@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-08-01
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-08-01
-Fun and profit with ECMAScript 2025: What’s new in JavaScript,InfoWorld,https://www.infoworld.com/article/4031581/fun-and-profit-with-ecmascript-2025-whats-new-in-javascript.html,2025-08-01
-JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-08-01
-Tired of JavaScript Framework Complexity? Meet Still.js,The New Stack,https://thenewstack.io/tired-of-javascript-framework-complexity-meet-still-js/,2025-08-01
-TypeScript 5.9 Adds Expandable Hovers,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18218-typescript-59-adds-expandable-hovers.html,2025-08-01
-Sealed Chain of Deception: Actors leveraging Node.JS to Launch JSCeal,Check Point Software,https://research.checkpoint.com/2025/jsceal-targets-crypto-apps/,2025-08-01
-New JSCEAL Attack Targeting Crypto App Users To Steal Credentials and Wallets,CyberSecurityNews,https://cybersecuritynews.com/new-jsceal-attack-targeting-crypto-app-users/,2025-08-01
-Richest QVC Hosts Ranked – See the Net Worth of the Most Popular TV Personalities,Just Jared,https://www.justjared.com/2025/07/30/richest-qvc-hosts-ranked-see-the-net-worth-of-the-most-popular-tv-personalities/3/,2025-08-01
-Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps,The Hacker News,https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html,2025-08-01
 Why React Didn't Kill XSS: The New JavaScript Injection Playbook,The Hacker News,https://thehackernews.com/2025/07/why-react-didnt-kill-xss-new-javascript.html,2025-08-02
 "HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-08-02
 Fun and profit with ECMAScript 2025: What’s new in JavaScript,InfoWorld,https://www.infoworld.com/article/4031581/fun-and-profit-with-ecmascript-2025-whats-new-in-javascript.html,2025-08-02
@@ -1768,3 +1758,13 @@ How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,htt
 "Distributed apps platform Aspire supports JavaScript, Python",The New Stack,https://thenewstack.io/distributed-apps-platform-aspire-supports-javascript-python/,2026-01-27
 jQuery 4 Released,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18607-jquery-4-released.html,2026-01-27
 New Magecart Attack Inject Malicious JavaScript to Skim Payment Data,CybersecurityNews,https://cybersecuritynews.com/new-magecart-attack-inject-malicious-javascript/,2026-01-27
+The Next Frontier of Runtime Assembly Attacks: Leveraging LLMs to Generate Phishing JavaScript in Real Time,Unit 42,https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/,2026-01-28
+China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023,The Hacker News,https://thehackernews.com/2026/01/china-linked-hackers-have-used.html,2026-01-28
+"Distributed apps platform Aspire supports JavaScript, Python",The New Stack,https://thenewstack.io/distributed-apps-platform-aspire-supports-javascript-python/,2026-01-28
+Six JavaScript zero-day bugs lead to fears of supply chain attack,SC Media,https://www.scmagazine.com/news/six-javascript-zero-day-bugs-lead-to-fears-of-supply-chain-attack,2026-01-28
+‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks,SecurityWeek,https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/,2026-01-28
+jQuery 4.0.0 JavaScript library features trusted types,InfoWorld,https://www.infoworld.com/article/4120307/jquery-4-0-0-javascript-library-features-trusted-types.html,2026-01-28
+RenderATL 2026 to Host OpenJS Summit: Spotlighting the Future of JavaScript,PR Newswire,https://www.prnewswire.com/news-releases/renderatl-2026-to-host-openjs-summit-spotlighting-the-future-of-javascript-302671342.html,2026-01-28
+JavaScript and Core Web Vitals: How to Optimize Performance for Search Engines,ElectroIQ,https://electroiq.com/news/javascript-and-core-web-vitals-to-optimize-performance/,2026-01-28
+Hackers are using LLMs to generate malicious JavaScript in real time – and they’re going after web browsers,IT Pro,https://www.itpro.com/security/hackers-are-using-llms-to-generate-malicious-javascript-in-real-time-and-theyre-going-after-web-browsers,2026-01-28
+How to Build an AI Generated Calculator Without Custom JavaScript,HackerNoon,https://hackernoon.com/how-to-build-an-ai-generated-calculator-without-custom-javascript,2026-01-28
