@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Tired of JavaScript Framework Complexity? Meet Still.js,The New Stack,https://thenewstack.io/tired-of-javascript-framework-complexity-meet-still-js/,2025-08-05
-Fun and profit with ECMAScript 2025: What’s new in JavaScript,InfoWorld,https://www.infoworld.com/article/4031581/fun-and-profit-with-ecmascript-2025-whats-new-in-javascript.html,2025-08-05
-Chrome Trial Aims To Fix Core Web Vitals For JavaScript-Heavy Sites,Search Engine Journal,https://www.searchenginejournal.com/chrome-trial-aims-to-fix-core-web-vitals-for-javascript-heavy-sites/552762/,2025-08-05
-JavaScript: The Toyota Corolla of Enduring Web Development,WebProNews,https://www.webpronews.com/javascript-the-toyota-corolla-of-enduring-web-development/,2025-08-05
-Chollima APT Group Targets Job Seekers and Organizations with JavaScript-Based Malware,GBHackers News,https://gbhackers.com/chollima-apt-group-targets-job-seekers-and-organizations/,2025-08-05
-10 Best JavaScript Frameworks for Building AI Systems (August 2025),Unite.AI,https://www.unite.ai/best-javascript-frameworks-for-building-ai-systems/,2025-08-05
-Famous Chollima APT Hackers Attacking Job Seekers and Organization to Deploy JavaScript Based Malware,CyberSecurityNews,https://cybersecuritynews.com/famous-chollima-apt-hackers-attacking-job-seekers/,2025-08-05
-"HTML-First, Framework-Second: Is JavaScript Finally Growing Up?",The New Stack,https://thenewstack.io/html-first-framework-second-is-javascript-finally-growing-up/,2025-08-05
-Warning: Browser may be flagged as bot due to suspicious activity or disabled cookies and JavaScript,AInvest,https://www.ainvest.com/news/warning-browser-flagged-bot-due-suspicious-activity-disabled-cookies-javascript-2507-56/,2025-08-05
-Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps,The Hacker News,https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html,2025-08-05
 Tired of JavaScript Framework Complexity? Meet Still.js,The New Stack,https://thenewstack.io/tired-of-javascript-framework-complexity-meet-still-js/,2025-08-06
 Fun and profit with ECMAScript 2025: What’s new in JavaScript,InfoWorld,https://www.infoworld.com/article/4031581/fun-and-profit-with-ecmascript-2025-whats-new-in-javascript.html,2025-08-06
 Chrome Trial Aims To Fix Core Web Vitals For JavaScript-Heavy Sites,Search Engine Journal,https://www.searchenginejournal.com/chrome-trial-aims-to-fix-core-web-vitals-for-javascript-heavy-sites/552762/,2025-08-06
@@ -1768,3 +1758,13 @@ Six JavaScript zero-day bugs lead to fears of supply chain attack,SC Media,https
 Hackers are using LLMs to generate malicious JavaScript in real time – and they’re going after web browsers,IT Pro,https://www.itpro.com/security/hackers-are-using-llms-to-generate-malicious-javascript-in-real-time-and-theyre-going-after-web-browsers,2026-01-31
 RenderATL 2026 to Host OpenJS Summit: Spotlighting the Future of JavaScript,PR Newswire,https://www.prnewswire.com/news-releases/renderatl-2026-to-host-openjs-summit-spotlighting-the-future-of-javascript-302671342.html,2026-01-31
 ZAP JavaScript Engine Memory Leak Issue Impacts Active Scan Usage,CybersecurityNews,https://cybersecuritynews.com/zap-memory-leak-issue/,2026-01-31
+Are you ready for JavaScript in 2026?,InfoWorld,https://www.infoworld.com/article/4123802/are-you-ready-for-javascript-in-2026.html,2026-02-01
+China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023,The Hacker News,https://thehackernews.com/2026/01/china-linked-hackers-have-used.html,2026-02-01
+JavaScript Security Vulnerabilities  Top Risks,Aikido Security,https://www.aikido.dev/blog/javascript-security-vulnerabilities,2026-02-01
+Six JavaScript zero-day bugs lead to fears of supply chain attack,SC Media,https://www.scmagazine.com/news/six-javascript-zero-day-bugs-lead-to-fears-of-supply-chain-attack,2026-02-01
+‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks,SecurityWeek,https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/,2026-02-01
+"CodeQL 2.24.0 adds Swift 6.2 and .NET 10 support, and improves file handling for minified JavaScript",The GitHub Blog,https://github.blog/changelog/2026-01-29-codeql-2-24-0-adds-swift-6-2-support-net-10-compatibility-and-file-handling-for-minified-javascript/,2026-02-01
+Hackers are using LLMs to generate malicious JavaScript in real time – and they’re going after web browsers,IT Pro,https://www.itpro.com/security/hackers-are-using-llms-to-generate-malicious-javascript-in-real-time-and-theyre-going-after-web-browsers,2026-02-01
+RenderATL 2026 to Host OpenJS Summit: Spotlighting the Future of JavaScript,PR Newswire,https://www.prnewswire.com/news-releases/renderatl-2026-to-host-openjs-summit-spotlighting-the-future-of-javascript-302671342.html,2026-02-01
+ZAP JavaScript Engine Memory Leak Issue Impacts Active Scan Usage,CybersecurityNews,https://cybersecuritynews.com/zap-memory-leak-issue/,2026-02-01
+Unplugged holes in the npm and yarn package managers could let attackers bypass defenses against Shai-Hulud,CSO Online,https://www.csoonline.com/article/4122436/unplugged-holes-in-the-npm-and-yarn-package-managers-could-let-attackers-bypass-defenses-against-shai-hulud-2.html,2026-02-01
