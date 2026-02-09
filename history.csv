@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-JavaScript Standards Update: What’s New in ECMAScript 2025,The New Stack,https://thenewstack.io/javascript-standards-update-whats-new-in-ecmascript-2025/,2025-08-13
-Bot Detection Interruption: Enable Cookies and JavaScript to Access Website,AInvest,https://www.ainvest.com/news/bot-detection-interruption-enable-cookies-javascript-access-website-2508/,2025-08-13
-Sencha Announces JS Days 2025 -- The Ultimate Virtual JavaScript Conference,PR Newswire,https://www.prnewswire.com/news-releases/sencha-announces-js-days-2025--the-ultimate-virtual-javascript-conference-302524483.html,2025-08-13
-Stealth in Vector – How Hackers Use SVG Files to Inject JavaScript Malware into Windows Systems,Cyber Press,https://cyberpress.org/svg-malware/,2025-08-13
-Hackers Exploit SVG Files with Embedded JavaScript to Deploy Malware on Windows Systems,GBHackers News,https://gbhackers.com/hackers-exploit-svg-files-with-embedded-javascript/,2025-08-13
-Hackers Weaponizing SVG Files With Malicious Embedded JavaScript to Execute Malware on Windows Systems,CyberSecurityNews,https://cybersecuritynews.com/hackers-weaponizing-svg-files-with-malicious-embedded-javascript/,2025-08-13
-Testing for prototype pollution with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/prototype-pollution,2025-08-13
-Alex Kingston is the third celebrity contestant announced for Strictly Come Dancing 2025,BBC,https://www.bbc.co.uk/mediacentre/2025/strictly-come-dancing-alex-kingston/,2025-08-13
-Win big money on the SPIN Cash Machine,SPIN1038,https://www.spin1038.com/win/win-big-money-on-the-spin-cash-machine-1440250,2025-08-13
-Testing for DOM XSS with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/input-validation/xss/dom-xss,2025-08-13
 JavaScript Standards Update: What’s New in ECMAScript 2025,The New Stack,https://thenewstack.io/javascript-standards-update-whats-new-in-ecmascript-2025/,2025-08-14
 JavaScript Tutorial: Learn JavaScript from Scratch,Simplilearn.com,https://www.simplilearn.com/tutorials/javascript-tutorial,2025-08-14
 Sencha Announces JS Days 2025 -- The Ultimate Virtual JavaScript Conference,PR Newswire,https://www.prnewswire.com/news-releases/sencha-announces-js-days-2025--the-ultimate-virtual-javascript-conference-302524483.html,2025-08-14
@@ -1764,3 +1754,13 @@ Running DOOM And Super Mario 64 Inside A PDF File,Hackaday,https://hackaday.com/
 Deno Sandbox launched for running AI-generated code,InfoWorld,https://www.infoworld.com/article/4127684/deno-sandbox-launched-for-running-ai-generated-code.html,2026-02-08
 Deno Deploy is generally available,heise online,https://www.heise.de/en/news/Deno-Deploy-is-generally-available-11166032.html,2026-02-08
 Navidrome 0.60 Music Server & Streamer Unleashes WebAssembly Plugin System,Linuxiac,https://linuxiac.com/navidrome-0-60-music-server-and-streamer-released/,2026-02-08
+Beyond NPM: What you need to know about JSR,InfoWorld,https://www.infoworld.com/article/4124615/beyond-npm-what-you-need-to-know-about-jsr.html,2026-02-09
+Building a Live HTML Page Generator Using Pure JavaScript,HackerNoon,https://hackernoon.com/building-a-live-html-page-generator-using-pure-javascript,2026-02-09
+This dev made a Llama with three inference engines,The Register,https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/,2026-02-09
+"Doonesbury Comic Strips by Garry Trudeau - February 05, 2026",The Washington Post,https://www.washingtonpost.com/doonesbury/strip/archive/2026/2/5,2026-02-09
+Foxit PDF Editor Vulnerabilities Let Attackers Execute Arbitrary JavaScript,CybersecurityNews,https://cybersecuritynews.com/foxit-pdf-editor-vulnerabilities/,2026-02-09
+"Most Expensive Super Bowl Commercials Ever, Ranked From Lowest to Highest Cost",Just Jared,https://www.justjared.com/2026/02/04/most-expensive-super-bowl-commercials-ever-ranked-from-lowest-to-highest-cost/2/,2026-02-09
+Testing for prototype pollution with DOM Invader,PortSwigger,https://portswigger.net/burp/documentation/desktop/testing-workflow/vulnerabilities/input-validation/prototype-pollution,2026-02-09
+Deno Sandbox launched for running AI-generated code,InfoWorld,https://www.infoworld.com/article/4127684/deno-sandbox-launched-for-running-ai-generated-code.html,2026-02-09
+Deno Deploy is generally available,heise online,https://www.heise.de/en/news/Deno-Deploy-is-generally-available-11166032.html,2026-02-09
+Navidrome 0.60 Music Server & Streamer Unleashes WebAssembly Plugin System,Linuxiac,https://linuxiac.com/navidrome-0-60-music-server-and-streamer-released/,2026-02-09
