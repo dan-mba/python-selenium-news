@@ -6,21 +6,21 @@ The articles are then parsed and output to a markdown file using [Pandas](https:
 
 A GitHub action schedules the scraping to run every day and update the README.md file.
 
-## Tuesday February 10 2026
+## Wednesday February 11 2026
 
 
-| Title                                                                       | Website             | Link                                                                                                                     |
-|:----------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Beyond NPM: What you need to know about JSR                                 | InfoWorld           | https://www.infoworld.com/article/4124615/beyond-npm-what-you-need-to-know-about-jsr.html                                |
-| This dev made a Llama with three inference engines                          | The Register        | https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/                                  |
-| Building a Live HTML Page Generator Using Pure JavaScript                   | HackerNoon          | https://hackernoon.com/building-a-live-html-page-generator-using-pure-javascript                                         |
-| Foxit PDF Editor Vulnerabilities Let Attackers Execute Arbitrary JavaScript | CybersecurityNews   | https://cybersecuritynews.com/foxit-pdf-editor-vulnerabilities/                                                          |
-| JavaScript: webpack is unpopular – but most used                            | heise online        | https://www.heise.de/en/news/JavaScript-webpack-is-unpopular-but-most-used-11171168.html                                 |
-| Doonesbury Comic Strips by Garry Trudeau - February 05, 2026                | The Washington Post | https://www.washingtonpost.com/doonesbury/strip/archive/2026/2/5                                                         |
-| Testing for prototype pollution with DOM Invader                            | PortSwigger         | https://portswigger.net/burp/documentation/desktop/testing-workflow/vulnerabilities/input-validation/prototype-pollution |
-| Deno Sandbox launched for running AI-generated code                         | InfoWorld           | https://www.infoworld.com/article/4127684/deno-sandbox-launched-for-running-ai-generated-code.html                       |
-| How AI Caught APT41 Exploiting Vulnerabilities                              | Darktrace           | https://www.darktrace.com/blog/catching-apt41-exploiting-a-zero-day-vulnerability                                        |
-| Navidrome 0.60 Music Server & Streamer Unleashes WebAssembly Plugin System  | Linuxiac            | https://linuxiac.com/navidrome-0-60-music-server-and-streamer-released/                                                  |
+| Title                                                                                                       | Website             | Link                                                                                                                                                          |
+|:------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| JavaScript survey reveals gripes against date handling, Webpack and Next.js - and that 'TypeScript has won' | DevClass            | https://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262 |
+| Beyond NPM: What you need to know about JSR                                                                 | InfoWorld           | https://www.infoworld.com/article/4124615/beyond-npm-what-you-need-to-know-about-jsr.html                                                                     |
+| This dev made a Llama with three inference engines                                                          | The Register        | https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/                                                                       |
+| ESLint 10.0: New features for JavaScript code analysis in major release                                     | heise online        | https://www.heise.de/en/news/ESLint-10-0-New-features-for-JavaScript-code-analysis-in-major-release-11172839.html                                             |
+| Doonesbury Comic Strips by Garry Trudeau - February 11, 2026                                                | The Washington Post | https://www.washingtonpost.com/doonesbury/                                                                                                                    |
+| Most Expensive Super Bowl Commercials Ever, Ranked From Lowest to Highest Cost                              | Just Jared          | https://www.justjared.com/2026/02/04/most-expensive-super-bowl-commercials-ever-ranked-from-lowest-to-highest-cost/2/                                         |
+| Testing for prototype pollution with DOM Invader                                                            | PortSwigger         | https://portswigger.net/burp/documentation/desktop/testing-workflow/vulnerabilities/input-validation/prototype-pollution                                      |
+| Deno Sandbox launched for running AI-generated code                                                         | InfoWorld           | https://www.infoworld.com/article/4127684/deno-sandbox-launched-for-running-ai-generated-code.html                                                            |
+| JavaScript: webpack is unpopular – but most used                                                            | heise online        | https://www.heise.de/en/news/JavaScript-webpack-is-unpopular-but-most-used-11171168.html                                                                      |
+| The Impact of the BBC - Science and Nature                                                                  | BBC                 | https://www.bbc.co.uk/mediacentre/articles/2026/impact-of-the-bbc-science-and-nature                                                                          |
 ## Top Sites for Past 7 Days
 
 ![Graph of Top Sites](https://raw.githubusercontent.com/dan-mba/python-selenium-news/main/last-week.png)
