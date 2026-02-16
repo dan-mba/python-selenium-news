@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Oxlint v1.0 Stable Released: A Rust Based JavaScript Linter,infoq.com,https://www.infoq.com/news/2025/08/oxlint-v1-released/,2025-08-20
-Potential Bot Detection: Enable Cookies and JavaScript,AInvest,https://www.ainvest.com/news/potential-bot-detection-enable-cookies-javascript-2508/,2025-08-20
-Javascript files loaded with RATs hits thousands of victims,MSN,https://www.msn.com/en-us/news/technology/javascript-files-loaded-with-rats-hits-thousands-of-victims/ar-AA1vcKUJ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1,2025-08-20
-CodeQL expands Kotlin support and additional accuracy improvements,The GitHub Blog,https://github.blog/changelog/2025-08-14-codeql-expands-kotlin-support-and-additional-accuracy-improvements/,2025-08-20
-Google Patches High-Severity Chrome Vulnerability Allowing Code Execution,Cyber Press,https://cyberpress.org/google-patches-high-severity-chrome-vulnerability-allowing-code-execution/,2025-08-20
-The Ultimate Guide to Web Scraping with Playwright and Python,Vocal,https://vocal.media/01/the-ultimate-guide-to-web-scraping-with-playwright-and-python,2025-08-20
-Beware of Browser Bots: Ensure Cookies and JavaScript Are Enabled,AInvest,https://www.ainvest.com/news/beware-browser-bots-ensure-cookies-javascript-enabled-2508/,2025-08-20
-"Do you click on every erotic image online? Well, you may just be spreading malware like an infectious disease",TechRadar,https://www.techradar.com/pro/security/watch-where-you-click-adult-sites-are-hiding-clickjacking-malware-in-images-and-all-for-facebook-likes,2025-08-20
-"AMC Renews 6 TV Shows in 2025, Announces 1 Is Ending & Cancels 2 for 2024-2025",Just Jared,https://www.justjared.com/2025/08/14/amc-renews-6-tv-shows-in-2025-announces-1-is-ending-cancels-2-for-2024-2025/5/,2025-08-20
-Latest React Router Release Improves Middleware API,The New Stack,https://thenewstack.io/latest-react-router-release-improves-middleware-api/,2025-08-20
 Oxlint v1.0 Stable Released: A Rust Based JavaScript Linter,infoq.com,https://www.infoq.com/news/2025/08/oxlint-v1-released/,2025-08-21
 What Debugging JavaScript on WebAssembly Looks Like,The New Stack,https://thenewstack.io/what-debugging-javascript-on-webassembly-looks-like/,2025-08-21
 Potential Bot Detection: Enable Cookies and JavaScript,AInvest,https://www.ainvest.com/news/potential-bot-detection-enable-cookies-javascript-2508/,2025-08-21
@@ -1764,3 +1754,13 @@ The Stable State of JavaScript 2025,i-programmer.info,https://www.i-programmer.i
 Senior Full-Stack Software Engineer (JavaScript),eFinancialCareers,https://www.efinancialcareers.com/jobs-USA-MA-Cambridge-Senior_Full-Stack_Software_Engineer_JavaScript.id23751661,2026-02-15
 TypeScript 6.0 beta lays the foundation for shifting the codebase from JavaScript to Go,SD Times,https://sdtimes.com/softwaredev/typescript-6-0-beta-lays-the-foundation-for-shifting-the-codebase-from-javascript-to-go/,2026-02-15
 This dev made a Llama with three inference engines,The Register,https://www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/,2026-02-15
+Last JavaScript-based TypeScript arrives in beta,InfoWorld,https://www.infoworld.com/article/4131798/last-javascript-based-typescript-arrives-in-beta.html,2026-02-16
+How to Optimize Recent “Good Morning Saturday” Images for the Web,SitePoint,https://www.sitepoint.com/community/t/how-to-optimize-recent-good-morning-saturday-images-for-the-web/486530,2026-02-16
+"JavaScript survey reveals gripes against date handling, Webpack and Next.js - and that 'TypeScript has won'",DevClass,https://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262,2026-02-16
+"TypeScript 6.0 beta announced, its last JavaScript-based release",Techzine Global,https://www.techzine.eu/news/devops/138778/typescript-6-0-beta-announced-its-last-javascript-based-release/,2026-02-16
+"Arcjet reaches v1.0, promises stable security for JavaScript apps",The New Stack,https://thenewstack.io/arcjet-reaches-v10-promises-stable-security-for-javascript-apps/,2026-02-16
+"Arcjet Launches v1.0 of its JavaScript SDK, Establishing Stability as a Core Developer Feature",Yahoo Finance,https://finance.yahoo.com/news/arcjet-launches-v1-0-javascript-143000688.html,2026-02-16
+The Stable State of JavaScript 2025,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18655-state-of-javascript-2025.html,2026-02-16
+Senior Full-Stack Software Engineer (JavaScript),eFinancialCareers,https://www.efinancialcareers.com/jobs-USA-MA-Cambridge-Senior_Full-Stack_Software_Engineer_JavaScript.id23751661,2026-02-16
+Google Warns About Serving 'Not Available' With JavaScript Before Content Loads,Search Engine Roundtable,https://www.seroundtable.com/google-javascript-not-available-40931.html,2026-02-16
+Arcjet release v1 of its SDK for enabling security capabilities in JavaScript apps,SD Times,https://sdtimes.com/security/arcjet-release-v1-of-its-sdk-for-enabling-security-capabilities-in-javascript-apps/,2026-02-16
