@@ -1,14 +1,4 @@
 Title,Website,Link,Date
-Oxlint v1.0 Stable Released: a Rust-Based JavaScript Linter,infoq.com,https://www.infoq.com/news/2025/08/oxlint-v1-released/,2025-08-24
-What Debugging JavaScript on WebAssembly Looks Like,The New Stack,https://thenewstack.io/what-debugging-javascript-on-webassembly-looks-like/,2025-08-24
-Popular JavaScript Library With 14M Weekly Downloads Lets Attackers Alter Hashes,Cyber Press,https://cyberpress.org/popular-javascript-library/,2025-08-24
-14 Million-Download SHA JavaScript Library Exposes Users to Hash Manipulation Attacks,GBHackers News,https://gbhackers.com/14-million-download-sha-javascript-library-exposes/,2025-08-24
-Potential Bot Detection: Enable Cookies and JavaScript,AInvest,https://www.ainvest.com/news/potential-bot-detection-enable-cookies-javascript-2508/,2025-08-24
-Javascript files loaded with RATs hits thousands of victims,MSN,https://www.msn.com/en-us/news/technology/javascript-files-loaded-with-rats-hits-thousands-of-victims/ar-AA1vcKUJ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1,2025-08-24
-Node.js Adds Default Type Stripping,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18264-nodejs-adds-default-type-stripping.html,2025-08-24
-Election Results,Denver7,https://www.denver7.com/election-results,2025-08-24
-Kid and Family TV Shows in 2025: New Series & Season Premiere Dates (Updating),Billboard,https://www.billboard.com/lists/kids-family-tv-shows-premiere-dates-2025-calendar/,2025-08-24
-BBC Radio Ulster marks Van Morrison’s 80th birthday with an 'Astral Weekend' of programmes,BBC,https://www.bbc.co.uk/mediacentre/2025/bbc-radio-ulster-marks-van-morrisons-80th-birthday-with-an-astral-weekend,2025-08-24
 Oxlint v1.0 Stable Released: a Rust-Based JavaScript Linter,infoq.com,https://www.infoq.com/news/2025/08/oxlint-v1-released/,2025-08-25
 What Debugging JavaScript on WebAssembly Looks Like,The New Stack,https://thenewstack.io/what-debugging-javascript-on-webassembly-looks-like/,2025-08-25
 14 Million-Download SHA JavaScript Library Exposes Users to Hash Manipulation Attacks,GBHackers News,https://gbhackers.com/14-million-download-sha-javascript-library-exposes/,2025-08-25
@@ -1764,3 +1754,13 @@ TypeScript 6.0 beta lays the foundation for shifting the codebase from JavaScrip
 Build a Real-Time Markdown Previewer with Vanilla JavaScript: A Step-by-Step Project Guide,SitePoint,https://www.sitepoint.com/build-real-time-markdown-previewer-vanilla-javascript/,2026-02-19
 North Korean job scammers target JavaScript and Python developers with fake interview tasks spreading malware,TechRadar,https://www.techradar.com/pro/security/north-korean-job-scammers-target-javascript-and-python-developers-with-fake-interview-tasks-spreading-malware,2026-02-19
 Deno Introduces Sandbox And Deploy Tool,i-programmer.info,https://www.i-programmer.info/news/167-javascript/18669-deno-introduces-sandbox-and-deploy-tool.html,2026-02-19
+Chrome 144 Ships Temporal API: Advancing JavaScript Date/Time Standardisation,infoq.com,https://www.infoq.com/news/2026/02/chrome-temporal-date-api/,2026-02-20
+"TypeScript 6.0 beta announced, its last JavaScript-based release",Techzine Global,https://www.techzine.eu/news/devops/138778/typescript-6-0-beta-announced-its-last-javascript-based-release/,2026-02-20
+Google Warns Not To Serve 'Not Available' With JavaScript,Search Engine Roundtable,https://www.seroundtable.com/google-javascript-not-available-40931.html,2026-02-20
+"Arcjet reaches v1.0, promises stable security for JavaScript apps",The New Stack,https://thenewstack.io/arcjet-reaches-v10-promises-stable-security-for-javascript-apps/,2026-02-20
+What 5 Million Apps Revealed About Secrets in JavaScript,BleepingComputer,https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/,2026-02-20
+HTMX and Signals: Modern Frontend Without JavaScript Frameworks,SitePoint,https://www.sitepoint.com/htmx-signals-modern-frontend-without-javascript/,2026-02-20
+North Korean job scammers target JavaScript and Python developers with fake interview tasks spreading malware,TechRadar,https://www.techradar.com/pro/security/north-korean-job-scammers-target-javascript-and-python-developers-with-fake-interview-tasks-spreading-malware,2026-02-20
+"WinterTC: Write once, run anywhere (for real this time)",InfoWorld,https://www.infoworld.com/article/4133640/wintertc-write-once-run-anywhere-for-real-this-time.html,2026-02-20
+Deno Introduces Sandbox And Deploy Tool,i-programmer.info,http://www.i-programmer.info/news/167-javascript/18669-deno-introduces-sandbox-and-deploy-tool.html,2026-02-20
+"WebTorrent: torrents in your browser. No plugins, pure JavaScript",Хабр,https://habr.com/en/articles/990284/,2026-02-20
