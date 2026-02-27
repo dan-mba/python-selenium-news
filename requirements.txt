@@ -2,5 +2,5 @@ pandas==3.0.1
 matplotlib==3.10.8
 selenium==4.41.0
 tabulate==0.9.0
-pylint==4.0.4
+pylint==4.0.5
 autopep8==2.3.2
