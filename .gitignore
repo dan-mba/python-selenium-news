@@ -136,3 +136,5 @@ bin/
 
 # Temp News Markdown file
 news.md
+
+uv.lock
