@@ -21,8 +21,6 @@ while (len(containers) == 1):
     xpath_string = xpath_string + '/div'
     containers = driver.find_elements(By.XPATH, xpath_string)
 
-print(len(containers), xpath_string)
-
 
 exit_code = 0
 
